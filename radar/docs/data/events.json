@@ -1,8 +1,151 @@
 {
-  "generated_at": "2026-09-29T01:31:16.825788+00:00",
+  "generated_at": "2026-09-30T01:07:27.609505+00:00",
   "sumber_catatan": "Sinyal dari Google News RSS — bukan kalender event yang lengkap. Kontak diisi manual dari kanal kerjasama resmi penyelenggara.",
   "errors": [],
   "items": [
+    {
+      "nama_event": "PDGI Fun Run 5K di CPI Makassar Siap Digelar, Peserta Tembus 500 Orang",
+      "tanggal": null,
+      "lokasi": "Makassar",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkNwNVdNVnk3SC1VU0FsR3BaVHB5TURtd0t6UlhjQlAyRC1oYWZjUzh5WnloVk9BRXhnbE03VC0tNUg4MXF0X0tpNmJGMEZpZ0g1UlRTMGhHYWh1aUgwREZhbmxEZXhjT0Q2RDREOHNoRDhQWlItN042V2lLWXJ0TVliM0YyUDk5bUU2aDJ2VnhRVXNxdE00Y0lMY3l6VUJjWDlrWHFmTW0wTDRP?oc=5",
+      "sumber": "google_news_rss (Menit Indonesia)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T23:51:15+00:00"
+    },
+    {
+      "nama_event": "Zigo Rolanda Resmi Jadi Ketua Umum DPP AMPI 2026–2031",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWF82VTdfdFpyQm5OdjNKdHBsTE1PTjBCRGFsb1ZfeFpJeXctQUxBUWRMVWJzanNZdlJXbWZxamtXTmtJVW1XS2l6ZFktSzFQU0dCUWpNTnR1cjhYWU1TaTVMZm14cENqSzl0NmhLVnQ1QzAwTWJCVFZtbG9xbWYzMA?oc=5",
+      "sumber": "google_news_rss (Prokabar)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T14:45:00+00:00"
+    },
+    {
+      "nama_event": "Ribuan Peserta Ramaikan SMARTFREN Fun Run 5K di Palembang",
+      "tanggal": null,
+      "lokasi": "Palembang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbFJzLUR5X3JYT1BkbUxsN0V2M2JrNnRuV3B0cnU2REVyT1pyQk5WS2wwZW9PMk1Hek0tc2FlZF9LSmJZX1RaQV9RbGJRNTNGRGhuRFFGeG9FOUxpNWk4M1A3YWRYekNmRWpQOG5UZUNPSU5nT2UxLTloX2NhYmljdjBSbFhOM090M25WMGlpQmxKQQ?oc=5",
+      "sumber": "google_news_rss (HarianHaluanKepri.com)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T14:11:35+00:00"
+    },
+    {
+      "nama_event": "1000 Lebih Peserta Ramaikan FUN RUN SMARTFREN 5G Palembang",
+      "tanggal": null,
+      "lokasi": "Palembang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzBCQTN4VFVnY09mc1lrTXdqQlBwYk03U3pBWGRzQVZySWg3ajBuMzNRVHNCbHNCa0sxQ2QxeHo2cUNLR2poRXZnNTBldlA0ODkyMHQ2LVFjQmMwRVNsOFN6OXdzRTlTRjc1QUYxV1Jta083X2ZXdzlaQndMa1h2bTJNNEN6VlpIcmhadW5fTC1DU0dVZGVtMw?oc=5",
+      "sumber": "google_news_rss (PalapaNews)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T10:09:48+00:00"
+    },
+    {
+      "nama_event": "PDGI Sulselbar Siap Gelar Fun Run 5K di CPI Makassar, 500 Peserta akan hadir",
+      "tanggal": null,
+      "lokasi": "Makassar",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmRIUmYtN0ZuZkhHaXlkZTJIdFlmY0dVOFpOU2QtU0tRc29TR2s4RHpHQ2pweFNKSUdNNl84RzlmMmdVT3pYT2NPX0VtcGZrZDc4cDNOdnFobFFHR2d6aFNwdWlmWEpBVkdqS0tYeEJiZWlkZXEzWTRLRnBUU2hQRGtYemhHOFR3dnJpdHlDQWRTdEtpTmVMNGVrSU1mS04ycDBuS0lkM2RxdWxBRWxLOEdEN2xWR0FDNlVJ?oc=5",
+      "sumber": "google_news_rss (RRI.co.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T06:51:00+00:00"
+    },
+    {
+      "nama_event": "PDGI Sulselbar Siap Gelar Fun Run 5K di CPI Makassar 4 Oktober, Peserta Capai 500 Orang",
+      "tanggal": null,
+      "lokasi": "Makassar",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTZDMThjYlRqVjZNMm5zNTd2U0h6aGxTN3RENktvMDU2NzhNdldWYjROeUxTMnl2a2dlVXNnZWRwcGxud19xNF90YTlWLTIyUnlXcnd1bFdYWmNWQzZBcTlLTC12Q0ZxcHAzQ0U4b04tcjFfOVFlNlF2RGJNUDVmS1BsTGpYZWNLM0FpUzMzTkN5bUpGRFJWa0F6U2pCMzAtX18yZUNfQkhWT1RoU1lVRTR0Y2c4Zw?oc=5",
+      "sumber": "google_news_rss (Makassar Terkini)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T03:54:00+00:00"
+    },
+    {
+      "nama_event": "PDGI Sulselbar Dorong Kedekatan Dokter Gigi dan Masyarakat Lewat Fun Run 5K",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDFyT0huN0FHZUFlOXZoS05xaWJjOHFRUFVyaDZPTi16WWZNU1cwbjd5RjVVUnBtYVdzTWFkZW9ZaUUwT2M4ZjJvdjEtSUZuQ05oWm1kUDhqdXhJbTRsYTdqQkFCemFJNDZhRWZsTUo0ZU0zSVBMRlp6bHJNdDMyTTlrZnFGb3VYSDZNdkhHVWpSUnpKYnBSOE5GUlFieDBOQ05NV0RBTEtRTDQwTG5TZ3d1VDhySThN0gGvAUFVX3lxTE5Mbk9jRUJwTS1wTzV4UGJrZzZ5R2M5UmRTdDNpUGFPUUU1a3MwUTVSYkxHTTNQeVg0dm4xZTVXeWc0LXFZbDgyWnNrdy1YaGF0aVRzelhJdTc5cGtsZFZuSHVMWlREY0UzLTZEbk5OUEpHNW0wbDd3Tmxsb044YldFaURxQUdGT1dZSlExeE51VENielhHWk1FdHlKTnVGZEwtbGd3cEJ1TUczZVFvOUU?oc=5",
+      "sumber": "google_news_rss (Disway Sulsel)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T03:45:00+00:00"
+    },
+    {
+      "nama_event": "Pemko Padang Dukung Bela Negara Fun Run 2026",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0NzMUpvQXdyaTZDZXhxUTNteFpuSV80UUVoMEhibnkxUVJPSHd4a3R6VmZsLUNvY3dKTXRPdlFLTE83VlMzektYN19BV0hkR1k4dVVFMy1kZnhqNTlzZUVPTUNKYzRUdTlud3doektrLXZBMjlLMzVad3VUOHNxOE1VRjZpQ3hpa0VvRXNzTQ?oc=5",
+      "sumber": "google_news_rss (RRI.co.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T03:44:00+00:00"
+    },
+    {
+      "nama_event": "Sambut Hari Kesehatan Gigi Nasional, PDGI Sulselbar bakal Gelar Fun Run 5K dan Baksos di CPI",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkxiODhyeFJSRDNCTThxZ0dtRXQyaUpHNzFzaW1PNXRLcTIzRElwZUlYbTg2Nk1EcWM3aFFUMThQNEp2TFA2Y25FSEdMLUM5aTgxbUtVWXRCVXRFMVBkcDlJNXVRNDlqaUItVUU0S1R2bWFDZDViRmhtTkhUdHZMalYwV0NJREw1cUJ3UEhIMmtKNmtqd2VnZTQ5X3lKc1M2WVNCWnNpX1J1RW1DbDU0Vk9vNVRNSnZWdHc?oc=5",
+      "sumber": "google_news_rss (berandasulsel.com)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T03:22:00+00:00"
+    },
+    {
+      "nama_event": "Fadly Amran dan Eka Putra Buhari Dukung Bela Negara Fun Run 2026, 2.000 Peserta Bakal Ramaikan Padang",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXZFTlZvekdBUFNwNDJ2R2w5RDdSSHNwTmlLNXJFbzBjR2JOMV9pemZNVnVCdXVCOVJqZ3BQWGd0UVRtVlFlbFctNzJ2U0lyWV9HR0w3R0x5U1VPc1FpbFlOdWdSdVh0akxHY0hxcmJTbFNLWjNGeGEtcFhyMDcxY1dianpSeWF3bkE?oc=5",
+      "sumber": "google_news_rss (BentengSumbar.com)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T02:58:50+00:00"
+    },
+    {
+      "nama_event": "Unbrah akan gelar Fun Run kelilingi Kota Tua Padang semarakkan APTFI 2026",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3hDbkx3NHNiekVUOEdfUmFfX0dYOWJJR1VOcDNxd2xPcjNrSzFqQ3RySk5BMDlqekJxSjd6emktRE5kN3QzZXA3ZGFTaG9XNnRkdFEtQUQzUVFscklHTE9rT2hKeHdTODZmOGZBNUxldVY2eGYyNzl0ZkhrSnY5RFVkS0VGcWR3MDVSUlZzS0FzRmh0dGJFVWlNNTZHQVRlcElzLUVnelpoaXFXNWJISU5PY1JWUnRF?oc=5",
+      "sumber": "google_news_rss (ANTARA News Sumbar)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-29T02:29:46+00:00"
+    },
     {
       "nama_event": "Bela Negara Fun Run 2026 Bakal Digelar di Padang, Diikuti 2.000 Peserta",
       "tanggal": null,
@@ -11,7 +154,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmFDQ2tfS3cxRDdxOTkxOTIwREFxSGVCUDFJX21GODM1WVh1U3IyVzZjQ1dJYlF6OW9XY0phQkRNNkNvaDFPaXc2Q2xQUUZEYURtX00xTmJRQnFEZ014VFQ4bzE1amxqMmJjVGxWS3V0WXp1eGZ3N21RMFZkWDhkczVReGpfUE1Kd0NmNldvNnIxTklsbzEzSmpURk1MR0tUNGlTNXBUcVBlR3NRTFZN?oc=5",
-      "sumber": "google_news_rss (lintassumbar.co.id)",
+      "sumber": "google_news_rss (Lintas Sumbar)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-28T23:34:22+00:00"
@@ -24,10 +167,23 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjIzZ0JWZGhpWTZZS1hEUUpySWViS2R4aW9pVHV6TXVmdkRfVmljV2V2dEFGZGNJWGtRandWRE90YWlJUnBDRXc5eHZHTXNCWGY2bURDUWNKb2xiMXQ2X1pkblFyMFhTMC1sOTJ0RzN5bVE4UmdHU20yenBhWUhGcjdhUFRxT2J0WDdQNTh2dlVVbWxDWEl5WktXWHR0Zw?oc=5",
-      "sumber": "google_news_rss (Koran Bernas)",
+      "sumber": "google_news_rss (koranbernas.id)",
       "segmen": "komunitas",
       "keyword": "fun run 2026",
       "published": "2026-09-28T19:29:00+00:00"
+    },
+    {
+      "nama_event": "Bela Negara Fun Run 2026 Targetkan Ribuan Peserta di Padang",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR05WNGNyVFdtaEREdlZzclRQcXNMa2hRTVVxTTdTaEN4eW9sSUZEdE1oeGZjdkRBalpkZVdyc0lqUEJoVFFTak8yVlp2ZnVkal9Lc2Z6YW1tMjl4R2M4VUw2YnYyYURiRkpDdjdmbmtNd0RRT1pMVXhUNjg3UGNKZUp4X21IMnJRc01ETVVXVWdvZVF1VWxLQkRPMTczX2xZdXc?oc=5",
+      "sumber": "google_news_rss (RRI.co.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-28T17:35:00+00:00"
     },
     {
       "nama_event": "Padukan Olahraga dan Edukasi Sejarah PDRI, Padang Bersiap Gelar Bela Negara Fun Run 2026",
@@ -41,19 +197,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-28T16:01:25+00:00"
-    },
-    {
-      "nama_event": "Wakili Bupati, Farhan Lepas Jalan Santai Milad ke-17 Ma’had Daarut Tahfizh Al Ikhlas",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3VFWjNJOS1Pc09yZUNheHZGNV9FX1h2WVdWc0Q0T2VoSTNHQl9iTmFSM3VGdUZYZ2xIWmxiYUdZejlYV1ZMWHJUa1BuYWhsZGxMQ1MybFcwVUNYMHh3WHNpRDBzUDllTC1wOE9saG5rMzJGM2Frc2gwdlZTWW40ZHI0NTdXYjdXN0M5LU1DZ0tGVXBxRGhhUGtnaDdIQ1VLSVh5bWVIMmlYT1ZEUVVRWUJXcC1RMEZKQ1Nma0tlczg?oc=5",
-      "sumber": "google_news_rss (AcehEkspres.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-09-28T15:40:08+00:00"
     },
     {
       "nama_event": "Polsek Kelapa Gading Gelar Fun Night Run 2026, Jaring Bibit Atlet dan Cegah Remaja Terlibat Tawuran",
@@ -128,7 +271,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUNIRW9CeUNlNHBCdlBjWndrOWwwWDNGUEtuQmdoLUZxVjRTdmpiU1BCYmJXejN6Q1hWQ3BhS3RlbXNWZUZtSk5lVndDakNIZjZDTkhzQ1RkRkZwb0tpR2w2TGNsWml6WWx4czFBRG5CUEJTNEpnRnBmRWwtOVl3Z0JYVDl0R1F1cHRJTGJoRmtXV1d1aFpqbVlwWXUwRTBiZnhyWkNTVQ?oc=5",
-      "sumber": "google_news_rss (mix.co.id)",
+      "sumber": "google_news_rss (MIX Marcomm)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2026-09-28T13:22:00+00:00"
@@ -160,14 +303,14 @@
       "published": "2026-09-28T13:15:37+00:00"
     },
     {
-      "nama_event": "Semarak HUT RI ke-81, Polsek Pakel Amankan Kegiatan Jalan Sehat Warga Desa Pakel - Tribratanews - Polres Tulungagung",
+      "nama_event": "Semarak HUT RI ke-81, Polsek Pakel Amankan Kegiatan Jalan Sehat Warga Desa Pakel",
       "tanggal": null,
       "lokasi": null,
       "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaU1QZW83ZkdmV3Vhcmg1YkdJTHJTWC12T3hwLUNBT2pxLUVQUjZyZkMwRFZFYTRQZEQ1TjYzTDd4M01MbUhGU1V1UUt3S2g0TG5kdkIxN0FfSGpnZEFyMmRLbkxfUkd2X3NpNnBxVHpoSUFTWXJ2TVE5SU5MSXhDelVudUFEei1ETVdZSU1nSXc5eWxyOXl6bWhGUUhwUFlsamlOZW02UlpOa1lVSFEtdnBDZEotSll6MzlKdzJ3NTVIWEFISWN4Zzc0d1lsQQ?oc=5",
-      "sumber": "google_news_rss (Tribratanews - Polres Tulungagung)",
+      "sumber": "google_news_rss (Tribratanews Polres Tulungagung)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-28T13:03:02+00:00"
@@ -180,7 +323,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnpXNmprWmo3ZGNFcGlxTXNyQnM0b3JFYWJnR1NWVFE1RDZPTDlDTHgyYThIeXVBcUFXWEZIbndSSk4yWlBncEFIZVRrVXB1c1JpWkYxcU1EUWRrbmNBeW9UUV9Ob2VnT3FHUDB1V0x5T29EX1RkYmZuRWhmRG5rWll4WlpWMDM1YlZ2LUF2bFJaWFRDYllmSUNyOHl1MXFHTWQwWGx6MExwZk5BVkxGUEJNTQ?oc=5",
-      "sumber": "google_news_rss (Ngopibareng.id)",
+      "sumber": "google_news_rss (ngopibareng.id)",
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2026-09-28T12:37:00+00:00"
@@ -193,23 +336,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNdXp4Q2FUNjlyalhwZGJTbzNPOGlJbXFpTFJtWTI4UGlyT29iR05iRUM0SjdoX1BROWRrOGdpMDlhOERxaTFnRDh1YTByeFVLOXVBUndQV0xHUHJ5VWdSUWFfUUJqQUFMRFJlTHpMSVhQQlhfd2x6LXVwa01MdFYydmdzdXhiTGlpaXVja3JNV2xWQTU5dkM5Vy0xSUREbDgwSXV3ejdmX0tDY1FPdDdYNFByTFV0RjZsUWVtUC1PQ2piVUFqVlF1UkFobFB0RVNENFJub2xaekF2NHJjdm9fZ2N4QVM0LW1qVGxwS1BDUEtmRXg4SmsyazZqSldENXE5WkxfbkdPM2JVdzFRX2c2WjZLeFQ3aUhGbTVUSmFjTWVlRHI3YVU4?oc=5",
-      "sumber": "google_news_rss (Polres Kutai Timur)",
+      "sumber": "google_news_rss (polreskutim.id)",
       "segmen": "pemerintah_bumn",
       "keyword": "fun run 2026",
       "published": "2026-09-28T10:28:41+00:00"
-    },
-    {
-      "nama_event": "Girls Fun Run Jadi Ruang Perempuan Bersosialisasi",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFdVblJZdURPZndoamtVY3BFdDJSaGVieTh5QVoxeWVjYURrVV96d3N4a0RuSlJlSGtVdjVuSFRfNmtzMDBBYUthQnIyTGlfcW51UF9vYXAtclp4NUZvdXdnQ2FGbUFPSkI1VllNd0w0NHRaYkhNSTRoLUpCTURzdmc0UDZDZWlVNUFTZFU3Yk9VT19QblE?oc=5",
-      "sumber": "google_news_rss (RRI.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-28T10:08:00+00:00"
     },
     {
       "nama_event": "Rayakan HUT ke-37, Bank Raya Hadirkan Pengalaman Raya Active melalui Jalan Sehat",
@@ -232,7 +362,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblJKY1A3RWtwTWI3Qy1rVDBUUG13VkplQ1dxVWpOZUo2V1Y0MEFiWVE2NDVoeUFoU1d1TzZTMUZfUHRSZ1M1aDhzUmtLeVZBOTdxdVgzNWhfMXlYMktoeHF4TmY1LUtLMHlNU1pzZ2lGTjV1LUgzd1BJWndxOUVZaXFIU2FoenR6b2ZYaDF3XzJ0REs2bURpUnExZXgtSEtQQ0U1VXM3Y05MZjJLNVVPRkRhVzl4VFlaOXVObG1PbUhGN3fSAcgBQVVfeXFMTmprbXhLUmpDbHNtRDVyTk1yUjRMdzFtd241aG1sUWdqdTZPWHg3dTFlNklBeXRCUTZUb212bHh2YzJSV2gwUVlYUGZhaXQxdUJfa3pqQkhxa0JkUXpDZ3ptS1F1MzlPb2RRX3BhLThZNzVPNm53VjJzcURMaVBKZ3RVdk1icTdYVjJkLVJYeWtyYTYzbWRTSm1qMkJLMkh2YV9MTVhmSmt6eHNPdGNwd28xWGx6dTlVVmF4ODdKUEtRWTFqeEFqaU8?oc=5",
-      "sumber": "google_news_rss (padek.jawapos.com)",
+      "sumber": "google_news_rss (Padang Ekspres)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-28T10:00:29+00:00"
@@ -264,6 +394,19 @@
       "published": "2026-09-28T08:28:13+00:00"
     },
     {
+      "nama_event": "Seribu Pelari Jelajahi Pesona Indarung dalam Semen Padang Fun Run 2026",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm1jeHMwZndad1B4TWFmM3VwbkhWeTVKNXlCZHhkUmM0aTVnaHgxN2NkR2R4cWVaMl9EZWlQSzVlWUFxSE1GTTlfUEZrRUY2U1d6eEYzTEFWR1JZaENia0ZMSkI1eXZKN1RyUGlGbUlaOG1OR1Q2ZkxqSHdyS0ZyMGQwX3VnbVhWeVBwUlJybWpWMkFUODB0YlJrSTI1Qk9XQ0ZmNEVKdGItLTNNcTQwWlFnN1F6aTdlY0pta213UlZyRUptSEp3?oc=5",
+      "sumber": "google_news_rss (semenpadang.co.id)",
+      "segmen": "komunitas",
+      "keyword": "fun run 2026",
+      "published": "2026-09-28T08:04:22+00:00"
+    },
+    {
       "nama_event": "Menyusuri Jejak Sejarah dan Alam Indarung, Ribuan Pelari Meriahkan Semen Padang Fun Run 2026",
       "tanggal": null,
       "lokasi": "Padang",
@@ -275,19 +418,6 @@
       "segmen": "komunitas",
       "keyword": "fun run 2026",
       "published": "2026-09-28T07:39:15+00:00"
-    },
-    {
-      "nama_event": "Seribu Pelari Jelajahi Pesona Indarung dalam Semen Padang Fun Run 2026",
-      "tanggal": null,
-      "lokasi": "Padang",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm1OejRpYWR5bFA0TkFIVVowdFBudE1JSWoyWGxPYmJkVHpqVWtQMFFMY1FkdVlKb1ByRWl4eUJORms3N0pYUEJJQ3Z6M0J3b0JBa21MZ2dPZmdLWUpzN3k1SG9FMUk3elZQMHU3dnd0Z1U2TWt2ZWVmeXVQM09EWEVuNDZKUDRoQm13STJzaTE5a3hmNWlTd1ZiVWU5QkdyQ2RSYw?oc=5",
-      "sumber": "google_news_rss (Majalah Intrust)",
-      "segmen": "komunitas",
-      "keyword": "fun run 2026",
-      "published": "2026-09-28T07:34:14+00:00"
     },
     {
       "nama_event": "Ribuan Warga Labuhanbatu Meriahkan Jalan Santai HUT ke-81 PMI",
@@ -349,7 +479,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXUxRkJ3S1B6QkFzVm8ycDNueEh4ZmlaRWJLbFdQMTdVSlhweE53TllOX2Q3YzZWVmZ3a3Fqd1o0cGllZDloZFBQMmV4NVJQS255VWhXMjlfb2taYkU2N0xNREpqNDBtVTdXOTNQX29zZTR5WGh4TVRqSlVFU1FWbDhvREJhdE1DNXlscnhtT2Y1cmhTTWVRa1ZEZmlHaHlOT0VhZTZFc05vV2w5d0Ewd0JJSGdvN0oySXQ4SXdxckd0S0JxaGxvLXE0NNIBywFBVV95cUxNaXUxRkJ3S1B6QkFzVm8ycDNueEh4ZmlaRWJLbFdQMTdVSlhweE53TllOX2Q3YzZWVmZ3a3Fqd1o0cGllZDloZFBQMmV4NVJQS255VWhXMjlfb2taYkU2N0xNREpqNDBtVTdXOTNQX29zZTR5WGh4TVRqSlVFU1FWbDhvREJhdE1DNXlscnhtT2Y1cmhTTWVRa1ZEZmlHaHlOT0VhZTZFc05vV2w5d0Ewd0JJSGdvN0oySXQ4SXdxckd0S0JxaGxvLXE0NA?oc=5",
-      "sumber": "google_news_rss (padek.jawapos.com)",
+      "sumber": "google_news_rss (Padang Ekspres)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-28T04:00:00+00:00"
@@ -379,6 +509,19 @@
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2026-09-28T02:55:52+00:00"
+    },
+    {
+      "nama_event": "Dukung Bela Negara Fun Run 2026, Pemko Padang Siapkan Ajang Olahraga, Sejarah, dan Pariwisata",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONldkT1JkaGp1MmJRQl9sRlA4THJKeUJORHlGelh1VGllYWF5UzI3QVIySDRtU3gwSDZXOXdUV2pCRTlKWlZjTlRlSVFsMGt0cWJycEhEVEhKZWpHN0JTb2xMcW1GSU9Ud3hQU1J4S1FXaTFHVEM1X0RyTHg4R2F5enZNN0NsYUxSRjdJYVB6SHpfUHBrbXprS3RJM2NGZHFpT3kyclAzeEMwamo2WHNnNTQ1UjBCUUJ4TUlPeHZBSmQ2cGE2WGNHXw?oc=5",
+      "sumber": "google_news_rss (jurnalterkini.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-28T02:43:10+00:00"
     },
     {
       "nama_event": "BI Banten dan Pemkab Tangerang Dorong Gaya Hidup Sehat Lewat Tangkab Fun Run 2026",
@@ -414,7 +557,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGxYbWxoaUJiMXFMaHE5ZHFsMldic2h1REhnZTVkTXdJMjBzZ0dJa25vS213b25pY0JOZl9NblBRbGNHMHBvVVdleGJJNWI1YTgyeFAtc1hxN3RBem1IZnRJOXhmdS1jMWxiOTE1NVU2bVR1alFlbHh5S2h0d2s2cTdoZnUxaUhvQUZkX3VQM2I3bWZYbHU2d2JkRDc3TkJTR1hYeTF3ZFIzT1c3ZzN4bk82a3BDckYtNWtGcmZCNUpjdnF3?oc=5",
-      "sumber": "google_news_rss (Cakra Bhayangkara News)",
+      "sumber": "google_news_rss (cakrabhayangkaranews.com)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-28T01:36:15+00:00"
@@ -446,6 +589,19 @@
       "published": "2026-09-28T00:04:51+00:00"
     },
     {
+      "nama_event": "Dari Camilan Sehat ke Bisnis Berkelanjutan, Lemonilo Membaca Perubahan Gaya Hidup",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWh6R1pxdXVudExKRVQ3THhGTmI4REhLaUJucjNIU2tRTkdDWjRVRkpEUUowS0FCdlJHYW5Oa0RRTW1Fd2tMVGd1dmtiOEc4aDlfRFA5RnVTY1NNQkZ5Y3d6eWFTTGRLaHk3Z1JhUW5HS19KS0xrT0FSaFc1eTN4aHE0dTBEejgyOWVLOGliR1RrYnpjM1JUYjY1SjVPWEg3Qm5nUGtYeGdQSFNnV3hfemlQQ3JJaFZqdXJCWGJR0gG-AUFVX3lxTFBxaHpHWnF1dW50TEpFVDdMeEZOYjhESEtpQm5yM0hTa1FOR0NaNFVGSkRRSjBLQUJ2Ukdhbk5rRFFNbUV3a0xUZ3V2a2I4RzhoOV9EUDlGdVNjU01CRnljd3p5YVNMZEtoeTdnUmFRbkdLX0pLTGtPQVJoVzV5M3hocTR1MER6ODI5ZUs4aWJHVGtiemMzUlRiNjVKNU9YSDdCbmdQa1h4Z1BIU2dXeF96aVBDckloVmp1ckJYYlE?oc=5",
+      "sumber": "google_news_rss (youngster.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "family day perusahaan",
+      "published": "2026-09-27T19:02:24+00:00"
+    },
+    {
       "nama_event": "Polsek Mojo Kawal Kegiatan Warga, dari Turnamen Voli hingga Jalan Sehat HUT RI",
       "tanggal": null,
       "lokasi": null,
@@ -466,7 +622,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2pDRTVYcXprTDI5NzJ6SFRmdHdmZ1lsY3ZyRndHSFpBc2JVbUQwRTJiLWoxT1BGLUEzU3lLTENvSmlfZWVqU2FrRGlZdHV1ZDFlQlcwVWdwYXZYRW5xV1FGcEI3a2p0R054ZHdUUDVvRTUtMDVYMFdESkM0Ri01eUMxRTZua3JrZXlLU3RUT0RQVXc?oc=5",
-      "sumber": "google_news_rss (Media Pelangi)",
+      "sumber": "google_news_rss (mediapelangi.com)",
       "segmen": "komunitas",
       "keyword": "fun run 2026",
       "published": "2026-09-27T16:40:19+00:00"
@@ -483,19 +639,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-27T14:40:00+00:00"
-    },
-    {
-      "nama_event": "Semarak HUT ke-1 TB Mulya Tani, Ribuan Warga Tumpah Ruah Ikuti Jalan Sehat",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmQxX2lNeG9mUHY2Y2czZEpibkJITVphYWx4SUFfLXplVEJqVlMtbU0tMW8wMV9xaEFDR3RDYWhTSExiUXQtZzF3VDVxN3lQZlIzbVVMUjJpa1YyczIza05hc2ZFRHZ0cVZJYnFvRVExVWpKRTFuWGpwcFJGUDdlV3Z6SzlGRnRTaWVtMlg0WFJnUkpFenBVaUdHbG9lSmlaaU1kblc1ZFpIZHNhSlpYb1V4ZVpDT25uZ1VPV2U4Y2w?oc=5",
-      "sumber": "google_news_rss (Kabar Jateng)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-09-27T14:08:00+00:00"
     },
     {
       "nama_event": "Ribuan Warga Semarakkan Jalan Sehat HUT PMI ke-81 di Kota Tegal",
@@ -518,7 +661,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2dwbmdaem9aRnhrSVV0RkJQX0xSX3ItS2FfTFphNXR3c1dIakd3WDlEX1AtT1I2bHdpWDR0STMtZzctY1paZmZzdkE2dHVNTDl5cWFBbmxRelRqODI0OE5FcWQyNi1uT19WVWtEVmd0bGZWTG9zVEEwckJZZmFxQm43X3hXNHViZWptY1dkVGpjclEzTU9wVEQ2YlZhRUxnbXUzUWg4NFliWHhUeU1LVVQ1WQ?oc=5",
-      "sumber": "google_news_rss (suarabaru.id)",
+      "sumber": "google_news_rss (SuaraBaru.id)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-27T13:05:29+00:00"
@@ -570,7 +713,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVVVMG8zcFZrV2tfWEZON1BJSTlUVy04YUR3OENncU5raERqQTFpaTVEYThwLXMwVG4zZ2ctTl9kNW1BT3AwV3FuTXBIVlBKNHJURkxpYy1wZ2ZFMC1Ebkk0Mzc3YXFJbHV6ajhBc0ozNEd4c2FkbXdubWYwLWRiMDJ2X2JjMGMyQk5qRkdHdHN6SWhZcDFWT1BxLTEzOE1fRE1hVXh0ZjlIS09BcmFNY195ZldaMjZCM3p0NUZsRUtoTUt2ckhwNGszMEJPd2FmdnRkVDJwdHhQVVVESEZmMUNLcw?oc=5",
-      "sumber": "google_news_rss (TangerangNews.com)",
+      "sumber": "google_news_rss (tangerangnews.com)",
       "segmen": "pemerintah_bumn",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-09-27T11:57:00+00:00"
@@ -600,19 +743,6 @@
       "segmen": "pemerintah_bumn",
       "keyword": "HUT BUMN fun run",
       "published": "2026-09-27T10:36:21+00:00"
-    },
-    {
-      "nama_event": "Kapolsek Kediri Pimpin Pelaksanaan Pengamanan Fun Run Pangkung Tibah Beach",
-      "tanggal": null,
-      "lokasi": "Kediri",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjNDdjQ1bmNJdk1MU1RWaFBraDY4TlJ5bmRUSU4tQjhwUUJMczFCSy00RDQyamx1Y3NReWF3SnNfUElQRUxieEF6c242bF8yVkFMbjJtOHRIb1lBQ2tUbmNBaWY5RDJHN0pudGVUam9mLUY0QXY0cC1RUHFtLTJYdG5wQkxRRVFaSjA0bWMxQ0c1RWY3UENYOTRLOUxrS2tNTlZUMFhOR0RhVkdGZG9YT3pVMW5HT09N?oc=5",
-      "sumber": "google_news_rss (suryaindonesia.net)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T10:21:00+00:00"
     },
     {
       "nama_event": "Kasus Suap Nurdin Abdullah, KPK Periksa Pegawai BUMN dan Pengusaha Alkes",
@@ -719,19 +849,6 @@
       "published": "2026-09-27T07:47:21+00:00"
     },
     {
-      "nama_event": "Layang-Layang hingga Fun Run, Ciputra Dorong Pangkung Tibah Jadi Magnet Wisata Baru Tabanan",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaU9TWGgxQ1l6SmlXYV85QTBLY3ZWUm9KZUV1Q0ItZUgwWXF3cExMOUVOa0RhblFOR3lmOXVuNm04OTBnOTNGNUNyQU9wUm5jR2FyYmxPLUhoUVZfYmlXTkhwY2Voa0g5U2ZPbHdsVzBydXpGRlVxd3NTbGpNT0JmODUyQk5lTzdEOW5HZG4wend2bEVfVXF1LU1DOU5kZ0VnUmE2cF9VajFsZm9NZTlacmlBOHZvMzN6WFdhd0g0UWFmcUduRE84?oc=5",
-      "sumber": "google_news_rss (KabarBaliHits)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T07:41:53+00:00"
-    },
-    {
       "nama_event": "Tak Sekadar Lari, Tangkab Fun Run 2026 Bawa Misi Sosial Bantu Daerah Kekurangan Air Bersih",
       "tanggal": null,
       "lokasi": null,
@@ -758,19 +875,6 @@
       "published": "2026-09-27T07:39:00+00:00"
     },
     {
-      "nama_event": "Fun Run Makin Digemari, Event Jadi Pemicu Giat Olahraga",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTVPa3F4bVFKYThlZWg2a2taN0xJRmoyV2Mxc3FqTkE3RnhqS0lzV25kN00xUnhfRXJpajZGMlk4QkIyYVptTXRHM2UyQkdpM2FRU1p1TnZIUWhpd25Pb3J1WXp4WkxDMVN2Q2lFYkw2LWxHU1hpTmJNdmY3cDNmZnI5ZWxGMWhKTGphVGxWYTFxRmNvcUZ0MA?oc=5",
-      "sumber": "google_news_rss (RRI.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T07:37:00+00:00"
-    },
-    {
       "nama_event": "HUT ke-81 PMI Labuhanbatu, Jalan Sehat dan Penghargaan Pendonor Warnai Semangat Kemanusiaan",
       "tanggal": null,
       "lokasi": null,
@@ -782,19 +886,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-27T07:34:00+00:00"
-    },
-    {
-      "nama_event": "Semangat Hidup Sehat Menggema di Pangkung Tibah, 756 Peserta Ramaikan Beach Fun Run 2026",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ25nVEYzcy1MNjJOQ3NiazJsMmZqdW1zc1VZVzZmOXE2Z3EycVpJbmlfQ19YNXhjMzFBNmtXOHhwYlhyOUhlX0V2UnNnTjg0TWRaOG1jNTVpQk5HVlZYZGdFZTZRekMwYV9aUGdrYjhQczhFZ2VpT3cxdnd5MTlycFBkNWZrRTRCb29wd0RvSzQ1N0tQM0gtYmNaS3h0dEdzSlh4ajNOVkM5NDg3eEFCdw?oc=5",
-      "sumber": "google_news_rss (UPDATEBALI.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T07:28:38+00:00"
     },
     {
       "nama_event": "Potret Antusiasme 10.200 Peserta Ikuti Sultan Agung Fun Run 2026",
@@ -817,21 +908,34 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQk56WFA0ODZrN0tydkFiZGhFcGVad3NSMnN6Rk5tVjk5UzJLbGJZTFp0c3N6ZWFBdThycVlCa1hfbUM3ZENDSmJUdndhUE4xeXV3cVM4blMxbkotM29salp5QzlxTXJycG9CMS14UFdPNnJ5TjEwYkRXejJPY3V2cDhXNmVNT0lSa2ZvS292bEpEcEpiMF9hNEYwR01taFZEckYwRjdJZW1RRkJ4U0FpRHczVHRFVnJzbjR5YmRNbw?oc=5",
-      "sumber": "google_news_rss (Jurnal Terkini)",
+      "sumber": "google_news_rss (jurnalterkini.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-27T07:15:55+00:00"
     },
     {
-      "nama_event": "Polsek Kalidawir Amankan Jalan Sehat HUT ke-81 RI Di Desa Salakkembang - Tribratanews - Polres Tulungagung",
+      "nama_event": "Polsek Kalidawir Amankan Jalan Sehat HUT ke-81 RI Di Desa Salakkembang",
       "tanggal": null,
       "lokasi": null,
       "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZS1HZmtqYVVJTUtaeHJRcXhKZmh5ODJWM0lXQTM5dm0xQlVJcEVTREJZOUZXNVZYWFR6cEp6OVd2Y1I4R1ZwVUUzYlFadG9KRk1PZENuWWlxNTRraUxZMlpBTHBCc2ZWUHNwcUFyMTRKZnVLcjVubEx3d2pLRlZzdUUzemtGN01HVWNiUllwNUVIWHlBaWkwcFRJZU13ZGoyaVBuUzl3bU1LUE1LcjJySlpSN3llbVdwbV9EakZwQm9vdw?oc=5",
-      "sumber": "google_news_rss (Tribratanews - Polres Tulungagung)",
-      "segmen": "pemerintah_bumn",
+      "sumber": "google_news_rss (Tribratanews Polres Tulungagung)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-09-27T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Warga Antusias Meramaikan Pesta Rakyat dan Jalan Sehat di Kecamatan Senapelan",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM054TF9yZjRYTy1vQ0Nlc2dIZE9mVFVWQ3cwaXRjU2VqaWZEWlhOYXREZ1gwc3NkeGlKdW9DRm9naThsMFhoeVQtY0FsY2hpalBHbllka1lsdlhWSnJZSnF1MmFaUndiM1ZBekJsNnNpZnB5UHN4YWpsSVRtZTFtNG9FSTRIUlhDWDVyTnZSMHBsaXh6WDRpS21zbmg3M3pMeldWLW4tNGRjanUxQ2ZWZnZFQ21XQQ?oc=5",
+      "sumber": "google_news_rss (Tempo.co)",
+      "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-27T07:00:00+00:00"
     },
@@ -842,8 +946,8 @@
       "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9RWV9LdWpnMFN6YTd5YnBKR1RiV3B3S1oxMy1LVXozcHBGMlVNSG9SVjRHa0Qta2FuZGVOTHRlZGtwUnRlQ2E2UkFZY2JDSGZaaDJ3WmFkVlBWREdUdUVTbHBLMEdYZnV5SG1WeTlsSUIycWVXSDNXNm0tT1RXMVU2Qkt2UWZmVVUwZU82RXRWSUI0SUxtUjZzLVJNdU1RODVHdUFLbUFMbDFyejVEanR3?oc=5",
-      "sumber": "google_news_rss (Jambiupdate.co)",
+      "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaW5pc1A3RWJhSk8ycFBMRy1FbTh5b3BMbjFYNmJ6QW1zbVQ2LVJMV2dtZE9hbkZLMjE5X3NZbU9tc2NPTkZNT0tUT0NjRnNXMXNOUDR2QjRWRGNLWFR3dm1fRGFMYVJaSDNKdEEyMzg3Ml95MGRhTTYteEQ1QkFwbVZQWmFlZjNOVkdwMEw5ZEl6Mk1TM0syTFdXbjlBemc3djI4RWZ5R0ZiYk9fdFpnRDRPRUNZOFp4?oc=5",
+      "sumber": "google_news_rss (jambiupdate.co)",
       "segmen": "pemerintah_bumn",
       "keyword": "fun run 2026",
       "published": "2026-09-27T06:53:47+00:00"
@@ -888,19 +992,6 @@
       "published": "2026-09-27T06:10:00+00:00"
     },
     {
-      "nama_event": "Sambut HUT ke-81 TNI, Pangdam I/BB Pacu Sinergi TNI-Polri Lewat Turnamen Golf di Deli Serdang",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "hut",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnc2QlhUSGMyUWNmcEVSNVRNdkhtYmFQem1WMjU0RUdCMFdYUW5rRXF2MmNpZWoxZW94OXZHbFlvUzNCSnp1NmdPWHV6Z2hwZ0pqeDRLTTJJa2JJTTJ5WkM4V3dUSl82SWYzNy1XVXQzQ01lQ2dPMHNkZzlBRHdkUXM3eGhIN0JhY0QwSDNTWWJvM0FpSzhPVDkzbXBKQTdIb2hIWGdsdkZoTjJ6aEJDbElXTWRvRU1VUWVTU21Odm83a3RiZzVpRUVYZmTSAcwBQVVfeXFMTjZ3NkJYVEhjMlFjZnBFUjVUTXZIbWJhUHptVjI1NEVHQjBXWFFua0VxdjJjaWVqMWVveDl2R2xZb1MzQkp6dTZnT1h1emdocGdKang0S00ySWtiSU0yeVpDOFd3VEpfNklmMzctV1V0M0NNZUNnTzBzZGc5QUR3ZFFzN3hoSDdCYWNEMEgzU1libzNBaUs4T1Q5M21wSkE3SG9oSFhnbHZGaE4yemhCQ2xJV01kb0VNVVFlU1NtTnZvN2t0Ymc1aUVFWGZk?oc=5",
-      "sumber": "google_news_rss (BITV Online)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "HUT BUMN fun run",
-      "published": "2026-09-27T05:39:00+00:00"
-    },
-    {
       "nama_event": "Sultan Agung Fun Run 2026 Diikuti 10.200 Peserta",
       "tanggal": null,
       "lokasi": null,
@@ -914,17 +1005,17 @@
       "published": "2026-09-27T05:34:52+00:00"
     },
     {
-      "nama_event": "Sedikitnya 2,600 Peserta Marakkan Suparma Run 2026",
+      "nama_event": "Kawal Ketat HUT PMI ke-81, Polres Labuhanbatu Terjunkan Personel Amankan Jalan Sehat Olahraga",
       "tanggal": null,
       "lokasi": null,
-      "kategori": "lainnya",
+      "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUVUa2JMWWJBR1BrSEM4R0NTTGJ5MndiWVdUN2ZGdnQxc0tJdThBRTl1YWlkS0hnWjVVX3h4blA0SThDTUxTQm1kU1dQcXFoNWJpQ2htR1ZTdTFGQXQyeXM2TGIyOGowV2FiMHY5a2MxajFiNmxScHhTc0ZUY01MOVhxRm1vR1k1VlBhaTI0NA?oc=5",
-      "sumber": "google_news_rss (kanalsatu.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T05:20:00+00:00"
+      "link_resmi": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUmtvbDJBeVZXcy1VdE55WjRLMVZDa2x2Q3FoNFJ4UTB4NkRCYkJ3UUx1M0hWVklIT3FxdXJMUkI3OU50LW1Ld21OaC1wZmlrLVFPV09hSl9vSUJ1REd0T3NnMVVYWHltRFFuQ3FHbEpjUGM?oc=5",
+      "sumber": "google_news_rss (Redaksi Satu)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-09-27T05:19:06+00:00"
     },
     {
       "nama_event": "Perdana Kali Diselenggarakan, Ratusan Pelari Ramaikan Doeta Fun Run 2026",
@@ -938,32 +1029,6 @@
       "segmen": "komunitas",
       "keyword": "fun run 2026",
       "published": "2026-09-27T05:15:00+00:00"
-    },
-    {
-      "nama_event": "Meriah dan Penuh Semangat, RAP Marlojong Fun Run Bhayangkara Sukses Digelar",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnZlWHZTcWI1d0QyTUtvS0FwNThtLWVTWlNGOHFzdHItQ2NvSEFhWkF2ekQ1X0ZJNUtqNFlITWtfdThWN1FldzBYcF9ieG5OZ09JVC1YbW82ejRBT3lvUk9Yc016ZHcweDlYTEtLeExZTDZNQ0RQeTNUREJMWmRmajRvV0t5ekI0anBMbUVXc2YxMDU3elMwR1puZWZCVFNsQ3J0VU5haVRROXQ0WmRDYlowSks?oc=5",
-      "sumber": "google_news_rss (Warta Mandailing)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T04:52:32+00:00"
-    },
-    {
-      "nama_event": "Bangkit dan Berkembang, Family Gathering PT Federal Izumi Manufacturing Digelar Meriah di Bandung",
-      "tanggal": null,
-      "lokasi": "Bandung",
-      "kategori": "gathering",
-      "penyelenggara": "PT Federal Izumi Manufacturing Digelar",
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDlqZzlaSWk4YVJuenlHNjNLTmxxTTdPYWRhQTlOcExwOFJINHdzMjYybW5yMllNdjNUWHQ2b1BjbnhXRjVyUjRaRWtqTXd0eTBxZWh4VXVoVVVuWXIwWm9LVi1iREt6SlUza21jRURuLVM5TlZ0Rk1CeFB3U24zRmxxZVV6UDV2T05VbGp4SXJSVnQwdTh4UVNYQmMyTklxLUVUNXdrdnpzazgwVng5WEMyRGNpZDItTGltM2M4TXZjSDk0WGxfbnBRSQ?oc=5",
-      "sumber": "google_news_rss (koranperdjoeangan.com)",
-      "segmen": "korporat",
-      "keyword": "family gathering perusahaan",
-      "published": "2026-09-27T04:34:19+00:00"
     },
     {
       "nama_event": "Lebih 2.000 Pelari Meriahkan TNI Fun Run 5K 2026 di Jambi, Gubernur Al Haris Lepas Langsung dari Garis Start",
@@ -992,30 +1057,17 @@
       "published": "2026-09-27T04:27:52+00:00"
     },
     {
-      "nama_event": "Semarak HUT ke-81 KAI, Daop 5 Purwokerto Kumpulkan 137 Bibit Pohon dan Gelar Family Gathering Penuh Kebersamaan - Klik Anggaran",
+      "nama_event": "Semarak HUT ke-81 KAI, Daop 5 Purwokerto Kumpulkan 137 Bibit Pohon dan Gelar Family Gathering Penuh Kebersamaan",
       "tanggal": null,
       "lokasi": "Purwokerto",
       "kategori": "gathering",
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb09iYnZNR3prUlBSeHZMOUJMdmVQNlNvZnpnSHlsTkt3OFphSTMweG1rN3FURVBEb201SXMyY1NvU3g2Z1Jzcy1SNEZ4djkwSUF1UndjTzQ2eUxtQ2NBUVhCTzBlRDlHTGVSTVh2em9PcE5KMFlRRERCQ3RGVkhtN2ZTcXVOM3dkbG43QkZlWGRZOTc2dFplMHJzUmxOdElNaUpUR094U2E5QTYxdEhrMTdxT2xiUnhXdERMczAwOHplZjZrMWJ6SkFNdzZ4RXRaZktwUXk5V3ptMkJMUExJRDVwNW1ndmNaMWx4dmJwZUY1TzTSAfgBQVVfeXFMUC1lSEFvV212TmFWQjRqQjZjM0J6NDNKQ3cyWkIzX0dFRXh1ZG44U3FkeTRfdHB6bXFBSlJseWs3cWVxdXJUY2RMTHZQSnM0ejZPOXpWWFpha3lvcVhCdEJUSWhQbVVkT3VGUHZmWnBjcV9URG1aeGZjakhsaExHS0FuMUIwSVNBcURFcUtqZENCM21SOUNTbVRpaXNIZi1VMmE1Nm5fc0Z5UjVBM3VWQU1LXzNJV1FCaUN2RTVnS0tLLTlGRWZvUElSbDFRV0JaaGdpaWIzN1NEd1NMRjNBWHJGU25iYkZoRUVqaU9tamZCQjlxaVgxLTA?oc=5",
-      "sumber": "google_news_rss (klikanggaran.com)",
+      "sumber": "google_news_rss (Klik Anggaran)",
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2026-09-27T03:11:49+00:00"
-    },
-    {
-      "nama_event": "Fun Night Run Jaga Jakarta Digelar di Jaksel, Ajak Anak Muda Hindari Tawuran",
-      "tanggal": null,
-      "lokasi": "Jakarta",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX28tUFQzaHl6dm1EanlYb0g2Z29vek9XTHlsRDh2a3FXRjI4SGJmSFVfOEV3Y1ZtMFlQeGZ5ZkcyX0lEVDBNcFpkclFYWktNaUZlZzNTMnVId0dQNHMxaWpSQkx0OTdnbmhyYzQweF9paWhGRDhZYUhteEl6a2oxSks3YlYzOHB3MGE0M19nZEFwNFE1VzluSXVRWnZLUk95VFktSWtyb3NWYS1MZGI3Mi1BM1ZUZ9IBuwFBVV95cUxNTGM2bmU5Wk0zU0NfeHA1Si1WaVd2al9YWkZvSVpQVkhkRWRiTUNwLS1Paml3SExOaXpqWjZPOVRPR295azN2ZzJyLW1LU3R6Mk02NHpQSTFCemREMUVZN3dmTlRFZzIzdWRSOEFkTDMwbGk2ZXRYMkFZVnNQQ0xGeGtsY2dVU3hNUWE1RkwtRTFwNTZWdEVYUXlCQy1LNkV3VFBCazlKTlcxYVZlWVUzZDRLeEpSdzRnS1hr?oc=5",
-      "sumber": "google_news_rss (detikNews)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T03:06:34+00:00"
     },
     {
       "nama_event": "Pangdam I/BB Buka Tournamen Golf HUT ke – 81 TNI, Perkuat Silaturahmi dan Sinergi Kebangsaan",
@@ -1038,36 +1090,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXoxTGJLM1ZTUnpLdi1WVTZPaTJWLXhmaGJNV29kb294dVEzTkM0TWdfUGtVOGxQcThmajRlWTJuY2xUbzg0eUE2X3h0cFR6X3h3OXdyYUkzYmdOQmtldFY3NHVMS2N3cnhFc0pSRXlkUXFaTUJGSjdZSjVMb1BOZnZOVzN3THByRVFLQnJXSXpxTUt3LUVtLS1NUnZNbnFBVlBlaXhWYVdHV1FaYml6aTJkWUpJbGs?oc=5",
-      "sumber": "google_news_rss (indiebanyumas.com)",
+      "sumber": "google_news_rss (indie banyumas)",
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2026-09-27T02:41:15+00:00"
-    },
-    {
-      "nama_event": "Semarak SBC Fun Run di Trenggalek, Kapolres Ajak Warga Budayakan Hidup Sehat",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkVINVRxWmFVbmtkeUhwUEJveklaRDI0cXlFWlJTMkN3MGtWT011blJIdVVqOElBZ3FwWUQzQTY1d2VMYmdTZ2hndU1ab0xQX0dYbnRuQVFlcERWeFZLSFRGT05ZTjZpckpJbmdTXzVIR3NsRmh0UXNNd2x6a1lzUDVuejVhbllHTDhGQU9qcXZQN1JWZFRvNHlYaHpwZw?oc=5",
-      "sumber": "google_news_rss (Afederasi)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T02:07:00+00:00"
-    },
-    {
-      "nama_event": "Fun Run Sultan Agung, Puluhan Ribu Peserta Usung Semangat Bergerak tanpa Batas",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnI1dFhRWUljRWo4MzJLUG1lTVh3Tnkza2dodW9WVWY2aTdPZWNWTEU1dTJ1bU1XbkppUTdjNE10eFlMaGpMWTlLVUxCVVQxWEhfVTZkWWZHNWpQTU1ROTdJcUs1UnJ5Q3Z6VkhtWTI5ZlJ3UVV0c2FKcWlud2l4UWtwNnlIMEhfdjBWMUI0M1QzR3BUVzc3SEFkdVUtQTFvMC1tUnZGWnJhck9jbkFKZzBkV09UVVEzcW9pZHBB?oc=5",
-      "sumber": "google_news_rss (RRI.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-27T00:47:00+00:00"
     },
     {
       "nama_event": "Tangkab Fun Run 2026 Bersama BI Banten, Bupati Tangerang Ajak Warga Hidup Sehat dan Melek Digital",
@@ -1161,19 +1187,6 @@
       "published": "2026-09-26T11:57:00+00:00"
     },
     {
-      "nama_event": "Bisnis retail telekomunikasi gelar Run 2026 dukung gerakkan sektor riil",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVdWOThEbFA2Y01aYTBBdEhTejVZaUd6bjR2cGJ1aUppdE9tRmlTbklMWVoxYy1taUdHNzl5bURjZFhKUUdLdU95NGNtZ2ZWMDZ3OWthclZhMWp4akpnTjdMNEZGUEVHaHphcnp5RVJEb2hNajJrOFVRZ190TEJQcTh2SFF2UVF5ZDlaVDhneHVfR0hUV09NRHM5QWhMTlVkaFhJTHM0QTNUczVUdFA4bXZIVGZrQQ?oc=5",
-      "sumber": "google_news_rss (ANTARA News Manado)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-26T11:03:56+00:00"
-    },
-    {
       "nama_event": "KAI Divre II Sumbar Perkuat Keselamatan Jelang HUT ke-81",
       "tanggal": null,
       "lokasi": null,
@@ -1200,19 +1213,6 @@
       "published": "2026-09-26T10:38:58+00:00"
     },
     {
-      "nama_event": "Semarak HUT ke-81 TNI, Ketua Persit Daerah XIII/Merdeka Ikut Ramaikan TNI PRIMA FUN RUN 2026",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDBNU2pKUFhhWURrckxlaHN0aGgtZV9Sbld2YmJ1S2s4aGRObm9QTXVnSzVrUkdrWDlaNWFfOG9sRGZTbGhJSVkxMGVNOHp6eTVmM0lVNEpIZEhRVHAyVTZHLWM2MWY4bFdLY2JuNTdJRmxtdDlkVlJyaDB6OGZHekJjUXBJMVVOMS1fM3JzZmdyeE5pNThtTVQyT05LeGN6eER1ZDFqQ3lqWThJRHZvUGdzc1UwZmxIb3ZZR0RHNk5zcm5XV0hCSEpJTWw?oc=5",
-      "sumber": "google_news_rss (Manado News)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "fun run 2026",
-      "published": "2026-09-26T09:48:18+00:00"
-    },
-    {
       "nama_event": "Meriahkan HUT ke-81 TNI, Danrem 131/Santiago Sukses Gelar TNI PRIMA FUN RUN 2026 Bersama KBT dan Ribuan Warga Sulut",
       "tanggal": null,
       "lokasi": null,
@@ -1224,19 +1224,6 @@
       "segmen": "pemerintah_bumn",
       "keyword": "fun run 2026",
       "published": "2026-09-26T08:50:44+00:00"
-    },
-    {
-      "nama_event": "Wali Kota Malang Berangkatkan Jalan Sehat Semarak HUT ke-81 RI dan PMI",
-      "tanggal": null,
-      "lokasi": "Malang",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlRYUzhCWXRlVk9yYXNVa18xZ0ZDbDRQYWwzZkd6dVFuMEtZNE91a05KR0pZeXVEUmJDcDBwUmtxYWFlcUNjZWxTYXJYbXZyWHhTeHBPXzhXd21zTEFCQ0JNZXZNU2ktZnpDY3BUa3BvemY4cjdlZ2dzTE4wRWNKWjZhQlhtVWxKR041UGJYOV80SEFmMXc1Mjg4TEJEdnFhWGg0cFhUZXI4SXM?oc=5",
-      "sumber": "google_news_rss (Portal Kota Malang)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-09-26T08:48:21+00:00"
     },
     {
       "nama_event": "Karang Taruna Banten Siapkan Bulan Bakti 10-11 Oktober, Ada Jalan Sehat hingga Bazar UMKM",
@@ -1259,7 +1246,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR3RJYXQ3bEs1TmVjMDlvcXBMN0dELUVpWVFPYWktZnB5dW01Zks4NmRCeHBVV2VJSzdNTUpWX3dCY3hNN0lpcDhtOURzWnBHVHRvU2pCOG1sZmM5cExKUWpXbkJaMVhfOU94OWsyMjBrVjRwZXJjVXBjTmpzVkR5U2ZaUlB2dy1fdFFLV0EwTlJHOXFmRm9iRGMxM3RkSTNqTlkyVW55ZkhpWWo3amtFenFYWVZRX2lLTEEyZ05fVHVGMzFiWERsRmVQMmgwUERocmc?oc=5",
-      "sumber": "google_news_rss (kompasiana.com)",
+      "sumber": "google_news_rss (Kompasiana.com)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-26T08:02:20+00:00"
@@ -1278,19 +1265,6 @@
       "published": "2026-09-26T07:25:00+00:00"
     },
     {
-      "nama_event": "TNI Prima Run 2026 Manado: Pangdam XIII/Merdeka Ajak Masyarakat Hidup Sehat",
-      "tanggal": null,
-      "lokasi": "Manado",
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWdjV0lrZS1BTUxLeHBBb3NSbW5YaUtrSFVkSHJLMnJMb25DeE9Oc3B4NXFaTzRXbTZ5alcwUVdaTVgzYzl3QUt5TEFZbl94RmxVcUdJWjAwVXlFX1ZsbHdHZEYzY0IwQkpHTzdyV0t1bk82aVZHS0pDMmhpdHVuR2JyeF96c2drTFluTHhsVjZmbVBsdzRLMWxVeGxQQTVUempVeDhpWHZBZW5FbkE?oc=5",
-      "sumber": "google_news_rss (kanalmetro.com)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "fun run 2026",
-      "published": "2026-09-26T06:25:48+00:00"
-    },
-    {
       "nama_event": "Kodim 1309/Manado Ambil Bagian di TNI Fun Run 2026",
       "tanggal": null,
       "lokasi": "Manado",
@@ -1302,19 +1276,6 @@
       "segmen": "pemerintah_bumn",
       "keyword": "fun run 2026",
       "published": "2026-09-26T04:30:58+00:00"
-    },
-    {
-      "nama_event": "Fun Run HUT ke-81 TNI, Pangdam XIII/Merdeka Ajak Masyarakat Budayakan Hidup Sehat",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGV0bXI1WDNQRzU1QjZNR2hFcHBFSk1WaGd0bUFiTHltN3ZoVGdiNUpjZ3lwaWROdHVzckJwRHgxUFVNaDFmUVFzODRmQmo1Y21KQzFPUnozQXV3eTRqVjNjNzhQVnFTNkVpWUJqckV0NFhLRjh2RWR6aWhaNzdIUkl3bWdNSDZXQ2xNamhTejRwaE5LN1F6SE50OVBsMGQ0dmVXMkdmSFM?oc=5",
-      "sumber": "google_news_rss (DetikManado.com)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "fun run 2026",
-      "published": "2026-09-26T04:14:50+00:00"
     },
     {
       "nama_event": "Prajurit Yonif TP 916/Bara Sakti Sukses Ramaikan Fun Run With Ride HUT ke-81 TNI",
@@ -1363,7 +1324,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUxIelBjSzlIc0xXSFdoSGhDVzFrYlctSWgzd1V4N0s1WjVkSWRCZ2RGMFlRM0Z2N1E5T2tPejlfenBIam83S2lWcDlaaG8xMG9ualhJNWxTR1FRa2JPNzY4ZUdmelB2aGMxelA4aHQyNm1QX0xGREZCVlNOc0NiNHF3UUFPNHVMUFY5aHBKd1JJZ2U1MG1DMkFhelJCMElzV1VNbzdwQWdRX25ZaEdTN0xB?oc=5",
-      "sumber": "google_news_rss (Suara Aisyiyah)",
+      "sumber": "google_news_rss (Suara 'Aisyiyah)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-25T09:43:52+00:00"
@@ -1447,19 +1408,6 @@
       "published": "2026-09-24T05:22:55+00:00"
     },
     {
-      "nama_event": "LPO PDM Bantul Apresiasi MUHIBA Fun Run 2026, Ajak Masyarakat Bergerak Bersama",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOak5yYUJyOEJwdXh0QVpxUTM4RTE2X3lqOGxKOEw0Y1JmeEhjeFlfYXBqamU3YmxwaGppUHFVZW55R2otblZCemlMb0p2Um43WUJTUFYwS3VfT2sySWl5Q2YxVjB1SENKSzdPYXVPbGxqVDNsNlZkRE1uWDUtU2hieDFQLUhMbHVqZmdoZVFzQVVaY3lsU2lNbWEtU3dLcjdFbGRFNlNDek9JYVdFeERTQg?oc=5",
-      "sumber": "google_news_rss (suaramuhammadiyah.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-24T00:28:46+00:00"
-    },
-    {
       "nama_event": "Desa Dongos Bersatu Lawan Narkoba: Kemeriahan Jalan Sehat HUT RI Ke-81 Diwarnai Edukasi Hukum P4GN",
       "tanggal": null,
       "lokasi": null,
@@ -1480,7 +1428,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSFZ3TUw2djhnbHg3VVlzenFRZkVMN2lndXh6Q1V5bEdoT2hwOEJWWmtOcW1sdFlpMnlSZDc2UHdXbXB2WEZjcmw0b1lXR1Y5a3cyVFQxMnV6UkZzQmlyRDRZY3dUNklyVENXb3BYMWVVeXVyZmFRd1p5UQ?oc=5",
-      "sumber": "google_news_rss (vietnam.vn)",
+      "sumber": "google_news_rss (Vietnam.vn)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-09-22T11:24:46+00:00"
@@ -1493,7 +1441,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkMwbHlCc3pmeU52N19qMmtld3dHN1VLemxJbUl0aUpNREdzeUphRDUteUlXNWR1UkhEZGE2UHRoclIxUmpMX1VMY3ZFekljMFY4N0MyX0dOXzFnMEN1R1l5X01laGRWalM5NnVBR0tEbl93M0hNNUFnNWwwSjRSOVJTV2VKRWJScDM1UUVUdFNqTTBRc1o1SWFwX0JXOVVEeldfX1kzSG9ibWM?oc=5",
-      "sumber": "google_news_rss (vietnam.vn)",
+      "sumber": "google_news_rss (Vietnam.vn)",
       "segmen": "komunitas",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-09-22T08:03:10+00:00"
@@ -1590,6 +1538,19 @@
       "published": "2026-09-20T09:13:00+00:00"
     },
     {
+      "nama_event": "TNI Fun Run 2026 Sukses Digelar di Kota Padang, Ribuan Pelari Ramaikan HUT ke-81 TNI",
+      "tanggal": null,
+      "lokasi": "Padang",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdExSc1NVWmw0NEs0NE1KMmlrc0pUdjNoRjlYdERvOGF2bU5Lb2NaSWo2WTB4RW5jVm0xeHhEamdqOWhiU0tlU3Z6dm93cjlsSkF1WWQxS3NTMEhvemxHUVoxMGRtdjk1clZFWXVhdkI2RFVBU1JnNzlVdnRRd0FvZnl1TGhBemx2aTRCUTFUbFdyMTVfYjZnZnBKYWhwWGxKdEhWNVR5cWhwZ3g0OVhTelBhM1NmbnZxOE1YOE81S2hveFE1ZjJ0RA?oc=5",
+      "sumber": "google_news_rss (RRI.co.id)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "fun run 2026",
+      "published": "2026-09-20T08:42:00+00:00"
+    },
+    {
       "nama_event": "BuruanPendaftaranSTIHPADAFunRunTutup30SeptemberDaftarKlikwwwstihpadafunruncom",
       "tanggal": null,
       "lokasi": null,
@@ -1610,10 +1571,10 @@
       "penyelenggara": "Bank Jateng Friendship",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZydFlJVzdNQUd0T2U0TUw1aTM2eWtIYmpGa2RkRGpISGlLSXNHWDBFeG1QSEVZN2s3T2ROVkRCS1VKX21FUExhc3I4azJzZXBtRjktX3haQlpDczd3ZGh5NHJ4SzdRYmlKRmllalBJckFlVExob1M5V1ZLNnd6SWduaWJJSkFnZzJXeGYxWkJ4SXRlYUUtNlFfbTI2MzRaYzZocnpVMA?oc=5",
-      "sumber": "google_news_rss (Kompas.id)",
+      "sumber": "google_news_rss (kompas.id)",
       "segmen": "korporat",
       "keyword": "fun run 2026",
-      "published": "2026-09-20T07:00:46+00:00"
+      "published": "2026-09-20T07:00:00+00:00"
     },
     {
       "nama_event": "Ketua TP-PKK Noni Hidayat Ikuti TNI Babel Run 2026, Apresiasi Antusiasme Masyarakat",
@@ -1636,7 +1597,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGswaWZGQVJ0blQ0X0JDb1RwVzV2am4wcXJMYUhiVDRYRUJXVVE5eXNwZEtXSTJUUHo0LTBkM1NZYjRaWjdMVEVyWVZZUTh3ZThEZUpCWjZlNDU3OG5lNnZicDhJSTJteTB3b0o4V3J4aWYtYkZMX3kwcG83UHVOUVFSVmRMVVBFQkhYUE1FSmRSS0M2Sm9ndUdONi1PWlY4dmF1N0pZZ3RoQjg4WHNxT1NCSkxTSUZjcl8za00xUWJqbW8?oc=5",
-      "sumber": "google_news_rss (koranbuleleng.com)",
+      "sumber": "google_news_rss (Koran Buleleng)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-20T06:13:22+00:00"
@@ -1649,7 +1610,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0JxNVJIbUh0NWZRMUJmQk1ONUFNcWxOY1hncjA1dnJHbFk0M045WFQyeTBWcGRtRGRSbGdYS2xwdloyZTJrRXdudG1jV05UR0pMZmVDa3kyVTVKR3gwZldIUEdDTDMxQ0t4dnlNaWxXS0VINmlvUzlGaDljYi1Oajl5c09IcndDZ2pqdGtyZ1FlcjBncEJwakdVQlZZbzZYSzNIU18yMlJYcGxTM0FLb3ByTUgwcE5PYVZ3?oc=5",
-      "sumber": "google_news_rss (Sentralberita)",
+      "sumber": "google_news_rss (sentralberita.com)",
       "segmen": "pemerintah_bumn",
       "keyword": "HUT BUMN fun run",
       "published": "2026-09-20T06:05:18+00:00"
@@ -1766,7 +1727,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWNNZzlvZ2trVXhvVHlQZDVGLVA2em5FNGRjaEdpcVcyM2VwY2dBR1NIbFp2SXd6M2hkMTFnU1lVMGt6NjdFQzhwVHE4cTlsZ0poNldTQ1owbWpSX3pOLUFxVE50VWpKRU84LWZFMENXOTlWVWlzUzZjTmx1WlB4N0J0OG5YZGlXVTRUZEw5clJCekJuSk5oLXV1Wm9fRVhJVlJZek5reFJ4LUhDZWRESTNTTlFQdVNpdmxEQjVVRdIBtAFBVV95cUxOS2tDeFBlSWZEaW1fYTZzbUNtcEUxM1JPSWlBQkhhaGhxMDJCSHExUnZObjBVRWVBUnNaWkhxV3hnVVVsbDRUVEJHSW52cU5ibzRBOHRSY2ZTV1BTMXVkMmlESjVWT1IyM2h4OVFaRmNFODdtSGFiWFpzU2tCQ0hkaXlhSF96VXROU2FPcnVpY25IT1BLaURiLUNpU25XMFQyWGpZYTFPYlJJWVhNWDlTRXBxMEo?oc=5",
-      "sumber": "google_news_rss (Babelpos.id)",
+      "sumber": "google_news_rss (babelpos.disway.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-13T10:43:00+00:00"
@@ -1831,7 +1792,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGFFeE5JNkt5U1ZSQTlhOWF3b2x1ZDF5ajVkNGE0YWhjTnpyQ1BNbXlKckxieGNKS3hKVzgta2xNOFlGeV9KWXNROF9vQldVNGNxblp2RXhFZjhYSHdNOWNyMW9aVXNTcFJhM3JoZW9ZV05nMkk3dWtyOGNlMDl4ckZiT0NMbndGeEEwU0pRMEhWb3d2dEY3THlQQVlYMzdlcmJ5UUxWYUsyTUljUzNQY3FsdERJQ29DTF96NGJwd1c1NkZNY0V1b3dMVQ?oc=5",
-      "sumber": "google_news_rss (Universitas Muhammadiyah Surakarta (UMS))",
+      "sumber": "google_news_rss (Universitas Muhammadiyah Surakarta)",
       "segmen": "tidak_diketahui",
       "keyword": "fun run 2026",
       "published": "2026-09-13T07:00:00+00:00"
@@ -1863,6 +1824,19 @@
       "published": "2026-09-12T07:09:33+00:00"
     },
     {
+      "nama_event": "Keseruan Asasta Fun Run 2026, Ajak Ribuan Warga Lari Bersama!",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeE0wRnJlcHZTaWJZZTVUeFFSQ2tDM3h4RUZqa0NuQnkzTVU3U1o4TUd5cVliUnZCcnVUWWJjWG9qMlV0SkZvUmZvc2h6MC1QbkxteHNNY1RQNEVUVTZDeUlJNXhKMHEzekJNaTVmc01oejZXUU52LTh5Uk9DSGwtSGxjc0V0U1VrX1Iwck5tdw?oc=5",
+      "sumber": "google_news_rss (Pemerintah Kota Depok)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-09-12T07:00:00+00:00"
+    },
+    {
       "nama_event": "Asasta Fun Run 2026, Wali Kota Depok Ingin PT Tirta Asasta Maksimal Melayani",
       "tanggal": null,
       "lokasi": "Depok",
@@ -1874,19 +1848,6 @@
       "segmen": "korporat",
       "keyword": "fun run 2026",
       "published": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Keseruan Asasta Fun Run 2026, Ajak Ribuan Warga Lari Bersama!",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeE0wRnJlcHZTaWJZZTVUeFFSQ2tDM3h4RUZqa0NuQnkzTVU3U1o4TUd5cVliUnZCcnVUWWJjWG9qMlV0SkZvUmZvc2h6MC1QbkxteHNNY1RQNEVUVTZDeUlJNXhKMHEzekJNaTVmc01oejZXUU52LTh5Uk9DSGwtSGxjc0V0U1VrX1Iwck5tdw?oc=5",
-      "sumber": "google_news_rss (Pemerintah Kota Depok)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-09-12T06:26:19+00:00"
     },
     {
       "nama_event": "Portal Berita Resmi Pemerintah Kota Depok - Wali Kota Depok Lepas Ribuan Peserta Asasta Fun Run 2026",
@@ -2065,7 +2026,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWHBqT2lCZTRQWTlTdi1laFdnSFFKT3R6SnBIZl9ENmhtZkVqQTFKM0RYdWRNSHQ5WjBhOEJaUUo5NHE1THlWUHczQ2hkYS1zTWI4V1JrVUlPSkVDdlE5LWczR3BYZGszZmhsQ3ZKTEp6OGlVQld1UTd6cWRTSWozSUc3RTBNSC0zdk5JZWNtaDFldm9ZWVhsQ3o3Mm92QUhZLVlFbkhRd2ZnVzFNNEZSdndzamNycXRZN2JMMEhiWTlEa05GZ0dZYzNfVFBSMkdEcHhSbnBGV2JqeE5NV3hxX0t2cUw0czlYQnc?oc=5",
-      "sumber": "google_news_rss (kabarreskrim.net)",
+      "sumber": "google_news_rss (Kabar Reskrim)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-09-07T06:01:51+00:00"
@@ -2136,6 +2097,19 @@
       "published": "2026-09-02T07:00:00+00:00"
     },
     {
+      "nama_event": "2.000 Warga Kuripan Yosorejo Semarakkan Jalan Sehat HUT Ke-81 Kemerdekaan RI",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3I0SThoWjd3cGNMSmdqZXRPVkhYN1BZZnJtY1g2QU8tUkV2U3MyRE1oaHpINTl5b0x4bW1oc1psS2F1YVhZbkZLa3pNQzlHdzdIUWNVXzVaOGs4UDhWMjN3UUo3cUFGb01XeHMtZy01cTF0V04ycURyMFIyNUpodUFTRmdqTVRsbW1tdDFGaTRhMGZ2aUo3UWVidGItX1VObTFB?oc=5",
+      "sumber": "google_news_rss (Halo Semarang)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-09-02T05:42:17+00:00"
+    },
+    {
       "nama_event": "INDOMARET FUN RUN YOGYAKARTA 2026",
       "tanggal": null,
       "lokasi": "Yogyakarta",
@@ -2172,6 +2146,19 @@
       "sumber": "google_news_rss (SINDOnews Daerah)",
       "segmen": "tidak_diketahui",
       "keyword": "HUT BUMN fun run",
+      "published": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Pemdes Sumbertempur Gelar Jalan Sehat Semarakkan HUT RI ke-81",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGVjYWRTbnhwSWtLRUhyTFRsMkJHOWZXRm5uRVpNSDZQcGFoWkVYakllbjFQTjU0a0twVi03MlFjNld6RjdmTlU1RUtBaF95NXhPUmtGWGdDTmFOaVZsdXN6czE5Y2VQMVdhdzBVZnhnNHUyRGxXLUNuS201U0lLRDVobThSbHZfb0tPcHItbFhFbW1fcmFSeHVxSm5oWmdHRmxYR2RTd3I2cXVha3ZqTk5FelF6c3RUTkRBZHljcHEtYnc?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
       "published": "2026-09-01T07:00:00+00:00"
     },
     {
@@ -2247,22 +2234,22 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV21GLU84Y19YcGpodllWUUJGUXBLeThkdWlDWFEyZzExdE9FZF9LQS10cWdfbzFXR2hLQlQ5bnNKaVhTMWl3RUZIYm5TZFpVMDZ6cFFlNmYwYXFZdFFIZ3hkcDVTRkgzY2NObzAwaGpzbEUxd2xhT3ZabTByQTVzTG15ZFRUU3lJSDJkWk9DcExOWmNYUVNycjBkY2Y1MXlrcVlmUmFDeDVNb1Z1WGRz?oc=5",
-      "sumber": "google_news_rss (sumenepkab.go.id)",
+      "sumber": "google_news_rss (Website | Kabupaten Sumenep)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-29T07:00:00+00:00"
     },
     {
-      "nama_event": "AbbA Charity Fun Run 2026 Banjarnegara: Berolahraga Sambil Beramal untuk Kemanusiaan",
+      "nama_event": "Peringati HUT ke-81 RI, Jalan Sehat Pemkot Batu Padukan Olahraga, Aksi Sosial, dan Kepedulian Lingkungan",
       "tanggal": null,
       "lokasi": null,
       "kategori": "lari",
-      "penyelenggara": null,
+      "penyelenggara": "Pemkot Batu Padukan",
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFlWUnZDRWtLUGFHUFhwZkhlZ3NFcjl0UTVfZ1dVYXZEVHM2VGZOaFB5WlhrY1dnckxkdGNiZGwyOXJJTmZkRU9WcmtZcVVkYk9fcWl5TlRwcjNuNmo5aWRLaVZTWGtiTGUweWhRWkdoUElBZGtjU09jR053emhyOG9OMWRFRnZQajFkc0ZlcG80QmhTLWdKRnZUVkxKTS1QbTJ1MG5vaFB5Zw?oc=5",
-      "sumber": "google_news_rss (Serayu News)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jersey fun run",
+      "link_resmi": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMUV1enZvVU1wN2RsRmxoMHVlNHlia1MyN2g1cnQyTEJ1VUVaT1VOOWlQTnNVM0VDS1dlNFpOUHZxc0UwSkxSbTdOamVJZW9SVy1YMEFvVVc5NWp3ck5wRHdmRjgxR3JnNkhnV3FwVG5fQy1uM2MxcTFveUozS0tzdVh2LXdkR2FwSUJOUTl3R0YtUDRfMTJ6dFJTVVc1V1FBd2E1TGdLRUxoSlI1eXVJem1qTktkLWl5bVZmLTVHV1lrMDdyTUhkSVVDNHN6YTFSNkY4?oc=5",
+      "sumber": "google_news_rss (malang-post.com)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
       "published": "2026-08-28T07:00:00+00:00"
     },
     {
@@ -2273,7 +2260,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPazJNWFRPRUhUNE5ZcXVvOVhtb0QtODdqbW9EVG1HMlFnSDJ6SUg5dmU0UXlwazhHR2t6NGVULVEzSldEOGptazktUDVrTk1RX21PWm9QZ0d2VjFydWIxX2JoX0VFdFdFRnUzTU9QcFdGZGUwLUVPcTFNcmVyN1VhTUsxWkdvdDc5V2pGNXhma19XbVdveGhORk9hXzRRNm11MVA3Mi1qU1A4WUw1bVhpTk9hM1JQN1VXNm9nSWZSdXF3ZW52Zmo3WmJsX2tqSnVRbHdfeFp1Tm14OXM?oc=5",
-      "sumber": "google_news_rss (Bangkapos.com)",
+      "sumber": "google_news_rss (bangka.tribunnews.com)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2026-08-27T07:00:00+00:00"
@@ -2286,7 +2273,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMU9nTnhnNDBRWW1TbnFkQW92NkJLTzVmdDlmdXduOWlEbXNERVJLdlEwclFNTy0tMWNGUXc1aVpfcVdqei1HUW1IXzBocTBrWGFHMllIUUhzTE81UnVkcFhiZjgxZC1kd3VRUWd2anFIaGVrLXdjMk15NXVFYUZhc1k5ZGRlN2RzWThjTGlnQUtia012MVNaZXA3X2FtRXJ1RjI3MnlqMHh5YThLY1E4bFdDNmJJMWc?oc=5",
-      "sumber": "google_news_rss (sibawor.org)",
+      "sumber": "google_news_rss (SIBAWOR! maen)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-26T09:56:22+00:00"
@@ -2301,19 +2288,6 @@
       "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkI3RUszbVZXdU5hYUpHWmNTUlBpMFlWcFFaNDc3cWhYTnlXU29sU1BvZTdnUnFBbWdCSnl2TXNIQ0lUQVR6U2wxUmJYRWhCR0t6T3RuUF9leHY2eW1Cb05vNk8weXdsRm94LVlrN1BOV3VHZ1hvWHhLZmVFVElfTG4xbTBod2taaEt4V0RVOTNKU0s0QV9JSXZVNFFfY1ozYjhnNGpDUC13UDJnQU5oUnBZZ1d1Zmpl0gG3AUFVX3lxTE5PV2dJU1dpZVBuOGFTc3ZTbXZ4MGxRajZxc094V19PaWh0aDBoQlhnblVZYVc5Y2JFUVRxWDNWTEJOY2JnT3JpbFNPSFZ0a3E1aVA5RHBqV0poTDVidTZOZ2d0NlRyVW5pNjhLYWFQNTB4eV9pS3FxMlBIUFFGbk14d2daeUV5Yk43czhJTmlieEo0SldZY2FkMDhTc2FRTHJKSl85SXQ1eVY1ZjZDeDkxRlVQYjBKVQ?oc=5",
       "sumber": "google_news_rss (HARIAN DISWAY)",
       "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Siap-Siap War! Industropolis Run 2026 Buka Pendaftaran Mulai September, Terbatas Untuk 2.626 Pelari",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS0xMRmlmaTF2YzB2OWRLblYxNEU1UFU3QVd5V0ZaaGs5cHFoSjM1dFI3eDZud2c0RkI3OWxnTkpkR1dwMUI1eDdfUlNVdXMxdEtneFl0UVM4LXhjUkpfZW03Sk5vdEdxdTVJVnMta1ZVQzhJVmdtTzBzV2ZNZXkwLWNfZzBGeDM5alk0U293T1JXUlNYUW5uWjNuX0dpZkIyWHhyREJuUjdxcWx0TkNBZFg4a0tFakRqNmo0SnZSTWZNRmlQVUZtVF9CRVZGejFUcWh1dVRhaTdScHNid3ZJWXpodWhZc1XSAdgBQVVfeXFMT1ljeGhsVkJGSFFvN3pDMVEwOWFWd1ROOGJhR0F1TnRERV9pRWNzRkpqQzhncTB1cVlPb1lxRzBoMm0zYnZZb1pEeWRGd2EwN3BqRVM5a0NjUC1zcVhCb2o5OTF5MW9WaXZlbEdZcklLMzdIWkg4cW43UUhkakRreVJsd29TVzJMdDJ4M2JYeUk2SHJiZHVCVmtMemNNejVIcVFqU1NQWmNCS0xOWWRkSXNUQVJtM2ZUeHI4aldoaGF5b1B3V2ZrdkVOTXF6MHU5Y00wRGtGanF2?oc=5",
-      "sumber": "google_news_rss (Radar Pekalongan)",
-      "segmen": "komunitas",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-26T07:00:00+00:00"
     },
@@ -2351,7 +2325,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlhiSHhuOVExMkFBUzJxY1pOVjZWM0FVcl9td3daQjZ5Q3lneDl2bmhNYnJMWVhkdHZyd2V4UF9YbFRaWHc4dHotcENNcHZhR1V5U0JJZFhsbUZKMGpKZmxrYW1CUFVtNTVoSVN1M3NmYzMwNmlaZGxFbmJUU25MSk1sMWtHRi1WOHpPeDNrUUhZdmFPbGVCNGxyVHFvajhXXzhFQ2laMExnR0VWd3ZDdG84ZTFzcHVsOHF4ZXo1ZTdBV0dEWi1wWmJXaDQxdnlyOEE?oc=5",
-      "sumber": "google_news_rss (tribratanews.lampung.polri.go.id)",
+      "sumber": "google_news_rss (Tribratanews Polda Lampung)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-24T07:00:00+00:00"
@@ -2396,15 +2370,15 @@
       "published": "2026-08-24T01:49:00+00:00"
     },
     {
-      "nama_event": "Jalan Sehat HUT ke-81 RI di Desa Pelem Diikuti Ratusan Warga, Polsek Campurdarat Pastikan Aman - Tribratanews - Polres Tulungagung",
+      "nama_event": "Jalan Sehat HUT ke-81 RI di Desa Pelem Diikuti Ratusan Warga, Polsek Campurdarat Pastikan Aman",
       "tanggal": null,
       "lokasi": null,
       "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNckRjaU9XV3MyeXhEY0R4bGFnbWRNaXBqd3Y4NHFtdmtQYkRWRkZHTEZNTUtFdzJnTnAzQ0QzVGFzYVhpYVpHQnpfNHp0U2ZienpOQ20tR2hqM25ucGFXMFV3cHdadThnZDV0OC02RE5VeDdlTjV2WnBIblloYVJveHZKZXA3UnY1MlpVVHZyaVVWQ3pFM0NvTkdNRTlTaTJFVzJKRDZfcGE2d3hFRnFXUnJIYlVEdGJaQ2tKYjkyUHBSOXpLWlJLcVdSNng3RXNGUWZsejM4THBJV2QxVzBNb0E3enU3TUdqdFJheUs4UWI?oc=5",
-      "sumber": "google_news_rss (Tribratanews - Polres Tulungagung)",
-      "segmen": "pemerintah_bumn",
+      "sumber": "google_news_rss (Tribratanews Polres Tulungagung)",
+      "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-23T11:25:11+00:00"
     },
@@ -2435,6 +2409,19 @@
       "published": "2026-08-23T07:00:00+00:00"
     },
     {
+      "nama_event": "Jalan Sehat HUT RI RT 03 Pandanwangi Meriah, Warga Berebut Door Prize Sepeda Listrik",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0dDdU9nc2R1eHBsQ0RvczBiQzU2TGFGTmtraXBZTlVvaHhzM2tkZTJnd1BOdHhHS25rZE5NSTNlYW1nWFVkUl82NzJaZkt2bmJickN0U3RycklkbHZWbm5kc1hyLWZMX3VWVUFKYU1JNzdfRmxWUS1OQklUb2dUaWVKdEhQVlFwWlFiQzFVaHhWQnJWR2pQNy11dC1IVVZ3MXl6WXFMbjlqYm43NWd5Tzlocl8tTUIyaS1rN0VPYnBMZHFIOGpzYW5TMmVSdEpZd0HSAboBQVVfeXFMUFRBbWkwNzZseEQ4MXVTdUhWcGpZeXFOendqdXE2YWZKYzZZdjBjdmtXSXFfVzhhdjk5V3FqUXFWRGVKR0FzSE45enViVERfbjItOUE3UURUWkMyNjhoQi05UGN2SWx5Ulh3NlFPSDYtZ0lsVWw3ZVVrX2dURk4zSXNMb2FpcE81aHAwSkQtV3R1Q0FkVl9FalB6U01EUkF0WjEyc1JXYjE3T2JVM2lJUWREWVg4Ynd5aktR?oc=5",
+      "sumber": "google_news_rss (malang.disway.id)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-23T07:00:00+00:00"
+    },
+    {
       "nama_event": "Jalan Sehat HUT ke-81 RI, Warga RW5 Pasadena Guyub dalam Semangat Kemerdekaan",
       "tanggal": null,
       "lokasi": null,
@@ -2446,6 +2433,45 @@
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-23T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Ribuan Warga Meriahkan Jalan Sehat HUT ke-81 RI di Tuk Sirah Winduaji, Sepeda Motor Jadi Hadiah Utama",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFlsR1JaN2JNNEpLV25WRmQ1TVY0QTJyM19kbWxjVHl6U2VvVXI2eVN5UkNXdkgwS0dHb3htUkk3Q2JlWTJXZE5kN0ozb1JfSEhzWlJaNlBuYmZPdHcxTmhqT25DMEZNSnRnMlpDc3IzX1NUS3JpT3NqN05uM3lHRW1raXM2RF9zTUF2NFhSdXlQWDBJX0RRcnJyaVdMbFo1MXVNOGpna1dZd3FMVWhOeEIwWUc2TWY0X2lTTndUUGY0d01BYnNtN2pnYVZNWksxY1dpREdUemd1V2lsSWhLVld4YTU?oc=5",
+      "sumber": "google_news_rss (Kabar Jateng)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-23T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Senam Dahlan Iskan Style Meriahkan Jalan Sehat HUT Ke-81 RI di Kebraon Surabaya",
+      "tanggal": null,
+      "lokasi": "Surabaya",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZGNoZUl2M1ZyOVFXQk8tLVlSdVNfTWZnaHA5T2Z4UXRnelp3eFd2QXR5SEZicjl4emM2ZWp5N21TLWVVVHBacmE4WVpjTkFxUWF5dUJSdDduaG40bVVsRXoyaHdEbEhyXzZmUTNucEI5eGtXSVJ6eXlwbmthNkY4eWRkOU9YbnhrU0ZUbE9yU1h3dDBydVhPQjJZWlMtOHpJdFlXM19ZUENpTTZhVlRFVmhZR2sxcmlOTlBxcjBWLVRNRE9PbzRNbNIBuwFBVV95cUxQZWNBb1BaZkt3Z2hlYUk3UHVEZzNTOG1tUjF4bUM0b1ktOFZ2RjhTVWQ5WVc4S3gxR21VUmVsX3FZZGpscVYySmpJSzhMQXk1cHIwS1FUN1dpS2NLbWtmOFhHQXNqRS1kZDJqRUhVZHUwSnJrLVN1dWlZUkNNdU1vRzZLME9MNkF5LW9SSzJuUzk0ZHVzZ2xuWHpqNDNuZXNFeHdtNEdkUDVMVlFDUW9hb1pIVm96NTRVUXpJ?oc=5",
+      "sumber": "google_news_rss (Memorandum.co.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-23T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Ribuan Warga Tumpah Ruah Ikuti Jalan Sehat HUT RI ke-81 di Kota Agung",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3d2T1lJZWF1MVR1dWdCYVVWRkM4TXRrLUJyRGFnc1M0bTRpenVIcHpYMEF4RV9ZcmYtTlhSNVFHLS1zZ2pKZTlQR0J6dmlpSURqU3lsNGh1djQ0WF9oYWoyc2pmVmxZTnIyeXpyelBsaXFoSXZMWjR2OXdQOW5QNnRQLTZHWGlvYlpWSEw3Mm5Xb2ExNnlCR1Z5WXZhWDh4TXBncEd2Tmo5S1pVN2FwU0p5bzNON3RzaDJiNy1Wc9IBsgFBVV95cUxPcUZ5WmRMMUNkZGdnY1I5bklYQ0lPNUt3SU5SUVdsTGJPdEMyNmNkTldCdHRacnp4NmNEVEh5dkFWOHdEMnBuZ2x0QTRNNGp2SUREaGNXRFNpMXpTaU5lNnB6ZUthc0VZNnpzNDcwRmhHTkpUb0FlYTlfTzdFRGdQUm5ydHdKSncyRDJacEZsVlJSdUpNUllzWnBNOW9qS0xYLTFPZ1lXTjN6aTJvYzNsdDln?oc=5",
+      "sumber": "google_news_rss (Radar Tanggamus)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-22T07:00:00+00:00"
     },
     {
       "nama_event": "Jalan Sehat HUT ke-81 RI di Kutoarjo, Diawali Doa untuk Saudara di NTT dan Kalimantan",
@@ -2494,7 +2520,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0hjbV9RenFEenBBWTZBd05HRDF3SXZkTWYyS05iRXlZRjRLT0tNY2ZKOFExOFJCZ0o1N1h6MmxlcEg2TmtVaHVxRGpENmJObFhrOW03UkFmb09lY2hSZm1HUmlXdGdOeC1CQjVIeW4ya3RWUGxHWVYxZl80TmxtdEllYmN5YkRMNWUwdXdvUzc?oc=5",
-      "sumber": "google_news_rss (AFU.id)",
+      "sumber": "google_news_rss (afu.id)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-19T07:00:00+00:00"
@@ -2533,7 +2559,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM2w5N2hibEc4Mk5iYTREcERDV1JvcXhTRHBhdDhPZFlwYlFmMXEyZ1Vpb3hseGRnQXFJUTM3bG9kekM5cDJhVWw2UExraGxnRmtVWGtOV2pSQmZhQXFMNERLN3VqYUoxcjROQzJuTEpYRWJsNjlHck1aNEJGN1NZSU9KSWZsUTI1cC1qXzdicTNKdkhPM1lEVnlLSDlzdVY4a0pjN2lJMnZ1VW10S3Y4UmNSWmQ0YzJnMG9ySUZSY3BnMVlaOVZpVzBXSXN6RjVFMGxDdVowamRBVXVj?oc=5",
-      "sumber": "google_news_rss (tribratanews.lampung.polri.go.id)",
+      "sumber": "google_news_rss (Tribratanews Polda Lampung)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-17T07:00:00+00:00"
@@ -2545,11 +2571,11 @@
       "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjhwSk0xUmx5ODZScTF1LUFSbWpyMkxTeGxpOGtuc1lYY2l6ZU1qVGIxWFdMaGtOMUQyT2hMWmN6QjA4LW5Dc284VFdxSjg3UnpnTEI0OW9aOHM?oc=5",
+      "link_resmi": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TZ3BkNEVsT2lYVlB3cElMUkxmMmFvWWVXTXkzejVBQ1NmNFN1MkZDMHQxQTJIUmYwSjh4b19QNHNhejE5V0VpNVBvQ091dGRNdk5ZaDdrUmE5LUU?oc=5",
       "sumber": "google_news_rss (Info Publik)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
-      "published": "2026-08-17T03:58:29+00:00"
+      "published": "2026-08-17T04:27:03+00:00"
     },
     {
       "nama_event": "AKSI BERSIH JALAN SEHAT HUT KE-81 RI",
@@ -2611,7 +2637,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWtscTNnaklsMy1CWk9BYVh6YWg3YXBUYWtKYnd6V1dENms1ZHVaeTl6NGZsWHJ1elNvSHVMRWxDcXZNcTR3bVQ4X3lZa1pEYTc1WmJtbkZualVsUllnT3FyWVBZZ2lVci12eThseG54VnVoRjNWenV5al9JWUR4d3g3SFk4Q19YQk1yV005MnVqV09ydGdhOWh6S19SdzJCZ2NrNmwwNnVkak5qVTNBbzNVbEw5clVDWEhoVFpETWwxU1V2WWFya9IBzgFBVV95cUxNWFJXY2Z0RkVOX2VQQVBvT2pVaHNaYjdDWHBnY0x4eTFXbGlIUDJmYUhNcHJBVEVWUFhDVFY5TzBQcUlFenNrSWRvNm0zTS0xUXdvOS1ZUVpwaWtCOXAtejdtbU1MTEhnVnFMZ2JzZGJERGJDNWJkcTFBZzJicER0NHk0YWdXRXh4VEQzQXR0eGwzaTVRaGg2UnM0WTgwNmJZcDh3Z3psZVZFMTVpR3RwMnJlWi13aTNSMFpqUHdXR3hIN1ZSbFR4TVUtSnpiQQ?oc=5",
-      "sumber": "google_news_rss (cnnindonesia.com)",
+      "sumber": "google_news_rss (CNN Indonesia)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-13T07:00:00+00:00"
@@ -2689,20 +2715,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2pTQVl5MU10WWVTdVd2c085Z3BnQTBVWDlVTTRTUmlmVEE0STNVcE5mdTRqcnFzRkdTVUVXWnJpbk1nRTVBUVdoV0lOaHUxQnFVRHJFN1NlRm5TVDBBby0zX0x0TzhNUDRBZ05BMnc1cjJQcl9uS09WZWZjNThHX3luUWpBMGRMVkd4ZWxlSkZ3WldTNHhJMUlwTUd3WTkxRmpfc1FVMzUyTG4xUFkyXzZJQmpHS0NaTVJLbQ?oc=5",
-      "sumber": "google_news_rss (Kompas.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-08-12T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Pendaftaran Merdeka Run 2026 Dibuka Hari Ini, Cek Jadwal, Cara Daftar dan Rute 8K",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ09qN0VQLXNORjZFQ0tGZEhMeWVOLWY5SXExajJnNFhYUnhPdk5wWHhEOFo3aEd3cnljbW9xYkdzcGRoQllDVUczVzU1bk9pd1B0Rms3ZEV2ekppYVFwbDdUSXdod3l2b19BZ1ROdHFUaFpQdk5rQ1lUbmpBUHRSYXZrWjEwTzNuT1haMFZTYmw3SUtGbUczM2RLQW1XX1lzc3JzeHEyRzh4UmhkLUE?oc=5",
-      "sumber": "google_news_rss (Aktualita.co)",
+      "sumber": "google_news_rss (megapolitan.kompas.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-12T07:00:00+00:00"
@@ -2716,6 +2729,19 @@
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0pVcFRlR2Nsa3hQekFERVFtRWFMcF9rLUFjX1g2Si0zZVBaNkNXV1ZiUHQ4VWtKYnczdFA1Q20wNjJMT3FMUjBYNUhwQXdTbTdwLVZYdmNoLXpNWXl4cEJpVnUyMHlSYjBZVmVzOVZub3ZPbEwtaUdCdmtwSVVqelZqYWNqZ0RSRVF0VjBZbXlRWTM1OVEzTEZMYzZMTFBUcWFGWE9xQ2tIMEZZX2VF?oc=5",
       "sumber": "google_news_rss (MalangTIMES)",
+      "segmen": "tidak_diketahui",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-08-12T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Pendaftaran Merdeka Run 2026 Dibuka Hari Ini, Cek Jadwal, Cara Daftar dan Rute 8K",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ09qN0VQLXNORjZFQ0tGZEhMeWVOLWY5SXExajJnNFhYUnhPdk5wWHhEOFo3aEd3cnljbW9xYkdzcGRoQllDVUczVzU1bk9pd1B0Rms3ZEV2ekppYVFwbDdUSXdod3l2b19BZ1ROdHFUaFpQdk5rQ1lUbmpBUHRSYXZrWjEwTzNuT1haMFZTYmw3SUtGbUczM2RLQW1XX1lzc3JzeHEyRzh4UmhkLUE?oc=5",
+      "sumber": "google_news_rss (Aktualita.co)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-12T07:00:00+00:00"
@@ -2780,7 +2806,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQmZ5RzNrM3JncnVOUC1iRTZYNUNoeVdyNWNROE9QSnpselZ6NDh6WnBieEwzMWFWUTA5ZDBmMEthRFMwdk5VYVhOSDdHRTAwQ2JTdjRtbGY2bXliVGZaazVHM0JlUVloRnRKb0c5QmRzS0FmdlFqRk9qNlhFdXVPTEN2Rnh0R1VSRU11Vk9BLWVreWswOGdXQmRCR1REQzdBRW1VcWVweXRrTmY5R2ZzeDFuSDlwWVpmcGRmNHhxVdIBxAFBVV95cUxOTlE4SkNwWWhPQlVsRk9uOGZvdjUyeUlRcG95LUVwc3gyLU1oTzFVS0VkVEtEN1R4LU1JaDBmUy1fQm1NVEFLUm5mdXZHSG1HWW5kajFwYzFXbnB6N0MxelJvY0hCYmRYZV9XUTlsMVNVcHk2dzQxT01PY29ZQ0dEd041U1dvOFd5M2huRGx0QWUwSV9UN1U1OURncVBKZ0tfVEtRQThvRmJEd3FCeUpzcE5sVi1qaFBCdzlfZ2YyT1llOG1y?oc=5",
-      "sumber": "google_news_rss (ANTARA News Megapolitan)",
+      "sumber": "google_news_rss (megapolitan.antaranews.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-11T07:00:00+00:00"
@@ -2884,7 +2910,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObklQVmw1ZnowNmoxSGUwSjlYS3dWVnhYMEdpVWtEam5uSDBiOGhJR3poTXZWclVGQlk3cEVDU0tGb3NkTlhfNXhrWmNrRkVfNVZxVWhaUDIwZ1RYc0VLV1AyNlAxRXFPUmlDMTdZMGUwZzJzbW9WMnhjZ3FsYWkwRDJYR2MxQklna1kxTEVBMEhqZ0tNVXhRV2tkX2MzZC13MnFxWGoyQQ?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-10T07:00:00+00:00"
@@ -2916,6 +2942,19 @@
       "published": "2026-08-10T05:44:47+00:00"
     },
     {
+      "nama_event": "Bhabinkamtibmas Tegalpanggung Pengamanan Jalan Sehat dan Senam HUT RI ke-81 Warga Tukangan",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVXhmODNqbUxyX01JVjlzWmJpdW4zOWxjT19UWmxsYmVmUC1jNVNiY0VfYXF6QWlkX0EyUmExTzRuRV9Xc3V4dWd4R0V4SmVvdFg2b3NwdHlaZnpDQ0ozLURPallISXllQlhkd01zS2FqQVdzNkpNcWVjdTU5T1h5QjdOcXJCLUNzSXFUd2Q1Z3VYY1dBck1xTU1VWmNVMXE0Y1R3M0xfaFVSdzI4cGZCZFlENEl4UndUSWtCaUN4VGEwVlJNM3ZxWGgwd1FocTU3VENkdzNuZlhZM3ZBSFZzNkRZQ3hSc1dJbjdWRERWc3BwQQ?oc=5",
+      "sumber": "google_news_rss (Polda DIY)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-10T04:39:50+00:00"
+    },
+    {
       "nama_event": "Indomaret Run 2026 Kembali Digelar di PIK 2",
       "tanggal": null,
       "lokasi": null,
@@ -2923,7 +2962,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzcwMjMxOEdsMXJrajVNRHloYlpfV0dzbWJRWENnS3NTNzlfYUhtWlpRNTVUd3FINVBqdHo0NnNUcGlBR0RhY2IwU1NGc3UtWkdES3pjeTdabUpHajlkQy1qVkU1OF95aEM0VGxuZTJhOEFXSm8zdU9pNHQ1OUVrblM1amNtYVBhcHA4?oc=5",
-      "sumber": "google_news_rss (suarapembaharuan.com)",
+      "sumber": "google_news_rss (Suara Pembaharuan)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-08-09T07:00:00+00:00"
@@ -2936,7 +2975,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQTZHVmpGcXRxRDF3ZVNURjJhSktBWlhEZVJFQmlCUlB3eGlSNGIwUHR2bXVzdllxVzBtNnZsMXFQRVR2QmJKemxobmJLZGRESFVWcERnVXVDT256cjZoeUVzZHg4VmZWWnJOVnhCblpFSFk5TThwXzBNalpmeU92VzhwUmowOHdOSUpHeGRPejVrb1R4ZlFIeDRQMldSczBCbnFwNzZWTVdVcVRCaENFN19JYVNSbE9jUnBlSXVyZHowdEtBWmxSZ2IzUkNyS3k4My1ncVFDaEItV1ZWaE9XU2xPa0pDVFlIMklRdTN4VQ?oc=5",
-      "sumber": "google_news_rss (blorakab.go.id)",
+      "sumber": "google_news_rss (Pemkab Blora)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-09T07:00:00+00:00"
@@ -2981,6 +3020,19 @@
       "published": "2026-08-09T07:00:00+00:00"
     },
     {
+      "nama_event": "Jalan Sehat Nipah-Nipah Jelang HUT ke-81 Kemerdekan RI Berlangsung Meriah dengan Modal Bismillah",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEVwa1NWYlFQc2pDRnpwdEN6SnN1Q1ZwY0p2RFFzZFczNUNfWU9YanNxNER0bERjdFZWZUlNb3hCVTZFV05XN3NXSVN3WUtMWU5STm13WE84S2pKekZkejF1MmxmeTJxTWR0LWJpR3FjQzFkTm4yV2hLTXlva1QwY3dYYkJNQk4xWjNLZnl5bjh1RnpSYWJFa1lLdWlZVlh5aWhiM0VGMHpBQ2ZWaXFFVHR3bnBKLS0zV1NkR2lVbTh6eFRkWWJ4MnVqek40cmxKQ0hqbFgtMEU1QkRFbUE?oc=5",
+      "sumber": "google_news_rss (Korankaltim.com)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-09T07:00:00+00:00"
+    },
+    {
       "nama_event": "Dekranasda Fun & Run 2026 Dibuka, Lis Dorong UMKM Naik Kelas Lewat Event Daerah",
       "tanggal": null,
       "lokasi": null,
@@ -3001,7 +3053,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2daZzF6cFRjQXozZkV2NGhGVlYwTmNMVk12NVdudHF1M3NpekJnWkFod1hmQ2M4akE4V0FkdGoxeGVwWVlNeVZ2OGhqN1lLVGR0QWQ1bjNmcnpQUUFCWXdCelNPaEZIUHkwUll0Z3BuQjBKMEFBc0xvZm5BdFZqbDV0dU5GZG0tdkRUblRYSHE2N2swakFWYkx6WTF3ajVqcHI5SUVJRnRwLXVsNEw5ZUZGMVpwV0Noa1c3SzBtV3JWb1pDcFhuekp5OFR1UzA?oc=5",
-      "sumber": "google_news_rss (diskominfomc.kalselprov.go.id)",
+      "sumber": "google_news_rss (Media Center Provinsi Kalimantan Selatan)",
       "segmen": "pemerintah_bumn",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-08T07:00:00+00:00"
@@ -3105,7 +3157,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEdFTnI2T2hwRGZrSi1ZMjhqUzluM1lxdkZ4VzdQblZ3UHBDWDRkOFpxYzNBNUNNYnNKb0JCamVjOWk0Q1dXbmdCSGRNVWQ4OWxxcC00T1ROUlJlQ2gzN21EMWU0LUhVb2NEeHJ1M3NscWhjSE01bDJjbTlzLXR3eUR4SWdGcHEwRkExX2FXNmlzZTlOVngwTFBNNkE4QnRWNmlYdU85Y0o5c19SVk9rY2RvUF8wMkdhNXE5UFNiRQ?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-06T07:00:00+00:00"
@@ -3118,23 +3170,23 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZDkxNlZhRWRIVFA3dlRKM1cxM1pGN2ZWZFlVaGNTNnJTMEpIeTFaZTZ4MEMwS0RzUXBIU2FMUnIzZHpaYkkyNkIwTkx4M0RlV05BUGdkemp6d1JUelRxTEI4MUhNX3Q4VXJCZEJQYzBHMnFJN1dwcHlKSzI1X2l1OFJKcFN3YllmazRnc2RmOUZqTDhkSGRiY2R5UWdTMDUzV0xaU1YxbXdqdHpaSUJ2b3VJam5TR0JNUWpFaVp3dE5aN1NyNjNtNE5sbl9pb2RuNGxTOHA0eHhGSkh6LTY4?oc=5",
-      "sumber": "google_news_rss (PPID TNI AD)",
+      "sumber": "google_news_rss (ppid.tniad.mil.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-06T07:00:00+00:00"
     },
     {
-      "nama_event": "65 Perusahaan dari 8 Negara Meriahkan IndoBeauty Expo 2026",
+      "nama_event": "Jalan Sehat HUT Ke-64 PWRI, Ning Ita Ajak Lansia Tetap Aktif dan Bugar",
       "tanggal": null,
       "lokasi": null,
-      "kategori": "lainnya",
+      "kategori": "lari",
       "penyelenggara": null,
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWxaOWN1UVFYRE1pSFNlODRaQlhpMnMzZExLc0xOV0dxMjMwUkt2eVJFQkRHRXdxUy1QTFZtbG5UMGY1dHVJSVIxMXVQX2xmb0hxUDRYSXljemJwWVkydThpYjBNMmhrNjZDQURubkVhSmx3XzFmU2VHN3BVdUJ3Z0tWVzRqOUJNV3VaZDdMb3lNUQ?oc=5",
-      "sumber": "google_news_rss (mix.co.id)",
-      "segmen": "korporat",
-      "keyword": "family day perusahaan",
-      "published": "2026-08-05T07:00:00+00:00"
+      "link_resmi": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmhpc19BTDZ0b21DX296RHdsdUFOWW9meGNkTUNXZ0tmR3Z5Uk5FRTlhU3FaMXB1QXJYWnNla213d0dYVEs0YlVJMTVEaTRuTFRxdl9ibmgteU5CR193WlUySGEweGFKZEdxOWdhYnJ0RUtDVmlMcXRsMVRic1hsc2pnQml4ZUJDeGhEdERDazJCa1UxaFlhSGxSekVJam5VTFBCb3lZQ0JMZ2V1UzhZUFhjdFR5NFc2bU5RRDA4UnROV1pDUGhF?oc=5",
+      "sumber": "google_news_rss (Gema Media)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jalan sehat HUT",
+      "published": "2026-08-06T05:16:24+00:00"
     },
     {
       "nama_event": "FINAL FUN RUN MEDAN 2026",
@@ -3150,6 +3202,19 @@
       "published": "2026-08-04T07:00:00+00:00"
     },
     {
+      "nama_event": "Merdeka Run 2026 Siap Digelar! Cek Jadwal, Rute, Cara Daftar, dan Target 8.000 Peserta HUT ke-81 RI",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "hut",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSklPamtORk0tcUNMWWFpNmRPSnBlT2hHZ3ltdVl1ajhfUzBKaXF4bENNcWlQVVVWd1hIWWc2YXV6eXF5YldUSUpGR0loNG9mQWZDaGNYWkhjamZkdEtheERKN040dDRvUUg1ZW5yMVR6YUZHSFdueTBYbTdxcThMWTU3bTNxNFZmVUU2M00wS2VEVGpJZ3lwUU01b0l5RUhKUTRzVnlGZm5hUTlQYjJHbEZ1a0VZQ2RYcHRXbnpwX2NrMUQxYjZWaA?oc=5",
+      "sumber": "google_news_rss (Akurat.co)",
+      "segmen": "tidak_diketahui",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-08-03T07:00:00+00:00"
+    },
+    {
       "nama_event": "Begawan Fun Run 2026 Hadir di Malang, Daftar Rp150 Ribu Sudah Dapat Jersey, Medali, dan BIB",
       "tanggal": null,
       "lokasi": "Malang",
@@ -3157,7 +3222,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTVjZURpaUVsakxMN3F1N3FUTi1hUWFZU3BEeDhNT1hySnBCX1pnelMweTFMeEJYNEtCRjY5RjZmY1BlQ0hkZzBxcUdaZXFuVUUycTNFd3NUc0dYWjBUeEctVlhxdS1mMlRnR1AwZzdDcDZaLWhBMlMtQ2gzUkljcU5jeE9vQmZrUUhNdm9rX0d0bHktOGptS3ZVMm5nMmtJbkh3dlh2eGxfX1FYTWo1Nm9Va0N2MlpBc29aOGZKc05ndkhwcndCajFzNzczcXdObmhHSFlZUkjSAcABQVVfeXFMTkhWbVppUUpzb2FUWmdwTTNCV21jUzI5MVJkU0NybkFXTW5zaENVVkNqTXVlTTlWUEJDVGxUa0ZhUnZVcmd3M2Y3YzBzcFFWMUtxY0RyWHBpbU94QzlaOEFNMFpJNXlrS0YxSjVIQXM0LWtocEZqcmVQaFJHdWVEcWEwMXJteW0tVTQzZHJTTHFpNElfOUhQOUFyTkVqQ181WDBzOGM1OUhwalA5dHJrc3JtQlNVTHZTMzVGUnlsaGRs?oc=5",
-      "sumber": "google_news_rss (Disway Malang)",
+      "sumber": "google_news_rss (malang.disway.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2026-08-03T07:00:00+00:00"
@@ -3170,7 +3235,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDRKVkdmRldwaHA4V0xwYnZ1dWVKZ0RONXgwWkZudXJhTU5kc25GNTFoanZkOWl4Wl9FUFJ4SUp3b0U0V2JGREI4dXA4U0c1dEpCemVjNWhYRFVOVFlBOUliNHFyQzNsOUxpQnZFQ25YVzZTc1lQOVBhZWdmcXNMVEstcjRKQzZMMnRSckRuWU5SLS1CZkcyVTFidW9KcTFBN0FiNEljblBnZw?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-02T07:00:00+00:00"
@@ -3183,7 +3248,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmlaU2FFS2FsUk8zWXdDQm80RUtZbUE0WXc2U0U1dHBFRE5rVXVBR0tzYURYckx3Tkk4NS1Camd1MkR5MVJUQ1hHSkp6S2RHRHZsX2tmWUdwaDVmZEYxUWRlVE1sT29LaWN1ZU4xMlpRM2gwN1dwRXFrZnB3SXJVa2ZLYmZWaWk3dm9maFk4QlZPVWFid1RNTmFrMmZuNmI2Z0RCMHdSb2RGSFBMZXN3YWtZUWpndmVfUkJ4RTFkU2s5LW4wT0R6dGhBQQ?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-02T07:00:00+00:00"
@@ -3196,7 +3261,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXlVNjJMWXFEUFptRm9ja1FnSURyVkM2MkVxSHhHX2Z5cWxseHBKWnRGVm5SbFFpT3N1QlV2d1lrZWpQa0tsZlFOV3hRUFYwYkxic3l3b0g2cFRiemc3WlVya2ZZT3RQUFVHZjRRU0RUSDNFRm1OOEhjdFhwU3paalg2ZzFIWnB2d1FPRHVIUWxnQmZOdzVYUG9xVDVqTkZUU3hlcDR1WWlkQQ?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-02T07:00:00+00:00"
@@ -3209,7 +3274,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGdYb29hdTBZZzIyOXJSclFwMC1KMEVmVmJOQU95a1pxMTZsaGVfbFgtamNfQmxvZVpfSERsY2Vwb1dBejRlLUFNWjhNalBscWpBWklmd3YzclJydDlmQzRtWUgyZWI3TGNHVVRwdDNLRXAtaW9ZM1B1WTF3d2pJTURDZEtBUF9lUkg4bmpudkxkTWlyQmxFOVRsS25najI3UnZrY3FMX0VGMjFySXRWbS1mVXNIMFk?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-02T07:00:00+00:00"
@@ -3235,7 +3300,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckFzQWNvUVM1RGNjbklZdGJtN3VkOVZVZzktWUE1S1JybTBIR2dvRGxkQmp3VE52cmV5dHlYeUItNTd4YUplczJMYkNaaktLeDB3dXU0QVBHZjlidVRUTEQ0dUJOM1NDaUJLMExtY3dCMEpKY3l3MEZtWnlRZDBjYlJKeHB3d3loV1Q4XzZXVURyVFVKQ3VwbURYTTdYSVlBSkJBZ0NR?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-01T07:00:00+00:00"
@@ -3248,7 +3313,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1BCWUFMNmZuZ0VzUVBBTGozZmtCY1BfckZ3T3Fkd3VZVjRUS0RPWkNOaVB6UmdhOUVrZG1BWHk4VXpfSnN2clFjdHJSZjQxZElwX2hEbk1xeXNKd1N5bkNXSk5VekJhbE1neDh2M0FIYkhVRHQ1amdKNjZ3QVJFSDBmN2oxdGdhb1NRbnQ5QzhyV0J0UWlsYVlLNnlLd2x4NUhhM2pLcEhFT1huZFFWdUp2c1JZUTVTM1FIZnN0aDdFdDVrWXc?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-08-01T07:00:00+00:00"
@@ -3287,7 +3352,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjJBc3NIOWFqQS1uSUNya3lyT183UGVZR3Y1M21MMGJaM2k0Q0toZ3JNdFVidk95WkI5UHA4aWdzX2VoVDNYY25hZTBxVTZyaEpCaEpRZGdwZS1JTVpiTG1aZ2c5YUZzemE5TGd2Zk53RlJFV0xocHFCbDJtNTlkTTByejl6dnNTVUt3S1V4ZmZEV0d0RWt3eld5YVE5bFJXUW90YVRjNkkxSjhqekdz0gG0AUFVX3lxTE1vMTRtWXNvbTRLNEY0QnlkSjM0eVVtZWQ3MWRVZGE2d3kwTzlSVXZsbGJxLVVvd2ZtWGRoTDRGcm9FNGluUzh3cmt1YktwZVA3YWtOeGcyeTdUbldqVG1keU5HUHdodmlfOWxhbGNmSzItdU11R3daZlh0TkxNUkRUTGpSY2Z0LXE0aVFSR3VuVTFIdllKVnZMSzNLR2pudmxKZUV2MWhIdnJWZkxwQzlvNjZHSQ?oc=5",
-      "sumber": "google_news_rss (jatim.antaranews.com)",
+      "sumber": "google_news_rss (Antara News jatim)",
       "segmen": "pemerintah_bumn",
       "keyword": "HUT BUMN fun run",
       "published": "2026-07-31T07:00:00+00:00"
@@ -3306,19 +3371,6 @@
       "published": "2026-07-31T07:00:00+00:00"
     },
     {
-      "nama_event": "Jalan Sehat HUT Ke-64 PWRI, Ning Ita Ajak Lansia Tetap Aktif dan Bugar",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3huNzJBalR5S05MbVhVa3p1Unp5TUhPZ2s3cHlYOC1FdHRmZ3ItQTBJZ0pkVjFhbWF4cFlQUUxWeld6OXpnSk9iME1oUmU4VlBQTF85QnRNSmZ3ZTBfdlN4akpxcGJBSUJTQXFzaXd4eFVwcm1NRk1veXROanZPc2l5RWQzcENOX0JfTTVTcFhHZVlyRlpHeHdmSGZYdW1jQ0dvbTdQMHJjaUlVTjBIODdjcGdZTkdUZ1c0?oc=5",
-      "sumber": "google_news_rss (Pemerintah Kota Mojokerto)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-07-31T07:00:00+00:00"
-    },
-    {
       "nama_event": "400 Lansia Ramaikan Jalan Sehat HUT PWRI Kota Mojokerto, Semangat Hidup Aktif Jadi Sorotan",
       "tanggal": null,
       "lokasi": null,
@@ -3326,7 +3378,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeDE4d092aFF0MTdrVlg1TThncjROd1ZNeXIyUHNjdTNTVXp1SE9WV3FLdXk3RXRybFVjaGstZ00wWEFLZGZ5YVgtNDhrX0FCRnJIQVV5cGp2WnpvWG9QajlUSVB2bkJ6ajFTY2lzWndzeE5CbnhRU1pfQ2o0LTNIbndWbkJWQlE2eHJzcEptX0VzZ0ZvTjdoTzE1dTRXQ25FLUpvTWpTMTVnLV9EbEIyeHRnTVlIVUloMm5mS0tDSjZBVnY0SFhDUDV4bS3SAcQBQVVfeXFMT2FKZjRSenIyOGlXMW9JSFNHQU1mWjVKRk1yX0s3cmp5d1RKLUFWT3VJN3o3RmpFMW1zUUZaT1VEZVVzQ3JRWHlUNUpEWTZUQ2JRMVAwd2VEVzY1MGRPX0dBdndMRGVTYzE3NXJqa1BkcXN3eHBnS0ZCMVdMMFdUUm1tZzFxWjh2YVJZcW05LTd2cVlWdWpDYzNvVm9fQUFHdDhLX1EtdW5nbFF4eERwX1A2amNWZTdHRm1MWlpIek5ENS1hNA?oc=5",
-      "sumber": "google_news_rss (disway Mojokerto)",
+      "sumber": "google_news_rss (mojokerto.disway.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-07-31T07:00:00+00:00"
@@ -3352,7 +3404,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VUkZGa25zQXNLb045TEVxa3hvSXY1OXV4SWVUdnNvZThxNlVYU2RZQTJHQmViMFk2aVRTR3dNYjlpeGJkRkxfYjlYQXJzQlBYQ3dvRTFEU2xDQnlOU3dMTHZpQmdaYjhyU092Qkgwdw?oc=5",
-      "sumber": "google_news_rss (Tirto.id)",
+      "sumber": "google_news_rss (tirto.id)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-07-29T07:00:00+00:00"
@@ -3404,7 +3456,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVdSaUJIZ3RnQjA5LW1zNFhnYzJMYmxWQk5WQ1JNMUpNanZrWkc1b0dDRUl6OTlhbjlqUjdfSGZnaWlvcndYMUI2bzh0bmlPWjRrZ3JWN29jZjZ0Y0c3X2RNTFlac2U1MFNDNlRjbzVLaTlDTVVfbGlrZEFaQko4MEk4cnVSX0hFZVNLV0JMWlhRSXZzWVNWVU1PV2dWMmJFWFdSOXh5cXlfYW84dzVROTlnamlFeXdYMWdUY3RTRGFHVUpxalFZ?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-07-27T07:00:00+00:00"
@@ -3417,7 +3469,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWk0cDN5aHNDOWJkTmMwOG9vN2Z4YzVzekVscWtPWm12ZzFpeDg5MUtwMWEyODVmby1oRVRUYzdCNmtrbnpmeFc4VjhRbUNZNE04Ni1aSmRtcUR3MzBPa1FfVHVTbzFkNmItQzFIUmxaVEdkazFtWWVkX1RQdHZWQjFiT2hJNDMwVjVLNzJUTGd5VkVKNVFxbzBKS0ZuSEMzR0pyUUNxX1V0NTFGbGp3dHE1amRUdEZjeVRzRE9Cc19BT3M?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-07-26T07:00:00+00:00"
@@ -3430,23 +3482,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXhjajNDSjBPUFVTQ2RMRGQ5ZUs4Y3BKY01FMVBWNk9hMm9SOXRONkdPencwTmRxclZlZm95eXExZ2EtMDNEb0pRNjBmU092WnpSMTdiY0hTb201MW5fUV9aS1E2dGxpdm9GT3dNMEhVbzI0YVhBcmsxaWtTc3UzZVgydWVGWVdBdm4yYWFUeWI5VjZCWWR2aXBDUXktZzNMazlMN3R5eWZKVHc?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-07-26T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Besok, (Minggu, 26/7/26), akan ada kegiatan PKB Run Fest 2026 di berbagai ruas jalan di Jakarta Selatan 🏃‍♀️🏃‍♂️ Agar arus lalu lintas tetap tertib dan lancar, Dishub DKI Jakarta menerapkan Rekayasa Lalu Lintas di lokasi-lokasi yang bersinggungan den",
-      "tanggal": null,
-      "lokasi": "Jakarta",
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjWnNxaGdheVFaV0FKX1EyYm5mbmRmS1BiTV9KdDZ0UTBOallUU29CMlFfY0E3c2wtdWI1UmFqV3RDQWI4U2o2OW9XTzdtOXI5VFE?oc=5",
-      "sumber": "google_news_rss (instagram.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "fun run 2026",
-      "published": "2026-07-25T07:00:00+00:00"
     },
     {
       "nama_event": "TarifSpesialPeriodeEarlybirdSTIHPADAFunRun2026BerhadiahTotalPuluhanJutaRupiah",
@@ -3534,7 +3573,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmo1cENaa05VbDZHWGlXaVZuWTRNWWUtZENfcXQ0VndoWFc2UG5VM0tBTjB5WVZWTkZwLWRnN09rdVhoTWFXa1MwQk9WWmNvRlh0ZU1yRFdZTkhaU2ZrOWxqYWpqbjZ6dG1najNZcVlIWFU4ZExQZ1RiRVRPRmxNcjZ1WlJiR0tjM0pNdGNqWXoxeVFmNnh1MmNTcDV1TXJ6d21BV2tiemZHelpWVGJyTlpiUWoyQk8wZUl2aGJWLS1zZkRTOG9CYXk2aFE?oc=5",
-      "sumber": "google_news_rss (Ikatan Konsultan Pajak Indonesia)",
+      "sumber": "google_news_rss (ikpi.or.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-07-23T07:00:00+00:00"
@@ -3592,19 +3631,6 @@
       "published": "2026-07-19T07:00:00+00:00"
     },
     {
-      "nama_event": "Semarak HUT Ke-24 Nagan Raya, Jalan Sehat Meriah dengan Hadiah Umrah dan Sepeda Motor",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXJxbXdfazdSbFpDWjcwSVdtODZ4U29FSnk3SFJfT2ZhQUtIdEozOHdGaDFqMUdzRTQxa0VrUzlGdEZKWldVRDVCTllRX3lZdEVSZkZReWd5cy1sVTRVY2M0TFZBRkc0d3J1dDhsOUUyWFRFeHlHLXN1Q0VkaXQweHdteHAxdlpfMU5xVjFiU3oxelF4SE5zRjlyMVFNNEJydF9BTFA1ZTctV1JDVHdpYVJqZGZ0NUd0QXBwcUhQS0wzVjlVajNlM1kxQjFycmFVS2pJ?oc=5",
-      "sumber": "google_news_rss (Pemerintah Kabupaten Nagan Raya)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-07-19T07:00:00+00:00"
-    },
-    {
       "nama_event": "Sasar Rute Ikonik Malioboro, Indomaret Fun Run 2026 Targetkan 5.000 Pelari",
       "tanggal": null,
       "lokasi": null,
@@ -3625,7 +3651,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmRHWEp0VE9QVFRVSTQtaHFYbnE2bG1lOUFNaW8yTkJmbzEtQnRBUW5UZTM5enRfdXdzdDZ4czUtWjJfaHJkdmEzMGN3UUJ5UXdQT0dfX3VPODFCd1JCTmVmZWgxc3o3MU9FaURuR05IdFEwaFp1ejl1RkZfaGVraWZ4WVlnZ3haeTFrdXd4QTFtWWtpRmc?oc=5",
-      "sumber": "google_news_rss (Koran Bernas)",
+      "sumber": "google_news_rss (koranbernas.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2026-07-18T07:00:00+00:00"
@@ -3677,7 +3703,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDMxOHpERFpKN3hkcVM1b05veUwzN3RtR3JnWW9xYzhKLTJKVWIwaGl3aWpYYlQ3X1NacjlSSi1KY2M0WFhjbmNiOWN1WWJGYXJWSVlZbXZrdkdmalM5cnM5bndEOWNDVDZVMW5Sa3IwWDY3OERDUGtETkNfdnhSRkI3Q2RRTGZBUThFNEwydFRrV25ZZzk2OEhoclhiQUQxSFE?oc=5",
-      "sumber": "google_news_rss (BeritaSatu.com)",
+      "sumber": "google_news_rss (beritasatu.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-07-16T07:00:00+00:00"
@@ -3694,6 +3720,32 @@
       "segmen": "tidak_diketahui",
       "keyword": "HUT BUMN fun run",
       "published": "2026-07-15T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Jakarta Sky Fun Run 2026 Padukan Olahraga dengan Aksi Keberlanjutan",
+      "tanggal": null,
+      "lokasi": "Jakarta",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0R6VV9PeFpVcVNtTDFkX2Q5a0hSb2Q2Z3d1S05uTF8xR0F1blFxWjh5bTBybWU3X3Fwby1Ld25BOVN5V1JKbWlkUUdsX2pHNXZyQzMyT1hiMjd6bEtyR3prMUtUU0V2Z0M1aU05T2lHVDhtaHctZ25FLXN1ekE1emduaU1yaldvVEJETjU5VVluZlozWktkaW42Z1RCWmJ3VkJ1OVhnaFhRdw?oc=5",
+      "sumber": "google_news_rss (Beritajakarta.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "fun run 2026",
+      "published": "2026-07-13T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Kasrem 072/Pamungkas Hadiri Fun Run Taruna Nusantara 2026",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkhlcDd2YWJkbHV1ZTl5NXY1SjJaZ2tDLXJJOEpPaW5NVTdOTFlTcG9XcEVMeTROcTBpMjlEcXhxcW9Mc3VYQmJSNTNxLUJfdEtVWDBya0hwV181dTNhbHV1M1IxNXk1U2xzdDRHWWFzNGM0QXRQRm91QVVpbElYRkJoSHRjWkhoYlduNHhEQTUzdG8?oc=5",
+      "sumber": "google_news_rss (korem072.tni-ad.mil.id)",
+      "segmen": "tidak_diketahui",
+      "keyword": "HUT BUMN fun run",
+      "published": "2026-07-12T07:00:00+00:00"
     },
     {
       "nama_event": "Ribuan Warga Semarakkan Jalan Sehat Peringatan HUT Dekranasda, HKG PKK, dan Hari Koperasi di Taman Harmoni",
@@ -3748,6 +3800,32 @@
       "published": "2026-07-10T07:00:00+00:00"
     },
     {
+      "nama_event": "Pendaftaran Borobudur Marathon 2026 Dibuka Hari Ini! Kuota 12.500 Pelari",
+      "tanggal": null,
+      "lokasi": "Borobudur",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVVtTVBHVTJKNy0zSjVQMGFaNmJTRzRabTlleUlxbVFVTXh5MnAzTS1UU2ZBSi0xTWpvdWJXMXlZU2RMRFVaQ1dOQWJ3bW5YaHBLOFRCWDhBRGpXdFZHMTJLV2F0cGJYZVNHQlFNcjkzQ2dfMVVCa2xSdHJnVmtjRFpRUFYwLVpTQk1KbFpPYzJHTW9CMjIwekRNeWlUV2w0dGRnQm5KWVE5bW1jWVd4b1FDaUFGNFVnb1pwOFNEUnNrMjFGNXhQa1ptVdIB0AFBVV95cUxPQXlmQVZ6elpsamNNSXZFMVRZSEZCbFFoaXdwSFFFNTdzeHRrZHJFOGhTQzFRTDVKSTRaM1hwbU9nWndlSGZhU2Z1eXNudDNKSzVXeDlkb3VTNWdhZU1qaWpRNHEyS09CeUR6aGVwM3N3dVVvXzljWUx2dDE1MEd2b3d4a1Fla3dZZkpJU3RBWVV4eFlYZkZHS3drYzVtSkNXOGUtUzdvcEFQN1R5bndlZDZMQ2xROG1pUTNXQzltY252bEY5VEUyeVBhU19iT0NO?oc=5",
+      "sumber": "google_news_rss (IDN Times Jateng)",
+      "segmen": "komunitas",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Pendaftaran Borobudur Marathon 2026 Dibuka Besok, Slot Peserta 12.500",
+      "tanggal": null,
+      "lokasi": "Borobudur",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGdOeDVLcm9LRnBVY0RvWFRzM2lsSVNlSVZsWjhndk1ES2wtTTVUbHpUaXNVTFUzREVjcTd1WWtrV0xNYnNXR2FZazRoeGZKcTZwZGtwaG56V1Y0ZXljem1GN2pjMGxhQUNEVGxvaXEwSDZRc0s3WHNDNXBCMmVDTHBhSC1RME9GY1dQWTBWUGlPNG0xUFlWNTdn?oc=5",
+      "sumber": "google_news_rss (Lingkar Jateng)",
+      "segmen": "tidak_diketahui",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
       "nama_event": "Daftar Event Lari di Jogja Juli-September 2026, Catat Tanggalnya!",
       "tanggal": null,
       "lokasi": "Jogja",
@@ -3755,7 +3833,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOU9qNmF6ZDFicTVhRGhrWEFiVUJwZ3pLWUllX1VvdFZHSEdMcmZQMm5BR1VnZ0RlcFFlUnRLMlNxc1JWT1Q5bVJtamJhS290dWd2Umk4OFJZYkVsdWZ6QnZnSUZ0RG9KTjdrdTctSFREZ3k2eld4TGEzQ1B0dTcyTGRQYlpUNVM0blU3SXRGbkJMbHJVTkJpTkgxWnZTZlh4b0JzMWtGb250b1hnSlRXUDVfcWJQR3dlb3Q0V2ZnSVpIVm_SAcgBQVVfeXFMUDJGb1JMZmlRXzlVRjZWNjlZZTNkT0ZpNWdjY3o2Y0p0OXdwQmZtZFF0czF6MjdKNkJVRHRTZG5IMWMyOHQtbVhVODhycGlDdU5qOWZTXy1adXp5aXFSUm1HR0FZdnlISEZDcUpPdVE1WGhVQ3QxTnpsdjF2dHlybGNTUW4wSThtb3dURHZsTWYtaFVvZXRzdGNkamM0aUpyU1RuaHpFYUFraWJxamtFcUREcnZZZDNSX1ZxUlRIS3o4ZDN4dFY3OXA?oc=5",
-      "sumber": "google_news_rss (IDN Times Jogja)",
+      "sumber": "google_news_rss (jogja.idntimes.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-07-09T07:00:00+00:00"
@@ -3859,7 +3937,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUks5cUMzTlRiX2dTQm13ZEcxUk4xZGx2MWt1UVM3aXpEdDBZdE8wRXJncTNoMVU2aEIxVHFVZGttU0JWWlMxWjVzeUgtbFpmc24wRXZESWQzVHdCbzh2aUN5cXZITlExU1hVbThUUGZ2a1dPWElYTkdQZmJwQU5ENm83WU0waW50WGF2WUh1MXp0elpWTG1ONkdyclFZOHNaS3p4WlJIcGd3b2VVdmNWcEN2SUg3Z3hpRHJGdzhyS2JJRFVZLVA0N3ZDbkZIMlc3R3hPbUctNzdYVGxR0gHUAUFVX3lxTE9kVkZqSFlSNXd0NW9vWGJtOExsUEttQzRTVTR1MTlEVi1PNHdFZ0F0OHlud3dnRHI1ckRCQzA2WWF2ZkFaX0Ywc0VCTWZMajcxSkFnWHBTd3VwUEdLOFFBc0p6YkhvVzNtVDMyVHQzYmVpM1c3ak90Rm9PUnowUnIzbHoxM2tYUkV6SU1rSzJyLVpSbEFzbWgzMm1XazB5Rk5tMl9DX2k1bjVlLXJ3T3l2NG1FRUo2d0tXWThGRUJIRy1GRmN0cm0tVlhJNzBWdWc0bS1m?oc=5",
-      "sumber": "google_news_rss (disway Mojokerto)",
+      "sumber": "google_news_rss (mojokerto.disway.id)",
       "segmen": "sekolah",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-07-05T07:00:00+00:00"
@@ -3898,7 +3976,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUNuS0ZFSTJBc1pha3BqNFJxVm9hNGRNMjF4eXNGQW9FUEdWTnN0ek42QXJSZGdqdFVzZWdleWZjZm81aS00c2ZsRm9aMzlYYjZhSnhzVTFuenhoQ2JYMGNmbndQRzlURWU5LUZyQ1p5R0F4SVkzUXkyVVdSdVVrbXd2YS1WQUZ5NjlySUNlb2hSeGFiSmtBWDB2QVZleGxROFNqaE90X0NNN0pUTTAxaGxmWFoxbXNEOFRwSWhjaw?oc=5",
-      "sumber": "google_news_rss (tribratanews.lampung.polri.go.id)",
+      "sumber": "google_news_rss (Tribratanews Polda Lampung)",
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-06-30T07:00:00+00:00"
@@ -3911,7 +3989,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9peGxQSldyQlhDVDI1a1hTVXl6aHhoa3VLU1g5eWE5c3pOaEt5dkR5eFF2M0hSSHpJUGk4OTdWTUttMWhOcEZrZmRNc2l4QkswY25uRXIzOHdaMkl2ZEhyN2FlTmV3NUtkcXl1d2JpaFdfWVB5MWZGNg?oc=5",
-      "sumber": "google_news_rss (Tirto.id)",
+      "sumber": "google_news_rss (tirto.id)",
       "segmen": "pemerintah_bumn",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-06-29T07:00:00+00:00"
@@ -4060,32 +4138,6 @@
       "published": "2026-06-23T07:00:00+00:00"
     },
     {
-      "nama_event": "Minggu Pagi Ada Jalan Sehat HUT ke-344 Bandar Lampung, Berhadiah Rumah hingga Mobil",
-      "tanggal": null,
-      "lokasi": "Lampung",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYVJIRkhVUWEybjhoZmMtNm15MTJZdVdCS1dYRVpORml6eDgtWEpxRjlsNF9oOThPZXpQMG9jRUJrb0ExOC1XVmFvak9KVmhId2t0VUd2MjVjMGVJRE5VdXI2S1BocUNwVVJ2UjJIY2ZxXzZTNnJlUEZlOW1TbFE2YmxqUUxZUmhFSk1pdjFUenJtMTNpd1M0SnpTMUJjWG9VY0pJRXpEWkZKdjNrNVlZNzhtUnpfTWc?oc=5",
-      "sumber": "google_news_rss (Kupas Tuntas)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-06-23T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Daftar Lengkap Juara Mandiri Jogja Marathon 2026",
-      "tanggal": null,
-      "lokasi": "Jogja",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRS1AtaTJhNTR5d2I4aldTYk92bnA0UU5yU2FRRFJyaDFpbm5MNDIyRWpkR3Y1cjRkRWN5ZnlidkN2YzRueWV0SGlzUzEtQTExQ0huaEljNTF5Q1hWUnN3T21jR3FhX2Rwa0tGZHlGWUpDaWRBVkJTSEc5VGtLazA?oc=5",
-      "sumber": "google_news_rss (Cerita Pelari)",
-      "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-06-22T07:00:00+00:00"
-    },
-    {
       "nama_event": "Sejumlah tokoh latihan jelang turun di UI Green Marathon 2026",
       "tanggal": null,
       "lokasi": null,
@@ -4093,7 +4145,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmZzWDhLOHFKTVhBZlRidTR4TkhGMm5jMUxlX3pjYWYtVlR2R2lyYUtXVXZhMV9NRWFKWkRnMnVyem0wUEpZdlREYmhIaXYxT2lPR2dNNHF0ZEJGUTNLaURVQkhmcDh2clpsR2ZVTVlCQ3pxWlFBZmFIVk1MUHJrVkJ1WjAxRTZHUnpWQWE5al9kRlhqODhkTG1qVFhVQXBIdGNRZ05fTnhoaVkwWkdv0gG0AUFVX3lxTFBGcFpXcDJGeGtkVzkwdnBGRjRBbTdTUkhLYzJoX3QwQjhScUNpek5feTFwZmlpZ2pUUkNHUU54czFPUzJvUER6QnpQY0dhRTRHRVFBc3lBVVZ6RVN1WFFhdENqaTFZTnJjV2NBUlVqLXBaSFFrQlRtZHpmNzNDVFAtVnl6QlIzUDQybFRfUTAxU1FRLThIazB5Zno5RjhnSGp3ckp2QmVWWUo4aEpQaEVUWUlCbw?oc=5",
-      "sumber": "google_news_rss (ANTARA News Megapolitan)",
+      "sumber": "google_news_rss (megapolitan.antaranews.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-06-21T07:00:00+00:00"
@@ -4110,19 +4162,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "jalan sehat HUT",
       "published": "2026-06-20T12:29:09+00:00"
-    },
-    {
-      "nama_event": "Warga Antusias Meramaikan Pesta Rakyat dan Jalan Sehat di Kecamatan Senapelan",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDkxZ2NHSThrc0ZMSy1SOEJNbG5qMmQ0eUtCZzIwakhuWndaTW1vU3R5RURjTXc3bGxKeE1HWEtxYXZlM0ZzTzFaa2FDUXcyR0JpQ0d4Z2FTVEhDVUNzc2Z2Qk9VMFk2bmtOaWFyby1UT2FNTnJ2V2xpbTB3bFVxdnB3elFyam0xZmhtN2NHcFpnaEstR0YyelR1bFhnS1FCc09mRzNObDlpVjBFbFhFNnN3?oc=5",
-      "sumber": "google_news_rss (Pekanbaru.go.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-06-20T07:00:00+00:00"
     },
     {
       "nama_event": "One Team One Family, Karyawan Marsol Siap Ciptakan Kenangan di Family Gathering 2026",
@@ -4288,7 +4327,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXZQd0tHdy1oU28tWTdpMzB4a2ppNWNtZFkxYUZuYzNrOVQ4OERVelZjMU9qc3FMbXprQkpUTnFaRXNjUDc1NVlHRXNSLWFyQnAyV1lsTjBRckhQQkZBTm9HSVY4aWRQU0k4ek02dzZWVXEydHpaMklmS3ZBZEdiRHk4V3dkRXZSR0VWRmNDdEZLS3U1c2l2aERlbkYxeUE?oc=5",
-      "sumber": "google_news_rss (mix.co.id)",
+      "sumber": "google_news_rss (MIX Marcomm)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2026-06-06T00:06:19+00:00"
@@ -4444,7 +4483,7 @@
       "penyelenggara": "PT Taru Martani",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2Y4bXdMYXJPaGpHV2YxTlBBdnNTSWZBaUtudEVvcXRGR0U2ZlBzeWV3RGhPYmVobU10U20zZUVTb0lFR1g5YTFlQmF3TnZ4bFpDa29UWjFkNDNXXzlwTUttbzJhdDNuOXFfS29FS29maS1fcHJLX3o3ZEhVbEs2eGhxQUlfWURpcm5pZWZQYlM0S2NNYXhGWEtyR2hOM3pBUjlFeE1ETTBfNUpUeWtMb0RvWGRERG9jWno5ekFoOWNGLVFld05oOW43QUY?oc=5",
-      "sumber": "google_news_rss (Jogjakartanews)",
+      "sumber": "google_news_rss (jogjakartanews.com)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2026-05-28T07:00:00+00:00"
@@ -4513,6 +4552,19 @@
       "segmen": "sekolah",
       "keyword": "gathering karyawan",
       "published": "2026-05-24T07:00:00+00:00"
+    },
+    {
+      "nama_event": "Pendaftaran APINDO Run Festival 2026 Mulai Dibuka, Hadirkan Kategori 3K dan 5K, Hadiah Ratusan Juta Menanti",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajBrWS1kWlRKblFldElad0h5MFFVS290TlVvQ25VVjY5cHJLOHg3UkxTeFRtZU9PUmZfYWNCcHdvLUlVOHdkZGxyMXBIek5reW5PNncyRnlUdmIzRWNQYW5zMDUyc1h4TGFvWXkzcHZaZUVIcG9hblJKeGRJUU1qZllXQzgxQXZldk5XRWVUai1qeTY5VjhDMC05OE9GQmtUSy1zZ0RoZGNlYVR5dnhPajJiRXp1SnJTdHljdlIxQV9KSE1u?oc=5",
+      "sumber": "google_news_rss (Makassar Terkini)",
+      "segmen": "tidak_diketahui",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-05-23T07:00:00+00:00"
     },
     {
       "nama_event": "Teachers Gathering Spemdalas Hadirkan Suasana Hangat dan Penuh Kekeluargaan",
@@ -4632,6 +4684,19 @@
       "published": "2026-05-14T07:00:00+00:00"
     },
     {
+      "nama_event": "Digelar Bulan Mei, Cek di Sini Informasi Jogja Run D-City 2026",
+      "tanggal": null,
+      "lokasi": "Jogja",
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS05iQnhfWDhLS1BmNzRGM0lBS21JeVJZb0EtWllPRXhsUHlOaU1mRjNfZjI1eTBnVFJMTnRBSEprQ0Y4Qkh1ZFFLRjc0TDh5a05vTVF3dzB1YzcwSEJpWVdGRUFqV0ROWkl6NmtEcUIwR1M2OUxWMkNuWFBac292bTRBNnhPOEFxMllzTHZ6OUtNNnlxQTRPb0Z0VkJkS1RocGhTYmFiYi1EZ9IBrwFBVV95cUxQQlhxQTZBajBaaFBuMjh6MjJ4SnRKQkRWR3RQMVVSci1oSlQzOVNNUEx6MUZXRExMUEJOS2RuRGhVT1RmZDl3NGFFUFEtdHFoRmxOVWJXVDFiakJocC1vcTEwWDhnbFZ5ekRZeDdxcXVKVS1MMVZGSHBnRC1jcURfeEpYRTcxbkZQQ0VsS3ZuTllndjNCSGJ1TFBacDVldjJWOEhiQTd4R1pheTh5TjJV?oc=5",
+      "sumber": "google_news_rss (detiksport)",
+      "segmen": "tidak_diketahui",
+      "keyword": "lomba lari 2026 pendaftaran",
+      "published": "2026-05-13T07:00:00+00:00"
+    },
+    {
       "nama_event": "Catat! Daftar Event Lari Jawa Timur Paling Lengkap 2026",
       "tanggal": null,
       "lokasi": null,
@@ -4639,7 +4704,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1hGVWk1WjB3QTNiY2pqY0pRRWhnX0JXd19SNXZyXzV5SXNQTTdBVzFocFdkcTZMYlV1Q3BWX01FTXZvaklTX1hQbXV3eHJFM3JoREtFVVhGZ3FqZlhxY25reEN6bW16TE96RXVZVEk2S1g1ajJfb0R4MlRRUjlvLTVCNHJxa09RNDdIQmlubEZYVURrekxQNDBJTWhVNkl5V1B2b09oZm51N2phNGhvNmtZUFVyUdIBuwFBVV95cUxQMTEyZmsya2x2bDZIV0JKV05vRnlpZnlZRVVEV3l6eTdKQ2VLcWtEUmtHSEd4eHEzM1Q5d2x3bFFtTXlCbjJlRHdURmtHZHo2NkRuQlpBa1ZrbkMzdTI0Qm00dF9JaHRTZVYya2syRG1JYkE1RHlPMUFfcVY1aGRSZ29XTXJfcWlQU1cxMk5NdjNRTmVmb1VLRmRmeUVoZ0JqVWNXSXVETE0tdDZ4VG9NMnZGM3hFbDhVeHNF?oc=5",
-      "sumber": "google_news_rss (IDN Times Jatim)",
+      "sumber": "google_news_rss (jatim.idntimes.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-05-12T07:00:00+00:00"
@@ -4682,19 +4747,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-05-10T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Jogja Run D-City 2026: Digelar 24 Mei, Daftar Detik Ini Juga",
-      "tanggal": null,
-      "lokasi": "Jogja",
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekMwdEJERkhQNFdCYXpHMDd5N3VZMl9lQldIVkN5X2x6ZlVqMTA2YUwwdWN1MGpPdmlINFJJd21IV0JYcEJqRi1yWW5vRTY1QnBLdVhZa3NxM1NveGQ3Q2tSQVpEWENKTE1zV3dlbWZMLV9ZNmZXYTNnckgyQjhCM2JNczJ2czVhRlpyVFlqNFZOandUZUVpX28wRThNdzZIOGJrU2xB0gGrAUFVX3lxTE9ISHY4aFYxMHpaQUtadXlaWjNWS25BRTBUN0hoX0JUNy1FNjhRd3dyWXJNc1VaUHNqZ1d5V2NiT1NTNElLc2dDMDRJR1oydlRRZUFmWlpIclhLNVNna1JfMENLYzc1NzgzSWtEM0doYVVvM1g1djBSZm90Y21FUmUyYy1OODByX2JKVkd4QUJJR2Z6Z3pYYl9vVHVJZy1DS0M0MU1qbTJhZG9JMA?oc=5",
-      "sumber": "google_news_rss (detiksport)",
-      "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-05-06T07:00:00+00:00"
     },
     {
       "nama_event": "Jogja Run D-City 2026: Event Lari Bonus Joget di Konser Ndarboy Genk!",
@@ -4762,19 +4814,6 @@
       "published": "2026-05-03T07:00:00+00:00"
     },
     {
-      "nama_event": "Utama Raya Beach Situbondo Jadi Pilihan Family Gathering Aisyiyah Suci",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "gathering",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1NCWTV6RTBLQU0xeHFEMmp2c0ZRVVNGSzBiM3RjSnNiSmxZX3dIc2RSbGw1UGFlQ1ZqMXd1RER6Vmx1cXNUYjNpd3VQZlNUcWR1eU40dHdobjl0X1NXTjVva2dKdFZuU2E3UFgzdWprSTdqZ2dFNWNoRGw2UXptMWtNX01Ob193ZXItb3pnS0lLQQ?oc=5",
-      "sumber": "google_news_rss (Tagar.co)",
-      "segmen": "tidak_diketahui",
-      "keyword": "gathering karyawan",
-      "published": "2026-05-02T07:00:00+00:00"
-    },
-    {
       "nama_event": "Cek Tiket Jakarta Running Festival 2026 dan Ketentuan Peserta",
       "tanggal": null,
       "lokasi": "Jakarta",
@@ -4782,7 +4821,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeERrY1h3MnFPWVA3N2RLRzJMRGVkZm9WTzlTXzF4NTB2S0YxZ2JTNkQtcmFlTTJjVEZ4NWpBbHFzMUdVY3kyeFBwQ1BuajdhZ2ZWMWpRRlhzU2ZCLUV0dzVzUnlSaXVUZHc3OWcxU25VUm03dGhVeXZVZzRCOXJDMXRhNllLNmxQWjdV?oc=5",
-      "sumber": "google_news_rss (Tirto.id)",
+      "sumber": "google_news_rss (tirto.id)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-04-29T07:00:00+00:00"
@@ -4851,19 +4890,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-04-23T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Rayakan HUT ke-19, Empat Lawang Gelar Jalan Sehat dan Kampanye Lingkungan Bersama",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOE9jdlZpM3l2eG1MdS1QaWhDV3FDeng3U3hFTHFXenNfWDg5YUM4cF9UYzRKT0ZSMjlSWTU2dTFXTlh0MnRhZnEwZ0JpUFh3TnVHb2RHbm5BVlpVM2pvZ3J4WGYzd2duUlpKSS0yLXo2WE1YTndFRmNMS3B5LTVpN29VdmE3RDlXbmllS3NpQWdGMDJHeGVTLWwtd01KWjY1Y2Vucnc5VmppQjREb0ZzRG5wXy00cXVTV0hRc9IBuwFBVV95cUxPZmhYMXh5RU5veFM5V2E2X1dvV0NpVHRfUEpSbXdaOUY3VXhEQ2V5V1ZOY3lfZEhIOEtULXoxTUNaR2R0Z25La0pDcnFQa0NDZk1UNlRSNXE4eTYwRlNkX0JTcmlsaHZJcmJfYTRpTndDRDRPYW5OMzNER3ZHczVSOThBWWxWWGRodHl2dDhrOVpPb2lUMndEOW9Ma2QtQXQwTXlZQktaM2RlLWpDRnNqaW5zOGNjUGM3VEsw?oc=5",
-      "sumber": "google_news_rss (Pemerintah Kabupaten Empat Lawang)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-04-21T07:00:00+00:00"
     },
     {
       "nama_event": "Daftar Jogja Run D-City 2026 dan Menangkan Hadiah Jutaan Rupiah!",
@@ -4951,49 +4977,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGZidExBTGxMTDhPWXFBMEZxVWgteHF0RUZaU3g0YkViam9QdE8wc090UjFDRUlmeTNsMFREU1VpTC13OGtUMl9qcGJZcThIbzdYbWNvbmprVVpEY3VDRzFEWExKMTNGUXZIVU9YUHYwRTBlZDROMGVFYTFTaW5pMFduMGx3OVdnWGczcDUwaXQwZWE4ODhOdjItbTVSekRpalVMYTZHVG40MVp1LXV2RUtKSGVqTTl2bVpaWmhfYzEwSmPSAcgBQVVfeXFMTjFYcUVNdFdHN3lSb0ljaUNZWmlZeFhrSmd5cjZCcUVJUkZCdFBLR0M5SzRBSTBiLVpYZlJjT3hUSXVkQ2k3dVI4V25KNkZzMm92aW5EREpnNUtiOGVReVZMTXJ1N1JRZnl3MXZ0M1RpT24yb3B5UkwzUWhuWVc4Z3JSaTc2WjJaR2RVaGpqSUd6U3BOMklTWEhkN24tVWVXLVVkX3plV3NRVnZjYllFNzJnWVZUZXFCSDRKM19fTFVHVlc5X0ZKVVM?oc=5",
-      "sumber": "google_news_rss (IDN Times Sulsel)",
+      "sumber": "google_news_rss (sulsel.idntimes.com)",
       "segmen": "tidak_diketahui",
       "keyword": "lomba lari 2026 pendaftaran",
       "published": "2026-04-17T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Jogja Run D-City 2026 Siap Ramaikan Kota Pelajar Akhir Mei, Awas Ketinggalan!",
-      "tanggal": null,
-      "lokasi": "Jogja",
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamxtNnJEQ1o2LWFXOWJ0MkFZRGkzR2NTSnh2d1Vham9NTDdSZlBiOFVqaTBNejZYTFFYaTV6WDNxck9NZ0tyb01LVnNxcTVXT3hZbnFuWG5VNzAtd0tZOWVxbS1rYnZ0b0Y3NUNIelFka2wwLVEzczdmZ1dQOFlXaFdrVW1QTWVmeHdDclNmekpkaEtWaTF6b0V1X2ZzbXNvWnV2aFlSWFFvOEpFQjhsWmNMbFY4T3RqQ1g3R0QwYnVhTnfSAcgBQVVfeXFMTUdTNDJDTnhWZi0zVGFwSGtUbnRPd2ZXWHJDenIwNGhoRHlTNnlUWmZRNnh2dnVsdC11bU9ET2wtWEdyYURpQnF1UV9tTTRBMUFOdHNvTWUtYW5zb09XandURWtBMndsLU5mOG41Yks3T1BSMWo0TlkxTmJTbXNwcWp5Q2d3Vk1SVmFaOEt0ZnQwR1BWMmR5M1ZmVG1RTEx4el9Kc3JFc1gzMnBnOVJ4SmJ3NV8tR1p0UF9kYWswRzVpc2tvV0lJMV8?oc=5",
-      "sumber": "google_news_rss (detikcom)",
-      "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-04-16T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Siapkan Sepatu Larimu, Jogja Run D-City 2026 Sudah Buka Pendaftaran!",
-      "tanggal": null,
-      "lokasi": "Jogja",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUNVWEJrdjFmVGR0dWhOdl81UVlySlBtbzVsMFZRemgwalVldHYwNmdMUHN1VzhveG10TDVabkVNUDUwU005aTlEUUZ3UE16Q2hlY1NhRUNNUEpEZ2lBcXZkd2pxbkpGaDVUTW1SdlpYQlVLNG1pTi1keUFTSDBLT1gwSHh0dUVUdXRPYXVfQkhfVVVVUElTRk5vZlJ1QWVwQnBfYWFnZ004REx0WWJkQlpweHhPSThWZGJqOXhSaFd4UdIBxwFBVV95cUxPNHp4SjNxeENCWjBGSFhkT2FRc1k0d3VlVnlHNS1VSkduNy1MaUxieGlfLWNTZG1XbnhiQXZiNVB5SzROSGRXcnJhSkh0Y1pQZFVQYU94Z1c3SEtCa0poQTRIa1hOZkJWQmJMQnAzakpZdU5KdHVzRnZvMGhzNDJoOWZoLU1iRVBYNVJ5elFwSXcybkdmVm80TjdHZlpxQ3IzX2g4TDA1VGRlQmxBNjBxcnlVQjh5YzNhR3ZpTjMxeWZqc3VrTzBB?oc=5",
-      "sumber": "google_news_rss (detikcom)",
-      "segmen": "tidak_diketahui",
-      "keyword": "lomba lari 2026 pendaftaran",
-      "published": "2026-04-16T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Semarak HUT ke-27 Lampung Timur, Ribuan Warga Antusias Ikuti Jalan Sehat dan Senam Bersama",
-      "tanggal": null,
-      "lokasi": "Lampung",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSVJjTlZiNUZic0pLUTV3YTNDeFBkMmhwamlvajhnZjBkTW5DdHA5S0hIRjhvM0xRV052QS1HVnphNjVLcGR0M1RFTEh3MXFuTjVJZ1ZBN3kyeENNXzNiczBIQXlPZE1LNjFfc0RETW9wQlVvcG1LMzRGcUNURXNCRFZkb1VlWm55YVU0YWF0ZW5ydHVXS1pRUmtmSVR5RDJHZzhWQjZXU1hYbjVsMlpIYmlvdTEtajNST3lZVG9Sc2VmYTBxWVdVWlJjVF9tdw?oc=5",
-      "sumber": "google_news_rss (Pemerintah Kabupaten Lampung Timur)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-04-15T07:21:13+00:00"
     },
     {
       "nama_event": "Run For Animals 2026: Edukasi Satwa Lewat Fun Run Keluarga di Taman Mini",
@@ -5007,32 +4994,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2026-04-15T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Ribuan Peserta Ikuti Jalan Sehat HUT Demak ke-523",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUW0xZzZCX3JEYnZMc0Vud1hjUGRRRVBvNDRlZVlVaXRNdm5MSWI4ZGZidldnZVVZbUhUUVZtc01PMEZZTVAxa3gyQWZzaFVhN2pYaHQ2UlZCNmQwbk0tbGkzcFpyaVY0ZUNjX0RhRTVPQkI4RGVUUFBwMDQ2cEIwUDN3VQ?oc=5",
-      "sumber": "google_news_rss (Portal Demak)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-04-10T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Semarakan HUT ke-24 Banyuasin, Ribuan Masyarakat Padati Jalan Sehat Bersama",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWlgwOVp1S0hMUWNQNkJubC01TGNYcFdXNWduQVkxdV85MWpOamQzREJxWmxHRGw2UmtjZGdrQzB6anJEU18xQ0psZDA2QXdTUVhCQUc3a2dVV0JBVkZRM1NxX0gtUHJKeFpaX3ZtRVRkSTRJM1VYaVJzai15cnBrN2w1WUprLVBWMVgzVDZMOU52ZjBwVjhsYjh5OHloR3dJVFNKLUg5SnlBMnhmeEpR?oc=5",
-      "sumber": "google_news_rss (banyuasinkab.go.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2026-04-08T07:00:00+00:00"
     },
     {
       "nama_event": "Ahli HAN sebut pemberian HGB tidak ada kewajiban penyerahan 20 persen",
@@ -5165,32 +5126,6 @@
       "published": "2026-03-05T08:00:00+00:00"
     },
     {
-      "nama_event": "Momen Ramadhan, MPM Honda Jatim Hadirkan Kebahagiaan Lewat Program “MPM Berbagi”",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmU4YXVWWmQwbUtBeGpYcl9ZSW9zOF9wcEVsa1JGMFpiVm01a3lWZkdsT1JWVTVCSjQ0U05oZHA0Q2F3Z3Y1T2hUMHd5T1RNQ1owNkt5bF9GbGw1S2lUajVPTFU3NFplZ0otaXpZQWhIclQ5ZjY3NEQzVm5va0MtWnpqRC1PRjhlUjFFakNHRVVIeV9FVGJ1Tk13SDhiM0psNFBXeHNwcnZlOWxBcTNrQmEtUE9EV3ZWbDdRZC1SenBBVGl3MVNFMmF6SFFXUQ?oc=5",
-      "sumber": "google_news_rss (MalangTIMES)",
-      "segmen": "tidak_diketahui",
-      "keyword": "family day perusahaan",
-      "published": "2026-03-04T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Pengalaman Fun Run Unik dan Memorable di Bandung Color Run Festival 2026!",
-      "tanggal": null,
-      "lokasi": "Bandung",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFnTmxvWjFQUXpBSURjTGhqVHhUdnNpVUhfQVBhOXFQZ2tPREktNkNSbEVUVnkta2ZhQ1dBMnFsLS1RSjRlN25RaDl6emRQLThtUlBvem83Vndvak03elNrT2Jrb201WkJ4bXlkR3VpQ1ExLW1VcTUxX1JIVTdWQ05PTjkzM2w4cXc1VHJ3UmRhMUk1aWhKc28tTjJsRGxsY281VkpTckVJSmI5bk5VNmVKdm9IcFh10gG-AUFVX3lxTE9hUnlMMWs1ekpHWFNZN2dlRERxbmdoQjc4VEM1UlhhV1dEeXB4WTNaSEdsWlo3YTJ5Ny1sNm1WM29mVUc5UGhycDhhZmJTUUM0RWV1c1NvOHg3MW1WM3JQYXZGa3p5eFhjamJRXy0xY01BUG9YWU1XT1k3MlNSeW8tZUc0S2QybzJ1WDFyeks2TXhOZk1yZGRTbmEyTHNqM0ltS3FqVTJmekxBd1hNUTh2bmllclhHV0x6Q1R6MWc?oc=5",
-      "sumber": "google_news_rss (detiksport)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jersey fun run",
-      "published": "2026-02-25T08:00:00+00:00"
-    },
-    {
       "nama_event": "Family Gathering Bus Mega Citra Wisata, Pererat Kebersamaan Karyawan dan Keluarga di Puncak Bogor",
       "tanggal": null,
       "lokasi": "Bogor",
@@ -5237,10 +5172,23 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWRIMkM2cGpvS3BXLWpvb2pkX0k4TUR0anNJUGVlMUFkam9hamJOcENDY01wRUFtVTFWYXFyN2F0UnJJRWlTVmZTckxXYVNZZ1FQRXNiYURtV2U1ZlFPRWFjX2Z3MTBpS0tMWXJqdHJjZFU4N1VVZl8wa3dvckk4YVRLQTcyb1h6eXJmVEc3QVhaZGJ0RVhRUWd0Y3hxUzAwcTJnT1dkeG1rYUtYTXBzQ28tZUvSAa4BQVVfeXFMUEMxNXhOb1RtVDVBY0NOd1V6RUJhb1Bab2RYbGt4OUtPRjVNTUhTUjlTSGlkdE5tenh6WUN0V1Fqb0w2eHNGVFhJX2JmeWtxRHBYcllyaEdQOHVCVkRFRVhnQ1MxcTFyYnRudTF2WlBzWkYwckpxamNJYmZ0aEllaWIxWWJOWDROdGpnQWo1b2YyUEpVR05LampadXBXUW9nZ29vZHg1WGVZTmhGUmh3?oc=5",
-      "sumber": "google_news_rss (kontan.co.id)",
+      "sumber": "google_news_rss (industri.kontan.co.id)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2026-02-12T08:00:00+00:00"
+    },
+    {
+      "nama_event": "Apel Bulan K3 Nasional 2026, PLN IP UBP Mahakam Tegaskan Target Zero Harm Zero Loss",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOTNlWFFjVlhYa1FTbF9VSDNMWE1hSXUxaXBKSGF1SEpvSjVwTzFaT2Q0SlNBcVN6cGMweXYwb25IbktGN0J0UjVhTzhSWWNtUllnX29QNnctQTJNT2tXNHVZTWJWV2NUY1h3WWh2cHhjTDNVamtOdUJFa1lrb1VfV0xQZlB6MlFlR0lJWXJMN2JWa3JWcl93aU1UZW52T0ZfdDlKR0tNX2lGSGQzMDZfZnJxMUpqMzFfSGRxanNPa3B4MnF5MjJQbjhRZ9IB0AFBVV95cUxOOHhEZmJwOGdTOHF2YUM0dnZBM1NhamFxMjZvaXZucUZkQ25PN1FNb2R1QzkxM3czMzJhd0hJSlBDMWQ2dHRNc184bGxVMXNnOWVFRHVjVHprRllsZU9YSjNsclh5bU9mU0tCeUtQd21zSWlBazFaM3lNbmhxeFh2WHhZVXBnM2IxbTRGUkk3anBGNTV3R1lqNndJZ0RsbV9pTTV1bmF1U3ZJaWFFRkJSelUtZlBkRTlFVlBYWEF4Z2dUcTlBc2hDZVI1RFdONmdX?oc=5",
+      "sumber": "google_news_rss (Kaltim Post)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "family day perusahaan",
+      "published": "2026-02-05T08:00:00+00:00"
     },
     {
       "nama_event": "Peringati HUT ke-50, PT Darya-Varia Komitmen Jaga Kesehatan Keluarga Indonesia",
@@ -5321,19 +5269,6 @@
       "published": "2026-01-10T08:00:00+00:00"
     },
     {
-      "nama_event": "RS BHC Sumenep Gelar Run Berkonsep Sport Tourism Berhadiah 1 Miliar",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjhLUEtxS1V2T2pBaVQtbWRnaVk3UUsxN29CS2dzNTloako3WGVNTlVmbllIYXdvMksybnEzcDlvNDVYNUYxMlVBSjViSm1IcnZoWldPa0NPNWh0NUE1Y094Z2lyZGtRbmJPWk9HVHFDcDNMY1hGWTUwVlFVektNaFdzOTJQOUt6OWlkNlhwUm13TWZ3SFpocURGbUdTcVQ3aVBlLXBlMjc0RWdQcHBfQURDOWZxcVdlZDRUSA?oc=5",
-      "sumber": "google_news_rss (TIMES Indonesia)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jersey fun run",
-      "published": "2026-01-09T08:00:00+00:00"
-    },
-    {
       "nama_event": "Perkuat Go Digital, Atakrib Yogyakarta Satukan Mitra dan Brand Nasional dalam Gathering Akbar",
       "tanggal": null,
       "lokasi": "Yogyakarta",
@@ -5360,19 +5295,6 @@
       "published": "2026-01-05T08:00:00+00:00"
     },
     {
-      "nama_event": "Tanggal RUPSLB Sudah Ditetapkan, Bank Banten Kembali Rombak Susunan Direksi",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": "Bank Banten",
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWFXQ0pYYjZUUTY0bHVqMjg3TlRVbUxzMUIwckNFSUdTVEJWSC02Y1U0bHUzeGJCcGUzU1lGeWFkUUF1RjZLM0tDTWYzUXFXSWt2TFdodmNEWmhuV1IyazVMVjIxNGctM0JhWUw2endpOTUyN1RscVJqQmk4RHVsQ2U3Y3NHSG54TmZaYnNsdEZrcl9RWmkxSU9WWU5fUGUtcU1IZmxfVFZ5WS1Db256VGZOMjdZWTV0V1JGSS1fLVByMVE5Z04xR2gxN0NualhQUzBWVQ?oc=5",
-      "sumber": "google_news_rss (Banten Raya)",
-      "segmen": "korporat",
-      "keyword": "family day perusahaan",
-      "published": "2026-01-02T08:00:00+00:00"
-    },
-    {
       "nama_event": "Gelar Family Gathering, PT RTP Grup Berikan Penghargaan Bagi Karyawan Teladan",
       "tanggal": null,
       "lokasi": null,
@@ -5380,7 +5302,7 @@
       "penyelenggara": "PT RTP Grup Berikan Penghargaan",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJTZkMtQjlvNFJNVmpDY2FyT3FhYWxweGU1SEVHZXJCc1NCbmJSRGNuSjFXd0VXelVpLUFIeGVLVGc3TFlwQnVvOHN6SHdHV3dZbWptNHZ2LTJqV0U3WmpmdW1DNWZEOXN4NGFieC1xTWpGRXcySlVqZGVqdXEwa090MkdoWGN4UkxYeDFicG5MYjE0R3hITVk2N3V6V0dUVFdZV3ZQUXVaZ0xMWkE?oc=5",
-      "sumber": "google_news_rss (Kontras X)",
+      "sumber": "google_news_rss (kontrasx.com)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2026-01-01T08:00:00+00:00"
@@ -5399,6 +5321,19 @@
       "published": "2025-12-22T08:00:00+00:00"
     },
     {
+      "nama_event": "Jogja Heritage Fun Run 2025, Cara UPN Veteran Yogyakarta Rayakan Dies Natalis Ke-67",
+      "tanggal": null,
+      "lokasi": "Yogyakarta",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmFaaENwZzFWMnRTTl96cW5fSnVZSkVMbURwdzRISWdNYmlRdkRhYWZ3X2dzb2Fwc2kwdjAweGdxTHVLbGNBVUl1d0thMGVzam42X2Q2d2l5OTFGQzJnc0NTRGZtVWtTeUFrYjFqNUFXdU14Z0NQNHJ6QVhBc0txVkVMZ1pnWFR0M3A3RFZxU3MwYTVYZ3B6amNMMUE0UTU1RFJsNjJsUWNjcXdhMnVtTVN2Q1BQQ2NxMmZObTNud0thaUY0SDRNb0dWUS3SAdIBQVVfeXFMUGQycnE4aTdWc01ENzJROFk4YWtvWldncEExQTE3WTRJV0pMWktVUFZSS0RSRWt0SFV0akpZVFo3RWZOdjhEV0dubVR3S1JkSlV1R0RJRHNCTEgtU3VMd2Z1Ymtud1BMd0hEeng3SjB5RXhQbnhaandsZGNFUk5NdFN4RXFlSGs1bHIyUk1Td0xYamZnOVFYNmFTNVotYUZVci1oMlI5bGlvX0hKLWRCNmUxNGxVSmVOcVpQb2k3RmJaUHlEQXkxTGxocDhVZGFoTE53?oc=5",
+      "sumber": "google_news_rss (Suara Merdeka Kedu)",
+      "segmen": "sekolah",
+      "keyword": "jersey fun run",
+      "published": "2025-12-09T08:00:00+00:00"
+    },
+    {
       "nama_event": "Jalan Santai HUT ke-3 Papua Barat Daya, Pengundian Doorprize Diundur 6 Desember, Hadiah Utama Motor 3 Unit",
       "tanggal": null,
       "lokasi": null,
@@ -5406,7 +5341,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcXlLSXhUdnN0VTlRZmtMVUluNTVRZ002VUNpX0ViQV8yVVVpSHNRTzN4WDEtLXdkR1hmRmRDUUlLamtSa0hhWjZ1eWsxRzRSN251LWc5QnJCbHJ1Zjk4RU5PczQ0dlpwLWk3T0FTVWtFSWJidnpuU1FHVnlkamlDMXZKTWVBTm5senlVNmpMVnFhazE1RExjLXhXaE1VVzV5bzdEdzN5OG5NOFM0a3haaFctYXFCUE1TNEpGeTVXQVpSV2tDSC00?oc=5",
-      "sumber": "google_news_rss (Sorong News)",
+      "sumber": "google_news_rss (MAXWIN88)",
       "segmen": "tidak_diketahui",
       "keyword": "HUT BUMN fun run",
       "published": "2025-12-05T08:00:00+00:00"
@@ -5445,23 +5380,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmxZcGtHc09lMXBvUnFCcWZ4VjdZOThTWnJNUFBfaVJQUHQ4dk9ZUUFMZGtLTk1tbDhmb2RNeTlsZGd6dXdYX0ktZHlsQ1NfelMyNzIyM1ZZcXFrblNjXzAyMlh0c1VodGhGQ1BIRExaaHFBdjdROWt4dmhqdnFTZXBQWVBYRGRRMkFwNWh3?oc=5",
-      "sumber": "google_news_rss (suarabanyuurip.com)",
+      "sumber": "google_news_rss (SuaraBanyuurip.com)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2025-11-30T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Ribuan Peserta Ikuti Jalan Sehat HUT Korpri, Dilepas Gubernur Ahmad Luthfi",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVpN3REX2RIZXhhekg2TkhBZEE3SUpwenZvVUhMZ3c1enRYd2otNERWX2hlY3VNR0MtRllybGFwdUlpaWdOeE4tZVQzc1FnWEpTYk5jd2NIdkpnTXRlWkZvajVMdWtSTFZVdnZzY2tpcE5QWk9ibzktTTZ4Q0JhUTVfa1dBdmNRUDB4MktrOWtXRldPbGNHOVZmQ2ZUcXU4X3YtTUk2REJEdw?oc=5",
-      "sumber": "google_news_rss (Pemerintah Provinsi Jawa Tengah)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jalan sehat HUT",
-      "published": "2025-11-29T08:00:00+00:00"
     },
     {
       "nama_event": "Ratusan Pelari akan Ikuti Gayam Fun Run",
@@ -5471,7 +5393,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjhRckk2MTQ0Vjh1Z2JudmZpMUlCNTg0Y0RqOFpCOUY0OG9kZTdGRXgyZ1ppaWdDV1VXdWNUMVlWZFc2cXZySkoxUWc0S0hZaWRkT0d5TU5neUpVZlNYVkpBSG1laFZZRElydm9wOHl1TzV1VUxjSzhUNzBCTHRMTXphbXp5SEg5?oc=5",
-      "sumber": "google_news_rss (suarabanyuurip.com)",
+      "sumber": "google_news_rss (SuaraBanyuurip.com)",
       "segmen": "komunitas",
       "keyword": "jersey fun run",
       "published": "2025-11-29T08:00:00+00:00"
@@ -5484,7 +5406,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWHdSc21Id01vR3kycklnbTJSVENKX09nbzdVaWctM2RWV25VSk1fSVItTHZfa1FhX19iMTB1b2E0cEo0UlM1a01yZXBtMHZlcjVHSkxfcWZkUDBBMmQ5c3lUQzlxNHZLelF2enBpcWRnWFM2V0I1cFZoYUpSeWN2cS1JQnFCbGtQN0ZJWTVWczlBM2YtYnJKOTBIU3lYcXVncU92Nmh0dXpmX1Q1cHBId2VlUDZUTk5JNXoyZGdBVHM0anJrQ09RMVZhV3JPWmZ1UG5pYjB2V3FqeVFuQjRKaHVGbTNobDhJamV0anB6Mk1saXNqMVE?oc=5",
-      "sumber": "google_news_rss (Gorontalopost.co.id)",
+      "sumber": "google_news_rss (gorontalopost.co.id)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2025-11-23T08:00:00+00:00"
@@ -5539,19 +5461,6 @@
       "sumber": "google_news_rss (olenka.id)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
-      "published": "2025-11-20T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Heroic Fun Run 2025, Event Lari Semarak Pahlawan",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEotcERlSllES1lhM1FidGlJZ2Zubm9PcFNTSGxmQWs3bUQyU0ljTXlNaEdnSUsxcURqS2szUldjTjlmQnVOZjBPUzNIWnhvdldsQmVGQ2Q3b05DRU5FcDBIbHY0MU81S0wyRTV2LWFmbEl6bFZmOGVXU1pJYU5mWjgzTU50TGpGcmNuRjU0WQ?oc=5",
-      "sumber": "google_news_rss (RRI.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "jersey fun run",
       "published": "2025-11-20T08:00:00+00:00"
     },
     {
@@ -5731,7 +5640,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkQ1R2lhT0lIMlRUUm4zZXJCX1NhbVRzMkduQXlRT1ZVYVZ1TlFGQkRySFE4dG1HOXhGUWZHZVI3TEhRZGFtV0lDVmFwV1dqZlA0YXhQWDF4UGRkdlhXN3NUOXhhUGNDWXRMclhTZ2F1Zmlxb2NPSGhxaV93dGtLUDQwWTNXUUt4?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2025-10-14T07:00:00+00:00"
@@ -5789,14 +5698,14 @@
       "published": "2025-10-07T07:00:00+00:00"
     },
     {
-      "nama_event": "Gelar Management Gathering 2025, Worcas Group Apresiasi dengan Bagikan 100 Unit iPhone untuk Karyawan",
+      "nama_event": "100 Karyawan Dapat iPhone di Acara Worcas Gathering Management 2025",
       "tanggal": null,
       "lokasi": null,
       "kategori": "gathering",
       "penyelenggara": null,
       "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUThkek5TNS1TVThiV3FKNHdFaGhYc01hakVsS2ZqTFAtNHRZLU1TcHBHVTZmX3ZISmxrYUpuRkllNDQtZHc5QmtVc1FfbFp3R1Z6Qm5mbVNwc1N2Y2hMV2lCZkNDMVdPVFdvUFUzOTFNN1pkZFFVbTl5ak82NzI3c0l3dGZObkxuVmFwWG04MUphNWZ6U05HYmtfV1ZXbkkwQS1GRXEyNTVCNkdoVkpONkN0bmppejVQNkJNZW0tUWxKbTVWczhMLVN3R1NpYmV3SHFRVtIB2gFBVV95cUxQajE3QVNBUThPb2dDVC1RdkgxdWpfamtoeVFWRjJOUWtzajh1ZmE0NFc1cHZUQzZ2aFZZZDhCaFM0NkN3bUtka3hfVmdDc0F0UFF2dzR5TTFCSFdDbFdDTkNOWHEyX2dVRUdkY3ExazNTSkU2RU5kNmJ5cTY4alI1ZkItYVlWVks4S081UDY0eHpWX3BhdFcxTnhqMzVULW5GSlRoQ2Q5eGc3a2ZJd0JKYkJJSlp3bkU0Z29WeENnWDc5VUQzX1dXRzI3S3Zla3ZPcjVSdU4yZzNvdw?oc=5",
-      "sumber": "google_news_rss (Warta Ekonomi)",
+      "link_resmi": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2VoaXBOY2xqWUR2aENhczMxeE1Ubm9DNTRCa05FcG1UN01ENXlhZVhXaU8tX2g5c20zVWpqamlGZXJBN1dENHNtc21NT1RVekotUlh4RFNkRDliUmUxVTRMRG1wVHIwNzhZWVltTmlCSkxydnZOVlNTRDRzWld6SzhKWGJ6RGIxSlZCV2tad2oyQVRZSlBJT0lROGprWjdTSmtGb0RsOHRTRDJTbTJfbg?oc=5",
+      "sumber": "google_news_rss (Media Indonesia)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2025-10-07T07:00:00+00:00"
@@ -5945,6 +5854,19 @@
       "published": "2025-09-16T07:00:00+00:00"
     },
     {
+      "nama_event": "Cek Tulang hingga Gula Darah Gratis, Entrasol Bersama PJA Mart dan Indorunners Balikpapan Gelar Borneo Fun Run",
+      "tanggal": null,
+      "lokasi": "Balikpapan",
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlhaLThsT0xMcHoxd20zUWExMDVHdGM3ckhkZUp4Q051eG9OcWhVRFVQOHBvdGlGb093SHJUbnVpVW5WRmVWTVpwM1QxYm11RTZGMmxHeEhpNWxrR1RZQWpyeWtRMFJoSWxoSHpiRlJlWGV5WkhlSncwS2V4MTRhRUhDdDY3SlhQMm16R3pZMWFlekJMWklxYmJXVzhLVF9zTmwwRHh4YmlOMzNGYmdEUnd3NzFVMUU0b1U1ejV5LWxuSWh2RkctcDU1YVIyVkJUcnk5MWxyTTBlSjNaU3VVUHFTZkRlU3dXRHFlaDBKOELSAfYBQVVfeXFMUHN1ZTBpSmdXV3BldlBqVnF4RG5rTmZrYUlpYnU1SFNXR0w4aGdHeWdOcE1MTmNoYnItME1kX3pxNTBuNmVCc1ducHd5eFNrSVR0bTVlMXljR19GamZmREZxeDlNY0NqU01yWEpZSWVsZldvOWZJLVlMVF9TRHNZTFkxaW53aWVCUWtZZ1BGaFgtbDAxclkxUlBpNHRQQm5YSnJTaURWUjVtRjIyNzl6UGVIdWdUblhyODFMQXZjRUx4aHBBNWRiTzZDVjBtbFZaaV9ldmhrTnVUczZXRDFWbWhUUk90U2lXclU3YWEtR3lCTm9kSTV3?oc=5",
+      "sumber": "google_news_rss (Kaltim Post)",
+      "segmen": "komunitas",
+      "keyword": "jersey fun run",
+      "published": "2025-09-14T07:00:00+00:00"
+    },
+    {
       "nama_event": "Catat, Ini Barang yang Wajib Dibawa Peserta Alfamidi Family Day Funwalk 2025 di Makassar",
       "tanggal": null,
       "lokasi": "Makassar",
@@ -6004,7 +5926,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWk5qLThLcHB2a0xSZzNoN09vazRmcTh6bzNXVXd1ajA1aTdicFZtREpWZVB4TS1nWmxUdnJyOUp4NTg3ZEt4NU1yY1JQWEpPQml1OVVkTVRBWlByT2lUX1hPMzlFbWtjTmxkcnk0VmxCQ0dwb0J0MmxnbEZ3eTZKVHc2SmtyYlJIcVp4ZlJLLTUtOUo4SHhqVC1LRHNQU3pYdGVRUU90d3BtNWNPaHNELWY2dzl0Y1l4a2d0eE5oS1BnSkZDcVFDdtIBzgFBVV95cUxNNzJiMHMzSkxMWjhZU1RLbVlzUzJEZHZ6MWRabXhLS1N3MDRVc1Rka1NOdjM3SjltZFJLZjJmRnhSWko3eGJhbUVQeXUzSmJ2Nm5MaEhFNjVtRFlfd0pDMVF6UDJJQ2owUDY0dkJQdnVTMjhHU0stXzRGT09kVmFjWmhrcmpXQ3NsbFFxdXNsREV3VllMaURCTWFtaDYyNnRFZy1mRTN2UXJaLThBVWxGTWRGUHZDS2FiN1JrX2Zyaml2MGVWNWpTZlliTFF0Zw?oc=5",
-      "sumber": "google_news_rss (IDN Times Jogja)",
+      "sumber": "google_news_rss (jogja.idntimes.com)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2025-08-29T07:00:00+00:00"
@@ -6153,6 +6075,19 @@
       "published": "2025-08-09T07:00:00+00:00"
     },
     {
+      "nama_event": "Sambut HUT RI, Pemkab Dharmasraya Siapkan Konsep Meriah namun Efisien",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "hut",
+      "penyelenggara": "Pemkab Dharmasraya Siapkan",
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeS0tUVdIODRSdTMxZ096Ml9FX1ZvaEdPczQzWHVFWkVfWDJHV1dLRUN5TjJBN2dTRVNGSjRxQWdtZjFEYXl4WENQMGtmLWJtdE5haUFUcEVXendZQ2ZMOVlwYmRhN05VMjFLaWk4c1pjaEtnUzNsN1JxQUllMEgydnNWb0JDWFI2Vm8wZHIwaURkaTFYMjZsQVhBakU3OXN2aHc?oc=5",
+      "sumber": "google_news_rss (HarianHaluan.id)",
+      "segmen": "pemerintah_bumn",
+      "keyword": "HUT BUMN fun run",
+      "published": "2025-08-07T07:00:00+00:00"
+    },
+    {
       "nama_event": "10 Ribu Runners Siap Guncang PKB Fun Run Soreang",
       "tanggal": null,
       "lokasi": null,
@@ -6238,7 +6173,7 @@
       "penyelenggara": "PT Eclat Textile International Bahas",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWm44VGlnMV9vWW1KeW5PdVZQX1BJMFhGbngyZDdHUk9lRmN1WDFBTTlFdG9mLU5Yc2N6TjRnWnZxWUp3RkZYM2NiR2JhZ2RrUzNJNG45cWNsdFIydUlUOU0yQjBmUGFtSnU3WEVwM212anhEVVNQVTJuMEpPRzVhcXdZWk5GczV6ZUdpY25PT3Y3ZzVsTHRWUDhFNXNvbUVyUlkwVEFBaUVWbnU3T052TnY1WWhxTlJnYlhQb2ZsTWNoNnJGMHViNTd6YXhENjI3UFp2YVdmQU1kb0FHSmk4Z9IB5gFBVV95cUxPRXUwaEhRb1p6YUtSNmlsblJCQ1Rkck82dXF2dHF3OGk3anY2X2lBZEJpSVcxR3MwQ24tOFM5OWlnUFN3dzhDejl3Ykl3eGotZFVCUTgyVk5weVJ4V3dzZW9QUTFha3JyQ2U3RmpYbjZVMTBPczhlRnppX2dWS2wzeVAzOEZzTWFBSjlBNWlMRE9GQzg4VTZoSVFoc1JQWVhyVVhFeGpfRWd5TWhJZnY1Qk9nbjRzSVB2WGg2Z0pHSUotbHRZaDJfQTBULVBjQ2tXRnRIWWRfSDUzX1Z4Q2F1a1dtbmlEUQ?oc=5",
-      "sumber": "google_news_rss (Suarajawatengah.id)",
+      "sumber": "google_news_rss (jateng.suara.com)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2025-07-22T07:00:00+00:00"
@@ -6257,14 +6192,14 @@
       "published": "2025-07-22T07:00:00+00:00"
     },
     {
-      "nama_event": "Bangun Kekeluargaan dengan Karyawan, PT Eclat Gelar Family Gathering Berhadiah Dua Unit Motor",
+      "nama_event": "Bangun Kekeluargaan dengan Karyawan, PT Eclat Gelar Family Gathering Berhadiah Dua Unit Motor - Suara Merdeka Kendal",
       "tanggal": null,
       "lokasi": null,
       "kategori": "gathering",
       "penyelenggara": "PT Eclat",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaTBDOWRwdkkxclIzMmpLNTNYNGphek1SSWxIT0NqV0tOc1RBR2FNZWN6b1l2RTFuUE1uNE1aQk9qREN4Q1JOSE9ybnlmSll6M2lOOWhZcThYOVNkSm5WM2NzVzhNMXlJZTdzYmgyT2o5VF9RNVhwQWNITXB3VnFBR294TUY0ckt5NHBXMjJ0WU5nYzB0c3NaLWtiQzBDcWE4VFF5dnhLXzdQUVdTbjZpTlE1LWlpSDRES2FfZ0xRMXVLMkFWbEozanczajB6UV9EYnF1eEFGaEF3dHRMU2psMWhMY9IB6AFBVV95cUxQUS1jZUo2Y29Hc1BSdFJqajFrMm10R2k0bTdPRVkydElJeUhJNENkaXR2VmZKcy1lTm5aUk1sTnRWcGdrREswUVM4NnI4S2M1aWpjZjl6WHA0aWpLSUM1WTlRU0x2UmJ1MTVqYkl5QmJ4UTBrUDZEdDVBOEszUDRwVExEYUJndlZrZjZOZDJEa3dJN0V5ODFoeldFVDE2NWJDSkFIRFNzdnA4VG1lQkVGLVNfb3pDQXBnVmNYZlo4VDYtbnEwLURpeWhnQ2FvMGhQbjBUaUtpdXJNdjh2ckIzUDNqZDZMc0xm?oc=5",
-      "sumber": "google_news_rss (Suara Merdeka Kendal)",
+      "sumber": "google_news_rss (kendal.suaramerdeka.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2025-07-20T07:00:00+00:00"
@@ -6290,7 +6225,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmNMSFBYRUljT090U0dIZFJ4a09SM2o2UGJjSmRKNTNsSlVDOWxfdmFsdmYtQ0hPV2pOelRkMjI4RmpWWEY3aU54aTF4UmRlQTZLRDJoNFRDV29MTkJ0U3EyRTIyQ2VWRWV4akNYanNFSDhBRnJBcS1mYk5yblJ3OXVxRE1ybUlJaDE3SDZfdzlhNGJJQWdYcjFOdEs0Z2N1QTk1UWlnWGZtUE1SRUlLRGl3NXdnUkZGQmlNWFlndTXSAcYBQVVfeXFMT1JnTEJoNmhhYlJ5SFdHb283U0pCZm9jdjFrbGlKcTdHeHl5emlWWjB6eFJVOTFxOExvSUxaV25FUkFiVWRwV0VlMHE5UVNJcC1ZRHJMU1ZVRDN0YXlPVE1rX3V1S01oMHUwdzZnOTZGM2g5QVNuMjVGaWgxUDNrMlhVOXhaZl9qbC1EcGtaRWg0dC1qWEVjR0NjdkZYZDhNeVY2WTE2SDdYSXExbnJJS2xweUJGRjBfbFlTS2pKQ2ZFVWQzeUJB?oc=5",
-      "sumber": "google_news_rss (koreri.com)",
+      "sumber": "google_news_rss (Koreri)",
       "segmen": "korporat",
       "keyword": "jersey fun run",
       "published": "2025-07-19T07:00:00+00:00"
@@ -6355,7 +6290,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDR0dF9Wd1BBVHBfTktoREpqdVZfb2hyWlZOZ3o1TVBMU0YyZFU2QUZUWmxsQUFfMEdUb0p2MGE2SWxwZFVZNEdXWG5EN19JZlR1bWtMNkVlUHBiY1ViYWxfYUN5QWRyT3FrTmR6OHU1RXhFZDNXZWdNUU9yOVVOSERFMEF3Q1pXTXlabHoyU2lIUURYX016b29wT05yZXFIS2pPUjln?oc=5",
-      "sumber": "google_news_rss (Gorontalopost.co.id)",
+      "sumber": "google_news_rss (gorontalopost.co.id)",
       "segmen": "tidak_diketahui",
       "keyword": "jersey fun run",
       "published": "2025-07-02T07:00:00+00:00"
@@ -6407,7 +6342,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjk0MFA4NHBURUZMRThLRnNqT1B0YmtWQm4tTHFqRXlpaGZIX0szbW10SXdQdXhlN3h2cVZyX3VIZURQbFRuYmtNcGVTajBTdkZwMVBSSzRsSkY0bTlqS0FRa3NSYXl3VmZmR3FnWGFtQXNNbGx1N0p3d2JIT3F2RGduZGlKcTdaOHZnN1FfSklLSUU2STFHTG9yNEpSV3JrWkVCRmFOSVFBZjZVWGpTalpQSGV2WURzR094SDlpOHTSAcYBQVVfeXFMUDRVQmFXTmlqTFFocHFxM1pPRkxNbEkxU1djTGpCajcxUXRYNFd2VUNrcy1MazVJbUxlQ2JIWENoTVM2NV90ZVk5WE15RzFSdlUyby10NU5VOVlZZzliOW5lOU1FZEM5QkJDYk5ZdTRRLXFLdzYzWmlERkVXc1VkY1l6OHJDYzI0ZXBqdHlURFl6Q3h2bFRsMUFudXBxcWcxTWhDai1QR2lqN3dOTERIbTV3YjdBM1dfWElxdHd0U2pYNFBpMnRn?oc=5",
-      "sumber": "google_news_rss (VIVA.co.id)",
+      "sumber": "google_news_rss (viva.co.id)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2025-05-28T07:00:00+00:00"
@@ -6420,7 +6355,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTN0ZUpNUlBFb3VkY0Zwd1JKdGdVeXdrcUJMeERTbGFyVFk5Qk43RXNSeFpKT3RnTHdQRUZmRGJ0VTRPUFdFLUVaS0lRQkI1MEQya1lDUWlCN3REX2JYaEpxUXhqQTE1djdmNW5XX2FpSlQtWkMyaHZVNWdrVHV3MVBlMVVCZ1BUcElxMlNlaUE4UFk5M2p4Z0VIRENpQdIBowFBVV95cUxNNWMzN19PZXd3U0djS3VlZHFMMmdwdmQ1Q3VEQTVpYkVBMDJ6Y2w3LWRNMzRUNGFHdmxnYUdiN3ZscTBmQ3dMNzRNcjlheXZqdmtlRnBSa0kzLWlSOTNkbnJ4UVh5Mjk2Z09sdWNFYVF3TS1EeFlwakdPY2dsZ3ZRNXc4R3Vzc1RKMlNLdExZUmJPM0VOQVN4aXNHY0t3ZGFQRTNB?oc=5",
-      "sumber": "google_news_rss (ANTARA News Megapolitan)",
+      "sumber": "google_news_rss (megapolitan.antaranews.com)",
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2025-05-23T07:00:00+00:00"
@@ -6433,7 +6368,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXlkNjRGTmkwTXBNR081bGNwMmpRN1N0QTZzeTVrRlE4RUdNNGlYSGNkSndiMy1EU2hHSW5meE44RW5MMDlmeXNMR3JmZHA1TE5KR2d6RjZHZnNEYV84WGxuTXpmQVlQYmpzMjlZV3BhRUx2Q0FwN0R4SGI1SzFfU1hWNWFwNVBGcS1FLVlZTmxOcHdlYWxuMHYxQ0djWXRGY3ZLTHBWY0Y0SzBWTmNjcG5renRaMUpZb1dDdGxB0gHDAUFVX3lxTFBnaTQ5SklsTlZoRk0xQ2VhbUx3all4Rl9MblZ4RDhFX09IbUNIajNxYlJxd09ZV1JfbmZTS1gtRmZKeFJqcnR5alk5SU04bXlIbmhPYm1WeDdFWTBrYjBpbkZCd1laVUZiM1R5MzdYTDJhbG05T0RoajFNbFcyWDJJbXU5aVQtdVlYakhBX3k2NGc5T2RLbHJyZ1BQV1E0YnhueXMteWRiVGF2QkthUkttZG16NW1ETktjT1BnTDBDMXNUVQ?oc=5",
-      "sumber": "google_news_rss (Ceklissatu.com)",
+      "sumber": "google_news_rss (ceklissatu.com)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2025-05-14T07:00:00+00:00"
@@ -6446,7 +6381,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGlkQXpIVGtMNkhCUHZ1UmNfS21yS1E3N2M2Q0ZWRXBJazZ3NDNQcTZjN24tZDF1X2sxbWRtNU1VbGR5dF9Cc2hnSURJVURXc1AwRXNIblVFYTBiVkx4ZzdVekNTUlgyd2g3QmdtRzhTUTB1dngwUTRJN2ZRNzFWd0RIZ0dyRVdZ?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2025-04-28T07:00:00+00:00"
@@ -6515,19 +6450,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2025-03-03T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Lion Parcel Luncurkan Atribut Baru untuk Kurir",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaE50TjNmbEpKems1Y3ZhNTY4elo0akNtempwTTJJUGhUb2ItcUR5ZHZBdnl4WllHLWc3c2liQkRuX1FvQlFES2ZWYUdzOFlnRlk4THVtMlI0Qkd6ZmU2NkswWmF2ak5KMy1rX2IyX1FiUXRNZ3kwMUg0cUNnSF90SA?oc=5",
-      "sumber": "google_news_rss (mix.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "family day perusahaan",
-      "published": "2025-02-27T08:00:00+00:00"
     },
     {
       "nama_event": "Dari Selfie Corner hingga Cheer Zone, Sociolla Bestie Pink Run 2025 Lebih dari Sekadar Fun Run!",
@@ -6634,6 +6556,19 @@
       "published": "2025-01-28T08:00:00+00:00"
     },
     {
+      "nama_event": "Buruan Daftar Yamaha Fun Run 2025 di Palu, Banyak Hadiah Menarik",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmx0YTRVUFdVYXlSMlJYMUp1UFR1ekRva2ZIME8zb1pjdDhJcFczTHFXOUpYY0hkRlI0TFFEZDhvSy1fcV9tNUtzeVBzeEZ6VHY0WDJxZDNlZEN4czRUdXA2aXdKZFpwSUptd1hlWXVVV08tWkVka21DMVJNaDdYXzRCRkxwUWJ1NkVCWWNsNWdLN29WMC1pVHJrYWZzNFBTOXVV?oc=5",
+      "sumber": "google_news_rss (SultengTerkini)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jersey fun run",
+      "published": "2025-01-20T08:00:00+00:00"
+    },
+    {
       "nama_event": "Kolaborasi dan Kekompakan Jadi Kunci Sukses Putra Noling Grup",
       "tanggal": null,
       "lokasi": null,
@@ -6680,7 +6615,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcExzbU4wUGJzX3VzMGJIc2dDOC0xZXJ0RS1BNS05Z1BuUV9UckVoODNXeVo1VnhXY0FxUzRtcjB6anJPLUlscm1SMHc1cjBYanA2aUlLdkZsYTdQMGgzM2xzc2c3TEliTkJKeHM4dldqRE1FSlR3OFBhMHVTT05udU1aVTFYVUd1bDhOTTZKcFVVMk5fd3M3WEw5bDY?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2025-01-18T08:00:00+00:00"
@@ -6706,7 +6641,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkNUSTIxY0pHNEk1SGtpVngwZlNCQVZZYVIyZGlEaGtSaUVrN3ozNXFrQ3llUWN5b3p2bFlteFl3eXFaVlhrMUxLSGtVSU5aXzQ1MlVxdEM4TFVoWllvTzBHVDRaUkpmc194RExXLU00WXlyajFsdS0zYkxmbUVDNUNtZFd6LXRfR2R2Nnl0dTlIR3pZYUYxblJsSVcxLXhPXzJCekVLcTdPMURrMV9sNXp6QWlhU1VlN1A1U0hCRWJNOUwzcEVINHFB?oc=5",
-      "sumber": "google_news_rss (Listrik Indonesia)",
+      "sumber": "google_news_rss (listrikindonesia.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2025-01-16T08:00:00+00:00"
@@ -6784,7 +6719,7 @@
       "penyelenggara": "PT PAMA KPCS",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWw3OUp2bERmRHNPRkJDVmRHS0tHcmIzc1RSWXE1SjBZMWZQVjBXUERKbWgwWEpRWlpiMkJjTG0zM0VaQi1vM25iTHUzQUI5ZzZ6aFJ1Vm5jSkJEcHdtVFZtWHNDbjZ6VlJXc2syOXc5aVFVOTFsZ0pfMHZjNTFOdGN1VTdWWDRwS2xleHJHcVdtUEpYSkpFWWdBaDRQaEhVa1VJQ2tYNnZSVXI1?oc=5",
-      "sumber": "google_news_rss (mediakaltim.com)",
+      "sumber": "google_news_rss (Media Kaltim)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2025-01-01T08:00:00+00:00"
@@ -6868,19 +6803,6 @@
       "published": "2024-12-10T08:00:00+00:00"
     },
     {
-      "nama_event": "FOTO: LRT Jakarta Gelar Fun Run Peringati 5 Tahun Beroperasional Secara Komersial",
-      "tanggal": null,
-      "lokasi": "Jakarta",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSnRSSkIzbS1WZ1V0c2tPUHM2ZGh1SmhkT0xPUkFGQnBfWVhkX21zb2pBLTF4T3JkR1BTYU5pZ25FOTdMa2ZtNGRHRWJhMDJGeGhFb2REdzZIaER3dWctb0M0NW92MFZKd2h1UTBidS1mU2V3M2oyR0N6YjA5UEdDSFFVOWFRV2pvdDZxUUV2cmlsUEJPZ3FBd1pFVU5uWWtTNjdKX3k2X2VXN0U4SENiNWlyRFNrTVFMM283OTh30gHCAUFVX3lxTE8xdjlDcHNDelpnYUpvT0RzTG1lXzVVRTlFNnh6MGdjU0hRSlllVXlRNkpxOVRjLTdXZFU1anBTcFBRWGdPQ2FyQXBiS1BHM1BzX3FYZzRxVXVfNGhwa0VSVGJGQWl4RFlQYjdwZ2lhNEZDb3RHT3hUNXZ1NDBoZGtCU0tBX3NIVWluMWVMSUdaX01fZVZ4NmR5Vk5lNzdpTkpIV0pIYnd2VXYzU3VpWmlhY3U2UGk4NktMT3MwSEp2Q1F3?oc=5",
-      "sumber": "google_news_rss (SINDOnews.com)",
-      "segmen": "tidak_diketahui",
-      "keyword": "HUT BUMN fun run",
-      "published": "2024-11-25T08:00:00+00:00"
-    },
-    {
       "nama_event": "HUT ke-14, PT RKM Depok Boyong Ratusan Karyawan Gathering di Pangandaran",
       "tanggal": null,
       "lokasi": "Depok",
@@ -6888,7 +6810,7 @@
       "penyelenggara": "PT RKM Depok Boyong Ratusan",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV1lmUXNkZjlMQ1NNcmtHR0xieWp6ZkFlMWdhdlBBUkhoUXRkNHFoNlVZVHZwNWYwZUNlM083czUyUDZvbmo3QUFZcXllZTdMNjd0ekxybzZIc0tvT0RlbXMzRjluelo0RVUybUxuSGxzQVVBMHNldjVLelFveGJ3aVhKRDBrcjdMbWhUNlJWNG5uaGpFcmZrQmJaNGJka3lWc0FTTXg0ZzNEZw?oc=5",
-      "sumber": "google_news_rss (depok.inews.id)",
+      "sumber": "google_news_rss (iNews.ID)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2024-11-24T08:00:00+00:00"
@@ -6927,23 +6849,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHBOeHEwS1RMdjZqQlpjTkNsMC1NdzBHTlpyazNsS21TODNJVy10N3ZRamd4QVZhZUlhOHhPcGVHTTZCcjRScTFqOUZzOXBuS0JWWHc0TVJ2YjZ6cXN2SUFwN000NUh6eXl1SXhwT3BDR09Ubnd2ekJEeHdrV2hTSDROQi1VTlBZX3MxQlpSdm80WkdFakNhZVpSekZuYUxQR2NSWG1DSDlhR2PSAaQBQVVfeXFMUDZfN1B0ZXVYOGFFT09MWmRCQUd5MDl1YmotSXFkU2xWeVdXQzhzWF9PWXJsWmVWQlBFbmhPdEJWemdlUkl5Qzd3TGtCMk5DQmV5d0ZHQk9DR2Nna3VOZ3NpeVRQOE80ZW1iZWg2cEpaTVBHNk1qTG9uRlNLUzRVMVJtNWUwMlFMV2haU0dRa2NYMlV3TnBqREVIMktTSGdUakpRTzE?oc=5",
-      "sumber": "google_news_rss (kontan.co.id)",
+      "sumber": "google_news_rss (industri.kontan.co.id)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2024-11-18T08:00:00+00:00"
-    },
-    {
-      "nama_event": "34 Tahun LG, Siapkan Langkah Untuk Memperkuat Bisnisnya di Indonesia",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWNsTjRnTm9YX0l5TDRtTzRuX1VldXJxdW1kTnFDdl9tR25WWU5fNkhuSEx0SUJVbHJlTmlGX1N1S0IzeU9tTW11UFRST2ZqYkpFNU9iZXIzaW9mb3pEZWtwSUFWSjZSUWlyaUdCanl5NlV3N25kZHlWTl9SZDVEcHZTZ3hMbUJYbUlTSUxwQjJJVm9zZEc0Y3UyQ1VSUQ?oc=5",
-      "sumber": "google_news_rss (SWA.co.id)",
-      "segmen": "tidak_diketahui",
-      "keyword": "family day perusahaan",
-      "published": "2024-11-17T08:00:00+00:00"
     },
     {
       "nama_event": "Ribuan Karyawan Biomasa Jaya Abadi Bersatu Melawan Hoax yang Menghancurkan Masa Depan",
@@ -7050,6 +6959,19 @@
       "published": "2024-10-07T07:00:00+00:00"
     },
     {
+      "nama_event": "Mendekatkan Batik kepada Masyarakat Lewat Fun Run & Walk",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lari",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWwxZ0ZFeXROcVFDN1NDNzF0TDdSX0FlXy1fQ2pGVGREdW1ZZ3ZyQWhlLUdQZEFqeE9MWnlPWHNMZmZ6M3ZhRGY2NG00emxTR3VoMk9sTjdtLWJBak1tNWVYQVZjUmpKdFlIY3VxOG8zYkdqbmhwc0wxR1Y3aUxUNGJwUnkwaHBCUHFZ?oc=5",
+      "sumber": "google_news_rss (AgroIndonesia)",
+      "segmen": "tidak_diketahui",
+      "keyword": "jersey fun run",
+      "published": "2024-10-07T07:00:00+00:00"
+    },
+    {
       "nama_event": "Presiden Jokowi Buka dan Hadiri Nusantara TNI Fun Run di IKN",
       "tanggal": null,
       "lokasi": null,
@@ -7148,7 +7070,7 @@
       "penyelenggara": "PT Mayora Indah Tbk Jayanti",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSmlXR3VKVW9WZWUwaVJMUHFaejFxVEcwajUyWGQtTmFydEVad3hDdGZSc09pVzVRMHIwaHJJWkZoYm0xZ0xXT1Axa1BBS3NLN05QRFM0blpiSjh6X05pRl9hcUFsUTNfbWtJS1hUNzZNcVNwTGhfUTg0YURKUHowNjhLRmppR0ZKeDdxSHpYNnRFUVhFQ1pMM0ZrdTc3dmEzR3hSMDhDX0NhX2tPSlUtUXQ2aWtJRDFidEdxNHhoWnpUZl9wTTZTZXNISFdrUGY2NHJtSHAtbC1NNmUwckVablBVQV95TDBnSmRkdmJRMA?oc=5",
-      "sumber": "google_news_rss (kompasiana.com)",
+      "sumber": "google_news_rss (Kompasiana.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2024-09-15T07:00:00+00:00"
@@ -7187,21 +7109,21 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVV9ldm95WGllSkV3UmFPWGppeGNFYlVlWG5XTXp1dFNldWVtcVNEYmdhcU1STkhGZktfNk1fMFB5ZGtRc3hyWXRjQjAxWmRiemx3NS1iMzFYd3BBX2p2d1NvM1V0NGh3WWRkYzBqMTliemNtUFFoNmc4b1FxRFR4dV80WEIzZkZZUjJiX0tseG4yRU15ZjdKNzN1aG9EM3BrN0ZPdGQxUDVYa2xrc21QZVpJTUXSAboBQVVfeXFMTWw3bmNKbTA5WlpqNTlqTXpmY1BKRkZEbm5ON09qaTNYUjk3NDZDektMTmdyQkctUXFhMnJBZlRieU9Ga0NDa0o1aHRxYklsYkVkcDBvR1QtUWl0bmtLd1hTczJHUmo5V292cUkxQW5FUDMwbWNFb2MtSE5uLW40OVh6SklnMnpfV3lBWTJaR1RvRWxMMW5fRjBiSlRWaU5HbUhuMDJ0ZS1ZaWx6VVdsWFdZUnl2RWFXQUpn?oc=5",
-      "sumber": "google_news_rss (gridoto.com)",
+      "sumber": "google_news_rss (otomotifnet.gridoto.com)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2024-09-02T07:00:00+00:00"
     },
     {
-      "nama_event": "Intip Keseruan Gathering Karyawan PT Logam Jaya Abadi Group",
+      "nama_event": "Kompas.com Mengulas Perjalanan Kami dari Media Lokal Bekasi Menuju Publikasi Digital Nasional",
       "tanggal": null,
-      "lokasi": null,
-      "kategori": "gathering",
-      "penyelenggara": "PT Logam Jaya Abadi Group",
+      "lokasi": "Bekasi",
+      "kategori": "lainnya",
+      "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU4tcGN2SV9fMDdBMU9sczVtYzRRSUZpdXUtVFJYYmcwMm5qZmZOU1ZzZWFyZmdiYVJ4UDg4V3k0SXM0ZkpVeWVYMmtfVkxNMUVKMFR5eHZodGRIXzVabWdqbHJVQXgwNGd2MzdrUDZDYU1LcUVhN0ZYNFFIRVhhdmdaNFc3TGFQd1RKRHdLOU1HV0NBdkN3RXUxbzdrWDl3U1RoQQ?oc=5",
       "sumber": "google_news_rss (Mediapatriot.co.id)",
-      "segmen": "korporat",
+      "segmen": "tidak_diketahui",
       "keyword": "gathering karyawan",
       "published": "2024-09-02T07:00:00+00:00"
     },
@@ -7297,14 +7219,14 @@
       "published": "2024-07-20T07:00:00+00:00"
     },
     {
-      "nama_event": "Bank BUMN Geber Layanan Digital buat Mudahkan Nasabah - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+      "nama_event": "Bank BUMN Geber Layanan Digital buat Mudahkan Nasabah",
       "tanggal": null,
       "lokasi": null,
       "kategori": "lainnya",
       "penyelenggara": "Bank BUMN Geber",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGRJa2hiNWxsMG9TUEFjclBIeGU2bWhyQlJuZkVrZGZxTUppcHpVVHBia0NYdC1Wa2pPaVVtNlNFQVpGYk1Fd3lzUmJXM0RWU09TLVZRMzNVRzhfMzdhQWtuY2JZVnBhVFRQTG9LRnBXQ3NiQ1h0X1NhNGpWZm0tVDVHYUc0ZjZrN2huQkdaN21RRWdTeFFMZDVkSkt2QdIBowFBVV95cUxOcEhPYU9GUGdZWFJNT0lxNzZZQzh2WC01RS1JNEhPMURCZXRoLXM5ZUpGZ3d3dVN6Rlg5NHFoVkVhUm9ac3puVXlMdEZmVnFmOWZ1UW9ON04tWVAxVVlWWDhrYzB3VWg4My1vZk40RjZQTTJvN3d1YXVNLUJfVVhZZmdPeWt4dDlCS2ROTGVaZG5wUGpORHNqZm8zQXAwcW1LdHc4?oc=5",
-      "sumber": "google_news_rss (detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini)",
+      "sumber": "google_news_rss (finance.detik.com)",
       "segmen": "pemerintah_bumn",
       "keyword": "HUT BUMN fun run",
       "published": "2024-07-19T07:00:00+00:00"
@@ -7330,7 +7252,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQjNOLVdaVV9kU0pjcUFVdjZaRUFpVFpzTEIzTE9HRk9LLVhmYmI4QU9xSkd1bWlIRS1tb0NUQjlXZVhTb2FOLWE2RDkwdXNnY0FpTERkd1hvWkNjNW1xYlkxTU1EUGdKRWNocC1ael8tSXFaX0FYNUZoQzN2U19WX2ZBWlZVTFp2Vk1UbUxFTmNRUTBKbnRwS2paa0FQSFNlV0kxSE5Qb2thNEU5UU1jbEZPb2dpRVRlajF5dmcweDlxWXJ0bGJDZ0F5dWZpQld5R3dZNDNfWQ?oc=5",
-      "sumber": "google_news_rss (kompasiana.com)",
+      "sumber": "google_news_rss (Kompasiana.com)",
       "segmen": "tidak_diketahui",
       "keyword": "gathering karyawan",
       "published": "2024-06-20T07:00:00+00:00"
@@ -7356,7 +7278,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVThEdTkzUEZFaUl5cDNtUjhyaWFSUzI2N3pUeDVocGpXWkwwdU84VXZ4SUtHb1RBYS1yWTNvcWh2MUlEWjdKbWlmTHp0UEsyUDRpdTZxV2VuN2V4ZmJaMmNqM2dhem9xbkJIN212QzhtakNIdEJ2RW9FUnFCM3ZNVGRVV09NbndJVVNtc2o5QlFtZmREdGhFdTdOV2NBaUtTaWgxTWVqWTFiX2Z2S0VwbHcxRTVJY3hjUU5F?oc=5",
-      "sumber": "google_news_rss (kompasiana.com)",
+      "sumber": "google_news_rss (Kompasiana.com)",
       "segmen": "tidak_diketahui",
       "keyword": "gathering karyawan",
       "published": "2024-06-12T07:00:00+00:00"
@@ -7369,7 +7291,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSF9kam1XN1h0SlA4U1V1NUV3dEVlelliMWdMUGRpNFRNMkVJTXJEdzdKcGctbmN3NkZHcXNhbmlwZVZHMzNoOWhaQjJYRGlLbFhEMV9peUF5enB1QjIxM3dZVHZ2eEVIamdhT21KdjJEYlgxVG5xZU4xM0NkWEs1dFZ3?oc=5",
-      "sumber": "google_news_rss (lokawarta.com)",
+      "sumber": "google_news_rss (Lokawarta.com)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2024-06-12T07:00:00+00:00"
@@ -7499,7 +7421,7 @@
       "penyelenggara": "PT Sumalindo Lestari Jaya Sesalkan",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHltVW5QQ1ZpRFR0R2Y5bEFNTDgyM3hMbmpRcVA3TXNMU01wWm82UjV1d2JLdkNYRDBxZlA1TExNVnZVTmNqcWVtdU9IZkwyem1JMjlYbHJoU2syWTZBYXV6c1RkTlZHVFdjTWRMNDdFUDRYUFBnU3VmUndVMVJlYmtvWlV5T2o3a2ZRNlptRUtsdmlqWS1QSGU4VXlmbUNWbmJKeEgwV2ItZXh4NlE?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2024-04-07T07:00:00+00:00"
@@ -7512,7 +7434,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3l4c1pLT1RnOWlnd0R6WmxLWktmck1aY3VYelpSYmZuNlotd2xTclloYzFZS2pnemhZZzdCOXE5cVJNVllQRFRkSm1mRF9PRFE1bE9jN1pFbWhwODFlcjJuQTI1YXpxYS03UlY3RkFKWkZBNjFhQlNTTDE5VmV0eWc5eU10WmFSMXdBMGVOZjN5Q3R6VkFBNXZtd2RjQW8?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2024-03-20T07:00:00+00:00"
@@ -7525,7 +7447,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2dMU2l3d19XVU5UaDFSUUFVRks2Ym5WMkFuY3lOMDh4VWZfd292Q3F4bFJkVHNHVDZORThJQVo3RmYxcC01Y1BtcnAyQmlYYnJBUkdleUFpUzNWOUJzSWlzS3JUUko4N3FzcjAzeHhSZHY3NWpsd1VJQTg2bFVjVlA4OGlSWVFEdHhTUFI3OUJQaUU2ek1adWxB?oc=5",
-      "sumber": "google_news_rss (indonesiahousing.id)",
+      "sumber": "google_news_rss (Indonesia Housing)",
       "segmen": "pemerintah_bumn",
       "keyword": "HUT BUMN fun run",
       "published": "2024-03-04T08:00:00+00:00"
@@ -7564,7 +7486,7 @@
       "penyelenggara": "PT Putra Otomona Jaya Rayakan",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzZ1Z2FadEVraFJKNXhRSFB0dXlJX2lmS3daMFBYSlBScGFEUl9UWU5lYUlBUU1MNlFwVzlNQ0JRc2xRUGFCYzRrcUZDSV9MLUZRdEtOMlRXWVBMQ2FLaUJaME1vS1NGUUxNalhuODJSeGl0T0d0Z3R0N0pHT21jT01OWTNGUERiVGFIbTh6WEJrMUNNa25XRF9YTWw0cnpVN29FSlJOUmVkZw?oc=5",
-      "sumber": "google_news_rss (Salam Papua)",
+      "sumber": "google_news_rss (salampapua.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2024-02-17T08:00:00+00:00"
@@ -7577,7 +7499,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXRBV2FiN1djdVE0TjhfZG1WdEVKcExBc1VBbkN3NGw3ekZIVlZBM3JqSGIxbTBSdW9hcml3dGhIcGpBbktURDhKY2FuM0lrSmhLcmhLUTZ5aGNPbzVxbkQ4Q1pnSHFCdXlFNHZwU2llbkcyQ29GdEplNzZOMjB6a3pnUWVBSjFzS1JXS2duWDhvNHFLNER5YVo4ZTlzMEZWWEdj?oc=5",
-      "sumber": "google_news_rss (aboutcirebon.id)",
+      "sumber": "google_news_rss (About Cirebon)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2024-01-16T08:00:00+00:00"
@@ -7607,6 +7529,19 @@
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2023-12-18T08:00:00+00:00"
+    },
+    {
+      "nama_event": "Employee Gathering Bukan Objek Pajak Kenikmatan, Begini Kriterianya",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "gathering",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGxUN3hyWW9DcG1vaDU4RW12bm95WFVZTUVVUG40anVtNlY5YnBLWlYtazRGM3lmTEp0bjNiS08zNXhzZlVlLXJoR2c3TU1kVXI1Tmd2eGRZX3dhdFlsVV96XzFpN3V3Z2E3WXNVMVpQLVpuYlliak0weHg0NTRoUVNrM1VmTlhPckZaWUsyTWlJLTV3LXNnRThfQWM5UUZDR1AwaW90Qm5zWE1pSjNsZExEYng?oc=5",
+      "sumber": "google_news_rss (DDTCNews)",
+      "segmen": "tidak_diketahui",
+      "keyword": "family gathering perusahaan",
+      "published": "2023-12-14T08:00:00+00:00"
     },
     {
       "nama_event": "Employee Gathering BLiP Pacu Semangat Karyawan untuk Dear To Unite",
@@ -7659,19 +7594,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2023-11-19T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Eratkan Rasa Kekeluargaan, PT Astra Otoparts RDC Sidoarjo Gelar Family Day",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "gathering",
-      "penyelenggara": "PT Astra Otoparts RDC Sidoarjo",
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MV0MxZ1U2ZVNqVk1NUDJPN2sxZzJ3cEJjdDdudGcyVlQ0cDBWQk1yTGpkQ094LXhSRkhSY0Y3YldFYWp5Nk5TWk5KU0FhSGtDQTA5VTd2c1BzVFh5eURjR2Rzc3RBb2NvNmlVdkRtbVdIVFNveEhLRmNpNEZOdw?oc=5",
-      "sumber": "google_news_rss (JatimSatuNews)",
-      "segmen": "korporat",
-      "keyword": "family gathering perusahaan",
-      "published": "2023-11-11T08:00:00+00:00"
     },
     {
       "nama_event": "Perkuat sinergi dan silaturahmi, PT SAMI gelar family gathering",
@@ -7798,7 +7720,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFFnRElfNmkxdjhSUks3Sm9Gc2lSd0REM1F2Nlo0R0laU2h1UElKdXhIYm1LUkxkNnRUV3otQmUxRjRVTC0wVlFwY2p1dm13ZVlobWpSMEtoR21hR3ZFLTBxeUJYQjJHbmN1by1yelRlRjI4LWk0Q2UzYTFqakRSdHFRRzNfaWZzOV9PM3VyMEhfanM1eXJMNl9HX0otazRzU2N4di1iNFFHYmFVYUl3cU85ZWdYdWJXeE9tdkdsMndyTGFxbC1ReVVzT3d2QTA4QlJiUFl5dw?oc=5",
-      "sumber": "google_news_rss (YtkNews)",
+      "sumber": "google_news_rss (ytknews.id)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2023-09-27T07:00:00+00:00"
@@ -7856,6 +7778,19 @@
       "published": "2023-08-15T07:00:00+00:00"
     },
     {
+      "nama_event": "Ketika KSP Menjadikan Karyawan Sebagai Aset Perusahaan",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2dTZWwwdnczbmpkQWZXVGY2bEszZDUxRDV0QWhGcmV4bi10S3lDbkpZcHdsaFMyM1NIVTVOVmhZN2F6eldSVWlkd3dJRFRjMGtmSl9PdkY5Nk9xdnhnQVFjR0xSZTNGeWVIc2w3ODlWWnk2TkR6b3M5OGRwbjM0UEZBeXlPQnpHNkNXOF9Ka2xnelNGcHc?oc=5",
+      "sumber": "google_news_rss (MIX Marcomm)",
+      "segmen": "korporat",
+      "keyword": "gathering karyawan",
+      "published": "2023-08-14T07:00:00+00:00"
+    },
+    {
       "nama_event": "Kakoto Refleksi Gelar Healing Gathering Ala Fedri, Strategi Jitu Tingkatkan Kinerja Karyawan",
       "tanggal": null,
       "lokasi": null,
@@ -7876,7 +7811,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQll1MlJLd19CVGdNRGlZNDZXMFdweF9GTEpsNWRlVWJnODQtQTdDYkJ3NXZTT2NnakRwN2FyclNGQnR3bnRtU19ldHZ3bGdSb05IeS1WLUE5U1hid3dWSzhGb3dVQ3ZQSy1nYnFybHprcjRSM3BOYVpaQVBKaGFfY1Y1b194WE1RaEF6dHFTXzNpNzZ5dC02d3E0Y0paM05wU2ExNll4V2xLTzBxV1ExOU9feG55TXE4MWJLSk1n?oc=5",
-      "sumber": "google_news_rss (adakah.id)",
+      "sumber": "google_news_rss (Adakah.id |)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2023-08-07T07:00:00+00:00"
@@ -7902,23 +7837,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOHFlU3VOSjAtR04zeEZqU29tc2Q4STF1TUxscEdVZzlveVJvRlVkWE1INVRmMnR5aThOUG1uX2FaVXFJVDc0UWNGRUpQMXhXNTJsVE5pQjNwS2wyLXg5clNvVGdIdzhweUNoanBGOTFHaVQ3eFZWOHNVTkYzWnpkeVFHLUNlSWNJN2NoTk5UWlBtdw?oc=5",
-      "sumber": "google_news_rss (brebeskab.go.id)",
+      "sumber": "google_news_rss (Pemerintah Kabupaten Brebes)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2023-07-20T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Hindari Karyawan Stress, Menkeu Bebaskan Pajak Outing Kantor",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "gathering",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXNJakhWOTZuOWZDaEdoSW44Z3h3WW1xTVRfd1dTZFdVVlVqRWhVdjN1VjJRa1BrREJvTlRwSHdienB0OFFyX29HaV8zSmhXaGF4U2taWEtUZ0ZhWF80M3ZocWZSZXNnME5HaEU1LWZrYUZxdmxFZEZtMjZKTUhNXzdwSU4xczFZci01dlJuWDI4ZVNvRFNxbWlSc0VSU3Njbm8wUnBaSl95ZFdoa0g3T3dteGVXMGZhckHSAb8BQVVfeXFMTkdxZmMtRG1JLXZQeklkbmp3Y0p0MGlzQ3lvbG43RGVmZnRSNTFsa2xPTEJ5bEM2Y0FVWVJkZmc1WldEd1JOWk11djJCOVhtZXNYNGhoMjhsd1ZkYXpzVU85Y0xCdlEtQi1ZNzZMWDlITXhQR28zd2VESGJobW9FZ0dnbldDb0QwNGVPVlhIUmQ5ZEdDeEVFbkpOTGtvY0t6TXlvNHBCOXJGU1JQZ2dCaXFkUFZ3ZmhiZTNWdE83dGM?oc=5",
-      "sumber": "google_news_rss (CNBC Indonesia)",
-      "segmen": "korporat",
-      "keyword": "gathering karyawan",
-      "published": "2023-07-07T07:00:00+00:00"
     },
     {
       "nama_event": "Outing Kantor Bukan Natura dan Bisa Dibiayakan oleh Pemberi Kerja",
@@ -7934,6 +7856,19 @@
       "published": "2023-07-07T07:00:00+00:00"
     },
     {
+      "nama_event": "Hindari Karyawan Stress, Menkeu Bebaskan Pajak Outing Kantor",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "gathering",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXNJakhWOTZuOWZDaEdoSW44Z3h3WW1xTVRfd1dTZFdVVlVqRWhVdjN1VjJRa1BrREJvTlRwSHdienB0OFFyX29HaV8zSmhXaGF4U2taWEtUZ0ZhWF80M3ZocWZSZXNnME5HaEU1LWZrYUZxdmxFZEZtMjZKTUhNXzdwSU4xczFZci01dlJuWDI4ZVNvRFNxbWlSc0VSU3Njbm8wUnBaSl95ZFdoa0g3T3dteGVXMGZhckHSAb8BQVVfeXFMTkdxZmMtRG1JLXZQeklkbmp3Y0p0MGlzQ3lvbG43RGVmZnRSNTFsa2xPTEJ5bEM2Y0FVWVJkZmc1WldEd1JOWk11djJCOVhtZXNYNGhoMjhsd1ZkYXpzVU85Y0xCdlEtQi1ZNzZMWDlITXhQR28zd2VESGJobW9FZ0dnbldDb0QwNGVPVlhIUmQ5ZEdDeEVFbkpOTGtvY0t6TXlvNHBCOXJGU1JQZ2dCaXFkUFZ3ZmhiZTNWdE83dGM?oc=5",
+      "sumber": "google_news_rss (cnbcindonesia.com)",
+      "segmen": "korporat",
+      "keyword": "gathering karyawan",
+      "published": "2023-07-07T07:00:00+00:00"
+    },
+    {
       "nama_event": "Kemenkeu Tak Pajaki Fasilitas Outing Kantor: Biar Gak Stres",
       "tanggal": null,
       "lokasi": null,
@@ -7941,23 +7876,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlNrMmY0bzNDZmRoWTlObDUxRjgtUTRNaFd6OEliTHAxVHpMNUxEV1AwNENoMW01S2UwcFduR3U2Nk9zNjhSeUJud0NIRFFMRk15bU1KTkxmRlZhNTgzWmQwbGlmUWpHbGh1TGN2alZ0YkZVdm5IODhPZHUwbzdGOExWRXdmbEUxTmhWSGhobTFKSjJpV05Bbkk1RWFNWXRXZVJuRFlLUzlweGg2UnptR1VZVXRaZldqS2VjRllB0gHDAUFVX3lxTE9RU29mcGpJdFpYWUpReXh4UnhfX0pUR0Y4YkctTEJkWldZYy1RSUctZDI4dWQ4NVBHdmxnSUNjcnk1WFplMk9EOHYxQTJFQW1oTjR4U0F4bThWTlg1WXdFemlQQjZqRVhmanRyZFd4ajJlbnJsODV2V0J2TDBPRVdIZXNtT1JLZjZvaXZpVVdmcUNXWXpFUFBLcWw4WFU3QS1fY2NiemZUVEM4RFF6WUN6ZEJUWUp5aHRLb0c3emtQa0t0OA?oc=5",
-      "sumber": "google_news_rss (cnnindonesia.com)",
+      "sumber": "google_news_rss (CNN Indonesia)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2023-07-06T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Renovasi JIS Prioritaskan Akses Masuk dan Tempat Parkir",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkVTMU5kUFJYeUVtU1ZQRGsza2ZRelFxVDVkS29tNkhpYmNOeWw4X2ZXbjNiMzViSjdseGt6Wi1ocnJfNFM3alJQM0syZi13a2ctR3NQYWZnMTJ0N3RWVGtSUW9uVXgxa3FEdDZtMkFTcElaa1dKUjc2aDEycUlsb3dtWVRZNERnU1RZTG4zd291VTU5OWdtMmZtRGRaSjN4VVhuV1dqNDBMNnJMSU0wZUdB0gG3AUFVX3lxTFBFbW9TUk9OZTdGc2FUNTZFSkJFMEE1MVQ3ZkFSdkpneWRpanhRN1pKQU01OFQwSlhRclpSSVduNUhQNFNEV016cDRybXh2Q3I3bnJjb0dBN0FyM091M1pmWlFSMVRMNVdlZ3lodWVIdzh5RVd5RVVnc241NXEyUnZ1X3VlQlM3ZlFaQk9TelRBZzdya19NZUs2aUhSUUJtWmhITkt0NGF4eTljSVRDZF9ZNHBWLUN3dw?oc=5",
-      "sumber": "google_news_rss (SINDOnews Daerah)",
-      "segmen": "tidak_diketahui",
-      "keyword": "HUT BUMN fun run",
-      "published": "2023-07-04T07:00:00+00:00"
     },
     {
       "nama_event": "Family Gathering ke Ranah Minang, PT Asri Gemilang Prima Berpeluang Buka Rute Riau - Sumbar - Haluan Riau",
@@ -7986,6 +7908,19 @@
       "published": "2023-05-13T07:00:00+00:00"
     },
     {
+      "nama_event": "Bolehkah Gaji Dipotong untuk Cicilan Biaya Outing Kantor?",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "gathering",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2JVWnhrY0V1b0ZrVUViUXdXX0ZkLVJwWVJxN2ZlaU1Gd0xrLXRYandNdWltc2FBVG9xNGdsS2lmMWt3YzNiZWtsNzRtVGlmTFdOQXR3blhJcFZPSC1QZDc2UUctMDRjZnZFX2MtSHlyakhfTndyQUZyYmlTNlJtdWgxLXplcWVpWVZfRVZiZEFxNFQzS3lZNDVaZDhGTWlJU0J2bUk3MFFuMGVabV9SQ19rRQ?oc=5",
+      "sumber": "google_news_rss (Hukumonline)",
+      "segmen": "korporat",
+      "keyword": "gathering karyawan",
+      "published": "2023-04-06T07:00:00+00:00"
+    },
+    {
       "nama_event": "Kompetensi Besar Erick Thohir Semakin Menambah Tingkat Keterpilihan Cawapres",
       "tanggal": null,
       "lokasi": null,
@@ -7997,19 +7932,6 @@
       "segmen": "tidak_diketahui",
       "keyword": "HUT BUMN fun run",
       "published": "2023-03-24T07:00:00+00:00"
-    },
-    {
-      "nama_event": "1.500 peserta antusias jalan sehat bersama BUMN di Palembang",
-      "tanggal": null,
-      "lokasi": "Palembang",
-      "kategori": "lari",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjdLSGNpM28ySTdnMjRzX25RRWRlTVNaTEtjaWdlcjhRaUppZXFBWnhaX2I1RUtXRWxOVVNGWDNwUmJxZEtQRDBqZDQxZ0xuZUdVeVh4NUI0NFRLRTJTNERnZ3JHT2hkbWotRmhweG1lQTZHNURjU0xuZ3RVZzM2UkM1ZHdrN25QVjZ1MUV6czhXRERDNTlwd2Nvb3hXWXlsb0Z30gGmAUFVX3lxTFA3VVUzQ1ZOS01IQTdlRFJiM2ViRzE2THN6Slh4ME5VaFpWUUdHa1ExS0JKQWp6VGdzeUZiWUIwMWc4Z0M4Rnd1enBHMzluV1FEcWVYdENWY3pWSHZVb0dncS0yd3V0V0R1OTdCWEcyN0N0QUV1QmhjdkU2QnY2aU5ZMlFGX1F6cDJiTU5udExFTS1BeVFzb3JfandCV3VNNWNtYnRRM2c?oc=5",
-      "sumber": "google_news_rss (ANTARA News)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "HUT BUMN fun run",
-      "published": "2023-03-05T08:00:00+00:00"
     },
     {
       "nama_event": "Keseruan Family Gathering Karyawan PT MMKI di Trans Studio Cibubur",
@@ -8032,10 +7954,23 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ0ZLdG5EY3VOREQ1Q0lBMXBoTzF4bmdldVpmX3JCeUZFUm9tU2pGRDV3N3lSTE5mZWkxVDRkNnV1T3VoU1dNTzNpekRTaEM2Q25rM2FRU3hKVE90ZmZWRG5QTU9ZcDVwSGJNc0M5QnM3OGFRSDNJWWhoZDZUN3hWVmIzM2RiQ2R5d1ctaXRLMG5jYUxla1FqTTEwYklfcXdpT3ZkZUZZVE1WTVZ4eE1memtleVhFWVpiWEFUZFAtY0d0Nm52SXloQzdRcjJjVHRaYTNTX3VjNmhhNzBNT2NFZjBFWU1jd9IB6wFBVV95cUxQaFBpZ2ZnMzU5V3p6bnRHQnA4MUhDbHVEU3M4bENOZE03SF9FVmF3NHdJdzdYWWNqUjUwbzdqYWFzRlBSTjU3dVAyVzBiVTBGMUhicElOa1JuNUZLOUExSW1fQVI1MGRRUllfWExhZmlleVBWZkxsb0FlbUhKY3A5RXpaUzdGUVhoR1ZHaGdhOUhoeWhoRlU3YkpnUFVhTGktbkdBSk5Hc0JmaF9RX2Y1cklBMkNpV3JTZmhxcEwtbHF4WkMyNUJJWTJOVzBZVkFwVnkxdEM1Q18zU0wxel96OUZUXzZmZXZ3bm8w?oc=5",
-      "sumber": "google_news_rss (rakyatku.com)",
+      "sumber": "google_news_rss (Rakyatku.Com)",
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2023-02-12T08:00:00+00:00"
+    },
+    {
+      "nama_event": "Demo Saat Family Day PT ULI, Hipedes Minta Oknum Manajer HRD Dicopot",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "gathering",
+      "penyelenggara": "PT ULI",
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTHRLeHpSYmtpWnN1ZHpLZ2I0TEZoNUJfTWtmUV9Bc0l2azFRSkVOTFJXNklCSVE2QTlxVVZ0M3JEMlppNEd3VFRfQjVsdUxOSnR5LTcxSnRxQ3d1RzBHYmV1Z3g5MlJZdHdaMzZuaFY4UWR4enFnaF9DVG8wOTlXVU1mS3lBLWl3bHB0YzBWY3Y1MnAwUDJGWkh0M2RtR3cwSjFfTEFWbDNnWGdHbFhRaFBn?oc=5",
+      "sumber": "google_news_rss (kupasmerdeka.com)",
+      "segmen": "korporat",
+      "keyword": "family day perusahaan",
+      "published": "2023-01-15T08:00:00+00:00"
     },
     {
       "nama_event": "PT Pamapersada Nusantara Gelar Kegiatan Family Gathering",
@@ -8071,23 +8006,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM1dDVzJ0Ym9XdnJCVmJwUmllcVIwQllCSHl4cDl0LVRuNm1QanM5S3lnTVNvemtsTmxYMjg2dk1jVkJPVzlZQ2JsR3d4R3RKMGVBNUt0WjNWOHlkUGt6a2lLaTZ2VXlmR2s3Ql8tQmJqZ2Y4LTN4M1JIbWwydW4wUUFNTjYxQUMwRFd3Sm1B?oc=5",
-      "sumber": "google_news_rss (Partai Keadilan Sejahtera (PKS))",
+      "sumber": "google_news_rss (pks.id)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2023-01-02T08:00:00+00:00"
-    },
-    {
-      "nama_event": "Mantap, Grha BUN Gelar Office Gathering di Taman Budaya Sentul",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "gathering",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFNnWWJkNTA4cVRmalhpbjkzVnN4YUw2RFZKZnFBdEdXOW4yWWJTWXQ4bTB2S09oUlpIb1AxalA3S01hVUpycDdDSWlkLXlvVkJjYjQ5U0gwTjZwaEloNnZ2aUI0UTdNTGpnYlM2NlJmdDFYQW5SWU5sWE9yUEFWYk1pYkgteGN3WHFvUA?oc=5",
-      "sumber": "google_news_rss (Majalah HORTUS Archipelago)",
-      "segmen": "tidak_diketahui",
-      "keyword": "gathering karyawan",
-      "published": "2022-12-26T08:00:00+00:00"
     },
     {
       "nama_event": "Bangun Kebersamaan Guru dan Karyawan, SMP MBS Bumiayu Gelar Family Gathering",
@@ -8097,7 +8019,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUozUjNWMGNWaDZDQUxWQTZjRC1OdVFwZXN6TzNzSWFreHdBeXJVLWdEcmlPM2ZUa2FxVXVuNzNCSDZFdFh3THBqT2c0aHVCblVkeWt5a0JnQXB6Q0JLR2dXQ3MtSXMyX19mZkVoU29WcHhZWVppQWNxaGQtMjlKaGZnXzhTREV2QkhUTnB2X3E3c2Z3MEJCaWMtb0t1QTAyNjI4?oc=5",
-      "sumber": "google_news_rss (Suara Aisyiyah)",
+      "sumber": "google_news_rss (Suara 'Aisyiyah)",
       "segmen": "korporat",
       "keyword": "gathering karyawan",
       "published": "2022-12-21T08:00:00+00:00"
@@ -8123,7 +8045,7 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGNPLTRVdEJlYXZVQW5NaERhRURmTFlIYXl2Z2lHUURSUTl5SGlJSFpISDc3eFF2TFU2eTZfTHVLc0pUQ2Z2MFktTWRnU3BhR0xwWWxDLW5zdlJSMXh5ZlQwbEdocmxSRW9vajQyTkQ1S2J4WUVmaHBEaUQ3eFYxTnZkek9HMmxvWVU0SUZVcWxNQTBJdE9DOFlxaW9LYzJvNVhSTVpDMW1VMWtGMVdvNjJ1a25OeFVwZk9TWXJRX2VmdW5qVjdwQkRR0gHPAUFVX3lxTFBEWEJrd2tjcGVpMlhieUN4NnVuZ21lRG1jbzhMcm5NRFExVEszRU43bzlwUHFMX3RsRzBqU3c3ZzcwZDdmSHVwRC10dDJBWGJ2VWpQSGt6aDNydXdlbHZvZW90bEVvdWZ5bFdZbU1TZnZrTkJyQk9LN09jLThGRjJ0RVdMaFQyc0FXMHZRTnRTa2d2OU5zQ2VHOU5EaFFrR1VwZ2RRWktGSDN1b0RFa2N1Uzl0RVpBWXc4b1R5UU4wRDQ0Z1J1N2ZwWXZfWlFvOA?oc=5",
-      "sumber": "google_news_rss (Sulselsatu)",
+      "sumber": "google_news_rss (sulselsatu.com)",
       "segmen": "tidak_diketahui",
       "keyword": "family day perusahaan",
       "published": "2022-11-28T08:00:00+00:00"
@@ -8140,6 +8062,19 @@
       "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2022-10-29T07:00:00+00:00"
+    },
+    {
+      "nama_event": "adakah.id Gabung ke JMSI, Penuhi Syarat Menjadi Perusahaan Pers Profesional",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXlHOVdfSU1yUEFwNkZtZ1JmcFpEQmc5dGpmeWFaX1pqcDBwRkhyTnNSSFlOYjBoV0FDQURhX3hpU3pBYXhFTEtQUmh4bkNJOVB5U0VXeW9pdGZuMUNXRlVNaG9ST2VwNzF2RHZEVnBEZVVvbWNXdElRem5WZ2dOTVRSTTg3U3JjOXVjdHdFSGNsbVJmWWppMw?oc=5",
+      "sumber": "google_news_rss (Adakah.id |)",
+      "segmen": "korporat",
+      "keyword": "family day perusahaan",
+      "published": "2022-10-23T07:00:00+00:00"
     },
     {
       "nama_event": "Peringati 1 Tahun Perusahaan, PT Mahesa Anugerah Medica Gelar Family Gathering",
@@ -8370,23 +8305,10 @@
       "penyelenggara": "PT Uno Gas Manggala Jaya",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzJ1SUJDRzYyb0ZmRWFtUFA3blBJTFNyeEJFdnFsV2dESmtFUmNidFRUUnJnRnRKbE1MdHRiQWNncEtsbEtwNmhEbjZUT0l1aEQxbFNrQVV6UVpOekpza2Q2R2JqQnpLRFVqMVJVNHBqNUJ6bC02Tk15a0hoWGpEWVhhRGt3T3hmelpJMWR1MA?oc=5",
-      "sumber": "google_news_rss (Pos Rakyat)",
+      "sumber": "google_news_rss (posrakyat.com)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2020-08-27T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Advokat Rakyat Agussalim SH Tantang Dinas ESDM Provinsi Sulteng, Cabut IUP PT Palu Batu Madu",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "lainnya",
-      "penyelenggara": "PT Palu Batu Madu",
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZm0wSnpibV9LQU1abUZKRDJvRVBOX1RjSWdDenRIZ1N5VHNUU1BseHhvT1RTenVhaUwtYjRwR0dYOGVXUUk1b2VHZXRPY0J1aHluZkg2ZEUwSzZiY2xqMXI4UEFOM0dSM216YjhWLUI0T2pydjhMOUdlbzg4eDRTbXYzT3pvUnVia0Rsc0RxN3RQaVVOMXFTcUlTVTNZS3U0VlNLVXdSWU4zN2laUU42SzhPSjViYmpwX3c?oc=5",
-      "sumber": "google_news_rss (Pos Rakyat)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "family day perusahaan",
-      "published": "2020-08-18T07:00:00+00:00"
     },
     {
       "nama_event": "Wujud Peduli Sesama, PT BJAP Pangkut Gelar Donor Darah",
@@ -8461,7 +8383,7 @@
       "penyelenggara": "PT GS Battery Karawang Plant",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFBFdDMwOXdQcG1QempGRUd3a2Y1RWt2UGI1M2JCX2RpWUJuM1dxV2xfU3BMdDRDOV8wWGxBNVZWRnJaWXg3dThaZFZVQ0t3TWhTOUl6eXZXTHd5MkQ4UVJyY2tHZThISWRjSVIyelFfanNGVE5WcEdxc2NUNTF4b3FRZXowTm44UHdieFlaNnFDRThVT1c0dWRkRjhibFotZWtPNC1Ebw?oc=5",
-      "sumber": "google_news_rss (kompasiana.com)",
+      "sumber": "google_news_rss (Kompasiana.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2019-10-24T07:00:00+00:00"
@@ -8513,7 +8435,7 @@
       "penyelenggara": "PT Pancakarsa Bangun Reksa",
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUtvSDRTc2owcmJJYnN3OXFUMlUxWDhsTXlzaGU5dmZBWm10bnMyUFJVX1pMQVhQeEVtVFRtUmhrdUlmRHdPT1BWSi1CdGsxUlFyT0drNzJobXZCcl9WUk9EUFlVSUdBbU9mYnhnV0g3Zmt6c3lRdzdpWTR6X05tN2tB?oc=5",
-      "sumber": "google_news_rss (Pengawal.id)",
+      "sumber": "google_news_rss (pengawal.id)",
       "segmen": "korporat",
       "keyword": "family day perusahaan",
       "published": "2019-04-09T07:00:00+00:00"
@@ -8567,6 +8489,19 @@
       "link_resmi": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVZNTzRaeFYzdHBWaUhRcTVBTTVYREN6bTk4U0szcFhnNUpEMGZya3NFbWl2NWNZazNBYTFuOFA4aHMzbXJHeVM1VnJKUFo3SThuU3ppcjNRZ19lS2phUENsQk12bnE2RHhILXRVU2EzMTlHUGdSb2xoQXVkWW1uT3ZoeVVpQ2NMSTFjY1JoaG5lUVN3NlYwbzM3UHc?oc=5",
       "sumber": "google_news_rss (Tempo.co)",
       "segmen": "pemerintah_bumn",
+      "keyword": "family gathering perusahaan",
+      "published": "2018-12-23T08:00:00+00:00"
+    },
+    {
+      "nama_event": "10 Kenangan Aa Jimmy sebelum menjadi korban tsunami Banten",
+      "tanggal": null,
+      "lokasi": null,
+      "kategori": "lainnya",
+      "penyelenggara": null,
+      "kontak_resmi": null,
+      "link_resmi": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFdkUm1fa3A4NVhXTDZLMHNZdWIzLWtQOE82WjkzNFlSMXhwNjJScnpUcE51SlRNdmg2UmpDN2F3YVRVU3ZqR2ZvYU80SHJaV3ltOWltZC13SjRPbFZqSF9lSDl5Y3hxMUVHRFhPalBHME5raElXaGdtM1czOU9KQkl2SEJpMmRnWC1Ock9zR0Rfd0JVZFZlYkpwbnFuODdOY3lmYVpfRUnSAa4BQVVfeXFMTUxGYWltemdMX3oxellaRXNIRU83RjhTVGdzQThjYVRkOTZ1d09HS0VYZHFNWHRCT2hyREFXZUtJVkExdnQ1cUJla0Z4QnppNG9mOXJXQXN0b085bERBNnFQYkhDMklBMU5FTWN1UTJMQ2l6WDRJVVRMSUtsX0stMDdpc0EySEZwSjZ2bHJ6a1o3RWtpdy1yTTYxeXA1NTJ1ZjlGYlJqX3R0WU9FUGRn?oc=5",
+      "sumber": "google_news_rss (brilio.net)",
+      "segmen": "tidak_diketahui",
       "keyword": "family gathering perusahaan",
       "published": "2018-12-23T08:00:00+00:00"
     },
@@ -8656,23 +8591,10 @@
       "penyelenggara": null,
       "kontak_resmi": null,
       "link_resmi": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnpDMVo2dzVFU2ZlNjdGeVJuWDNCZmZYNERmSHU4QjRJZWdmOXRERkZDNXYzZFlfNVB1VjNCT1hibmJ6ZlVRanZfMm5rc0NzS2QtU2VHY1RuRFFJQkZZazhqLThRbk9yaG5mdkZDd01mUkVJaFV2d2Z3ejg5ZjVYaFZ4cTJtUzZYZHJLVnR1YzBEbGotOElnX1pIWHc4T1B1bW13bi1JdGk5d2k2VHNaTjYtUkp2S3RZeUt0Y3NUMVVndw?oc=5",
-      "sumber": "google_news_rss (Bangkapos.com)",
+      "sumber": "google_news_rss (bangka.tribunnews.com)",
       "segmen": "korporat",
       "keyword": "family gathering perusahaan",
       "published": "2016-08-22T07:00:00+00:00"
-    },
-    {
-      "nama_event": "Menteri BUMN Hadiri HUT Kemerdekaan di Haruku",
-      "tanggal": null,
-      "lokasi": null,
-      "kategori": "hut",
-      "penyelenggara": null,
-      "kontak_resmi": null,
-      "link_resmi": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXViemhITzNhQWZlMmhDRndzc1MyUUd5MGR6Uzh2bVlrUGZ3UzdmcjFVRV9GMy1rYTdFZ1pSUm5GOVk1am01ck5Qd1cxWWdtMmszZFFEcm92b1M4a3BRS1ZnZ0RabzBKNlkzdGNtenRPRW81cUxDRXQ1NjZ6WG1ET2tMNzlZNVpXTm5iMkxna1HSAZYBQVVfeXFMTVB3RkFEbGhyZDdNNWs1clRtY1pCSFBlQXVxWlJHRkFRcVYzeno3SUJJY3NLa21uMV9GcFg5QUZZY3pYVnFzTk51RzN6T3RFbHNFMktrTkRzTnVzTWZ1dU1PSzNPVnBKR1NmVVpteWpCNm1meWlhcmhGSTdDZDYyZHI0SUVfbWI4THQxRWF1dkpOc2lsak13?oc=5",
-      "sumber": "google_news_rss (ANTARA News)",
-      "segmen": "pemerintah_bumn",
-      "keyword": "HUT BUMN fun run",
-      "published": "2016-08-18T07:00:00+00:00"
     }
   ]
 }

@@ -1,37 +1,79 @@
 {
-  "generated_at": "2026-11-17T04:20:37.753693+00:00",
+  "generated_at": "2026-11-18T03:21:09.115022+00:00",
   "sumber_catatan": "Sinyal dari Google News RSS — bukan daftar tender resmi yang lengkap dan tidak real-time atas semua LPSE.",
-  "errors": [
-    "keyword 'pengadaan seragam': HTTP Error 429: Too Many Requests",
-    "keyword 'pengadaan seragam PDH': HTTP Error 429: Too Many Requests"
-  ],
+  "errors": [],
   "items": [
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
+      "judul": "Hadiri Undangan Disdikpora, Kepala MTsN 2 Bantul Evaluasi Seragam",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFgzN2NDTElmOWRFNWZzOGxqNnc0ZEVaY0dPUWxLeXJraFdvTkRiQkFhdG82Ty1Cb29tdG5pM2dud2ZRTk1wU2RSVWNlUHRBQVhnS1Rta3Y3M3Q5VllqSFM3c2lVc3BRdFBCQVVOTGt6cVE1Ny12VHNxdFphU1hFS1pXNkRFOTZDMGE1R2xqZUZxM3hQbUVHSWZoTXlJTk5xc1hGR0M3MmVFOU5jaUlyRVh5NEdBR0hPSDdWVHlXd3k2b3dCSWYwODRUUQ?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2026-11-17T18:55:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Warga Cibeureum Keluhkan Krisis Air dan Seragam Linmas Lusuh, Pemkot Cimahi Diminta Turun Tangan",
+      "instansi_terdeteksi": "Pemkot Cimahi",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjNRTnNaS1RGYzhtb2Q3NUVncHV4RTQ1b3lMSEt5a2xISC1CT254dTVDTlFxcEtRNVVZRVF4V2o1RnlQbFJfTm16OFA1a0xNTmhRNVkyYnQ1VFRJOWRPQVhQSzd2dkhQQ1F1S2VwdWg4bm5FRV9iWm9CM3BVY1UzY2ZlUl9oZw?oc=5",
+      "sumber": "google_news_rss (SUARA PAKTA)",
+      "published": "2026-11-17T15:56:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Kepala MTsN 2 Bantul Cermati Evaluasi Pengadaan Seragam Disdikpora Bantul",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSk9pZE1rNi1Tei1EN3RDVl9rWEZhdE9CTmR2cWlLaVhkUVc3VkR3ZWFVMEhnOXFpNFJqQ0VyVDBZeUk5ODRzUUhRam1pMXFNSzNEZ2dSWTdCdHU1NmtNWmtlOVk0WjBxOEJMVFBLczgwRGFVSmRmSG9wa1V3V2pEYnFQRV9qTFQ3NnFLeC11bHg3SUlfbnQwRVVRaWk5V3k5alQyQlI2Y1FjdjQ3WmF2QWx4NEs5ZHBfUEZzV3M5NEJBUG0yZkJ4dzA0VUJ5eEJJWE45WWJQdF9fQQ?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2026-11-17T14:19:26+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Kepala MTsN 2 Bantul Perdalam Hukum Pengadaan Seragam dari Kejari Bantul",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalFWVkJsMUkyS1pmZk1iTFd1VUhaMV9QRGFOOXFfYXFKQl84V1hRRzBCWHd3S3hiZUMtamlzWU9pTjc1WEZ3Zlg5UHZfVXowVkNKaElVWXpqUW1ILVd5OW40SkFsbEdlVXRfZFJ4eVlScV9RTWNFSGxqVDlOWE1TSVNVNFpVY3hlTVRwc3kzLVFkdVEwR3hYbHJzNGh1SzFaT0xLQ3JBR25wZDdUcDFTSEl4dlRuWkR4NjNhRGtsNmZ3OVgtNDVOQkhNUTBHNWU2ejZ4SG5yTjA?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2026-11-17T11:10:26+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Kepala MTsN 2 Bantul Hadiri Evaluasi Pengadaan Seragam di SMPN 1 Bantul",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbGFMVkhKNkEtVWFTLWRKaFA2RmtnLUk1VVRWU3JVZWptalE5U0ppLTJwLUFnZlJNd01SRndOalFvaXhHVU5pR3dXUnNhMTNLZXI3cF9FdkpyTFFtaGNUTkF3MV9lR2ljN09pQXJlNTc5YjdDWHJySDFFbXdSNTNmRHJ3YlE5SVZZcEt3MWIzWTVIM2phcXdBSEZMWFk0bjJFYkUxc1RSeTZacDU5cjI3eERfSzh5YWRGOTlaeG1FcFRhSlJqOVdZUnY5c0VPUFNPOVVYOF8zWQ?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2026-11-17T09:51:32+00:00"
+    },
+    {
+      "keyword": "pengadaan kain seragam",
+      "judul": "Evaluasi Pengadaan Seragam, Kepala MTsN 2 Bantul Ikuti Rapat Disdikpora",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3cyRXZBRWJjWWQzRWJXT0twNkZocTE2QzdieFlhUmpJQzVSRmhCN1Z3RWxWbFRNTG96U1dUQmoyMlNGMHZ6aDVDMFFUQkpVbWlrRGpaOUtTSHVVMUZtOUp4S1VwMENLd3puQWxscG84RWUxNm9GVXgzTzMtYkM2c0FZbUNmVURyLTk0MGtLNGNCRUlsM2pkV3lPTWtGUTZtazhLbXFLc3RaT21zMUp3dWdMZTdnSTB2YlU2d3QybmlnbjJhdmVJZE5fMA?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2026-11-17T07:50:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Seragam Gratis Pemko Pekanbaru Tuntas Disalurkan, Orang Tua Tak Perlu Lagi Pikirkan Biaya Tiga Jenis Baju Sekolah",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa2hQOVNCSW9abmRQUXk2R1Fodkc1TFdWRjlXTlVBcU5ZbGp1aFZNTVJ6d1lKN1c0RTVoNl9vSlM3bm5tOXpVV0VxT1U1ZnhvZERudFBwYzd3c0hLYWdSSTBBdENpRmZTN0h5aW9SNEh5Y29KalRfcThVdnQyaTdtbU50ZERzbktvNDZpTkVDajNXQmoxYlFoQ2lYcHJmRFhaVkVvTkZCc2stTnpoLXUtaDZhLXBuZ2pnQUk5Rm9rT2dMdlBkTjBRVm4yLUxmcl8zRVUzOHE4WGVxZEZsTHpqUHZ2eFFyaUE?oc=5",
+      "sumber": "google_news_rss (Sabang Merauke NEWS)",
+      "published": "2026-11-17T06:42:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Kunker Perdana di Gerokgak, Sutjidra Serahkan 5.600 Seragam Sekolah Gratis",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjV2UndHYWdvOHZ1bnJIdkVtTGtYTjI1OXVDbkRoX3g4TWxPUXVKTHloUVNPZjdfNVV2RU1xREthc3YyRDNpWFpCNVlmSmlDU2lYVU5pcUVEb29FWmE5SThOZVpGOTA5dDdxLWc2Y3NUX2JhLVZpM0FxZU83UXdpM2UwblNGU21WOUlaV0FDTEd1TTgyb0w5ZUVJVGY?oc=5",
       "sumber": "google_news_rss (Fajar Bali)",
       "published": "2026-11-16T11:04:00+00:00"
-    },
-    {
-      "keyword": "pengadaan pakaian dinas",
-      "judul": "Humas SMPN 2 Pangalengan Akui Penjualan Seragam Rp800 Ribu, Dalih Koperasi Picu Kontroversi!",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TZlBaTUQzWW1JZ29IaXBvZ0VNRDFOaElzLUdUWldhaVlMSjl6c1NwbW5YYlV5R0VvSDZ1RS1jclZFT0lRcTdWcXlQRQ?oc=5",
-      "sumber": "google_news_rss (Jayantara News)",
-      "published": "2026-11-16T07:57:28+00:00"
-    },
-    {
-      "keyword": "pengadaan seragam sekolah",
-      "judul": "Kepala Sekolah Apresiasi Seragam Gratis, Siswa Kurang Mampu Kini Makin Terbantu!",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm9pY0lqbDdiSWRfaW93RnlSNmtQS2QxUWt4QTlnaDgwSkJtTzY1VktqWWdKRXpWemJNQzJOSnZLWGhFLVhCTTRydEE5YUFCcllJVXdqSG1seTlLM1F6clhvRTNOWnE3ZlY4SlU0dVNBMzlFTGN4Y3Rrbl9wX2hZWWxzbU5uR3hPa0tfYm81WGE3OEUwMWlwcTR5RjFfYWwtTU5Ycw?oc=5",
-      "sumber": "google_news_rss (tvtabalong)",
-      "published": "2026-11-14T13:14:21+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -41,6 +83,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjdHZWFBbFJyYlNXU21VOVFJRnVpVkZhQVJMNE10RTNOcE1iS3RzUE40V1JhU2dzY28tX2tuN2hCWlJucGl6RmNrR0hTYWlVamV1NmVVc0NHYU94c3hldVpVM0tQa1VnVTlrY3ZhcC1QLXV6Y25wYTBJeThuN2loX3BPNnN4eDAyTEpIQlhkR0Izb29RemJZamFkNzBieHJX?oc=5",
       "sumber": "google_news_rss (Pemerintah Kota Madiun)",
       "published": "2026-11-10T22:40:01+00:00"
+    },
+    {
+      "keyword": "tender seragam",
+      "judul": "BTT Belum Usai, BPK Juga Temukan Kelebihan Bayar Rp269 Juta Pengadaan Seragam",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90cFpJeklGY1dWN1JxcUV3aklSaFBZbEo2ZW5TVlZYdG54VkloVmNBRVpsT2VxUEIxRnQ2NGRNSTROVmtvY1JmTWdleUVpZFVWbWppdy1PTmV2SWo4RU8td2FVU2FqTk80S0pLNzZHMW1Bb1dDaVRiS3dpeU82dw?oc=5",
+      "sumber": "google_news_rss (Deteksi.co)",
+      "published": "2026-11-10T07:57:23+00:00"
     },
     {
       "keyword": "pengadaan seragam sekolah",
@@ -97,16 +148,16 @@
       "published": "2026-10-14T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan batik dinas",
-      "judul": "Polisi Usut Pengadaan Batik ASN Luwu Timur, 18 Orang Sudah Diperiksa - Halaman 2",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHc3TG96MDQ5TFNwMGZKZE5UczB2LVlSZHh5elRXX2t0RDZEV1ZDS2QzYnpjaDREeGtQMEEtQVhpUlU0aXRzQ2RmRFhfdC1TTzRwRFNjUG91OG5vNlRqNVRTTy0zZUFpN1NRNnFNOFl4SVo4LUxwZW1udXRXVUthYmZzbUJCbG5Qd0FnUFN5VkJwRE5JS0xTRG5ONVRibFZBdDh3cWZQTUI0bVlwQ3hxQXZiS1FiVzE3enRHaw?oc=5",
-      "sumber": "google_news_rss (Tribun-timur.com)",
-      "published": "2026-10-14T07:00:00+00:00"
+      "keyword": "pengadaan pakaian dinas",
+      "judul": "Apakah Benar Ada Dana Siluman Rp5 Miliar Untuk Pengadaan Pakaian Seragam Sekolah di Kabupaten Alor?",
+      "instansi_terdeteksi": "Kabupaten Alor",
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeFZEWnRLa256a3JxamNqUFhkSFY5Q2xrVUM1SVctT2NzX2c5dVVJNjVUc1RyQi1oZnBSLW44RG12LTZCQjZTTVhocGcyS3A3MkRNdkxXQUxWVDhsTWQxQTk2MjVuUjUtZUNVX0gycTNXYk1GMkZ6MmszVWIxNVVtNFlBdjVqbWtGR29BWmFZeldRM0E3RW0tVU5Lc2J2WmhlUHRhVE43N2JkVW5ZVUp2S2E3NDBTeEk2S1A2Y0dBby1taXd5M1lXUFVMWWxqUW1tbndvdnRfVDBYcDB5cUxlU1ZHRXZ6RnRkUkxHMWJWY9IB9AFBVV95cUxPZFM0RkhTZGlNTmdocnNMUTU0aFhEZURYeXMwc0dxWUkzdk1xb0N3cUEwT2FPQnZtaE9QelFCX09acFJIM1FvUG4yR2pkUl8yaUcyVm9KY3NpUUlPaGFJLVNZcXRGOGFMRTVhdkNVa0c5TFVzcTRjWTcyd2hkc2lCSFBqU0tuc0ZmOG5NSkNCaS1OQlNNdlNFWENZLTZqOTVQN1IzMGlDajFaNmw1WWluVElLalAtMlJnS0VXUWJSTjVLclNudGllQkZfOUlnMVIzSU4zaHFIUXE5R3NFeDRiYjF2ZllGTjNyUmIyLWIySjhESmQ2?oc=5",
+      "sumber": "google_news_rss (Media Kupang)",
+      "published": "2026-10-10T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pengadaan Seragam Gratis Segera Diproses",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -133,13 +184,13 @@
       "published": "2026-10-01T06:14:26+00:00"
     },
     {
-      "keyword": "tender seragam",
-      "judul": "Kejari Aceh Singkil Geledah Disdikbud Terkait Dugaan Korupsi Dana Pengadaan Seragam Rp1,77 Miliar",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHAzU2o5Y2VkbV9DTEE4Zk1LR2VFQUI5b2dnVlVCc0Q3SFR1a1l6V0d2elh5STY2MGFQVVpjTzFVQkoxa0xqN1hZdlNRMmtGLW9za3BfUnd5bTBDZy1aSnR0QW5wZFg5ZzFPTEJGTkdjOGF6ZWJzQTRNTy1QUjZ3N0pNancxVExiLU1NOThjZ2RmbEcycU1NX2h5QVVKTmxWUmFMNmsyYkM2YjY1XzcwanJ1V2E4SG9WSXZlUkY0cGNPTmlWWkZUWVpKNzdhdE9leXhISl9MT2VMUQ?oc=5",
-      "sumber": "google_news_rss (Prohaba.co)",
-      "published": "2026-09-29T07:00:00+00:00"
+      "keyword": "pengadaan seragam",
+      "judul": "Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan Timur",
+      "instansi_terdeteksi": "Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeWlZY2dpcDZaS1FDM2xSbkI0bjF3em8xSXUzejFRbUstUmhTQkNPRjRhUk1ENS1wM3FVX1F1eG1mMUJyTkg4OXFLdWdmamdiTXhsak9WUWRsM1FXaEZIUHZCN3c1WmNKdk9XSlhoWDN2ejczQldFekdLM0k3TElrVy16X05qa3BPb1ZyMVpnd2JoU25oV2pTX1VpV1pwYVJ3YTFMdjVmOFpNTjlPUnBTT3o4Nnhqak5rVnVmOEcxYzZIV3VxcDVjb3RXNndwdkEwdmZEaDNaWEVYYnIwZm5ZQVYwN3ZpQjhQOVRIeDZlVkl0SjlTS3NWRXFYZlpkYzBYY0JkSVJ3?oc=5",
+      "sumber": "google_news_rss (Dinas Pendidikan dan Kebudayaan Provinsi Kalimantan Timur)",
+      "published": "2026-09-30T06:42:20+00:00"
     },
     {
       "keyword": "pengadaan batik dinas",
@@ -169,7 +220,7 @@
       "published": "2026-09-28T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan batik dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Wali Kota Eri Larang Sekolah Negeri Jual Seragam, Motif Batik dan Olahraga Disamakan Tahun Depan",
       "instansi_terdeteksi": "Kota Eri",
       "jenis_klien_tebakan": "sekolah",
@@ -178,12 +229,21 @@
       "published": "2026-09-25T10:58:57+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Bupati Gowa Pernah Diperiksa Kasus Dugaan Korupsi Pengadaan Seragam Sekolah",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVlSd3dEaXZidUFseGVCYVVOUHlmVzAtVUdhQVFYdFZfZHVjR051ZVRHUGNTTUcwVEE5Tkh6M2RyZThmb01mYkx6TDNSLUVwYzAwdGJFYVgyb1Uta3pOZEZxcWFEWHFIdTI2cEVXc0VkNmdsTU1DM29PTHYtS01xM2NLcjdidk9talBNRUJnOS13b0t0S1dzZ2ttTVpjR3dBNHlzY3Y4T055MHYwN0ZFeGhHdE91UdIBuwFBVV95cUxQLXBfWkZKd1lwMl9VYUg1VVQ5NXYxeG85eXZRYnp0QTBjWXZxbVgxSUlQclFQVmpyU1I1VnNBNmdHZE1rZHJpenp1ci0tZDFmYzdnWlRaRGZlWlBOVFR5eGV1aXMzQl9mRUdoMlhweHpkT2ZSdXZRQXprRXNjM0xjWEozTTBBWWsxOUhEUXU5Sk9CRGsxbHJkX1FqbU5kWEVzS3pGMlBIN1Nkd3dFQVRsLUowbjhUcWVyaEVv?oc=5",
       "sumber": "google_news_rss (detikNews)",
+      "published": "2026-09-25T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Polisi Dalami Dugaan Korupsi Pengadaan Seragam Sekolah di Gowa",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHJyYjB1QmozSmdmZkZIcC1UR3dwOEYyeUc4NDFkMGdhN0g5VnY1bktIWmI1eWdNSl9LWC15dEowTXE5ODNQTkpla3NhTXA0RG5oZVU2SzlzamF3Nk1NczVFa3RhLUh5M3FNQk8tMGZXOXRJWlN6MXZsVTE1dHdxVnY3XzVOWko0M3F0Wk1WZ2xaZUdONldOUDZBTzBOck11YTh2bnlncmTSAaABQVVfeXFMTmNrRzJ6YklPbFdtUkVPMDhGdkYtd3g2alY5ZGJwcWQzdER6ODdWcGI3M0JYalBDVnVlQnZQSUVmSkRUZHpXeU5OMHVyOXNMcW9GWEoteExtRDlkQjlwUEY3Q09heFZMMVpfNzFscEQ3d01QNmR6MjdDU1BkRllORFlELTFTbXVxc1lGbF9oVHZ4a0V5TVFJSWZxTFdmOXlCRQ?oc=5",
+      "sumber": "google_news_rss (Liputan6.com)",
       "published": "2026-09-25T07:00:00+00:00"
     },
     {
@@ -232,7 +292,7 @@
       "published": "2026-09-10T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pemkab Gunungkidul Putuskan Pengadaan Seragam Rp3,7 miliar Dibatalkan, Anggaran Dialihkan untuk Pendidikan hingga Kesehatan | BPK RI Perwakilan Provinsi Daerah Istimewa Yogyakarta",
       "instansi_terdeteksi": "Pemkab Gunungkidul Putuskan",
       "jenis_klien_tebakan": "pemerintah",
@@ -241,7 +301,7 @@
       "published": "2026-09-04T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Disdik Cimahi Evaluasi Pengadaan Seragam Sekolah , Panggil 16 Kepala SMP Negeri",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -277,7 +337,7 @@
       "published": "2026-08-05T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Seragam SMPN 1 Jetis Diadukan ke ORI DIY, Dikpora Bantul Buka Suara",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -304,6 +364,15 @@
       "published": "2026-07-30T07:00:00+00:00"
     },
     {
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Kepala BKAD Kepri Dimintai Keterangan dalam Kasus Dugaan Korupsi Pengadaan Seragam",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGoyOGRTZFlaMWVkdldxOERBVUZaQm5VekxvQmJ6dkQzakYyMUNqMEY1WXNkZFBleE5WSmp5a1lWRGJZOWtGdm84N2hHUmpjRVgxRmlwRzJkb2ZEbFBINTlSSklWaC1Iajk1NjFtTTR4RXlncXR6RzRieW03VFpqZ2hvNWxDNDNSR3FoRHIwTEk0cEpTa282TkRfQ2VZUWVubUthQWdrMEg4SjlBVnc5bWln?oc=5",
+      "sumber": "google_news_rss (Batam Pos – Kepri)",
+      "published": "2026-07-29T07:00:00+00:00"
+    },
+    {
       "keyword": "pengadaan pakaian dinas",
       "judul": "BKAD Kepri Diperiksa Kejati Terkait Dugaan Korupsi Pengadaan Pakaian Dinas Rp733 Juta",
       "instansi_terdeteksi": "Dinas Rp",
@@ -320,15 +389,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmNxaTRPWG4wSHprRy1IMmZjT1ZWcjZQX3hYc3hKcV83emZBSGhpS1g0b0JHR1pxQnhyS0w0Vnd2a3oxaUJLVTJrdlZraU1ISVpFX1FxQjBkU2lvd0JDMm9zWE5JbmVOaFl0OVFiX2hQUzM5c2JGdDdfcG5jdFpaa1RzRHcwRTB2bU1TeEJjeDYyaXRNNkM4U19UQ0hNZw?oc=5",
       "sumber": "google_news_rss (RRI.co.id)",
       "published": "2026-07-28T07:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan kain seragam",
-      "judul": "Distribusi Kain Seragam Gratis di Jombang Baru Capai Segini, 46 Ribu Siswa Masih Menunggu",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbldpb2RNV0VVYmV6N2F1TWhQNFNhY1E4Rkc5aTBiM1ZLNmQ1TEFnLWxIZURweUxVeFhFNDJMOUZvSVpYdmFfbUNMa25Iamk3QUFyRzhuSHJVRWtmWF8tTm1TT2pCbUxyZFY3NEhSQ2I1S2hWR3QyMFhrWFJFaUJNOExLZjBaTG5rUmV2RVdFa2RnRXhWcFFDckxDdkpseHJYVURLUUF6Tkc3R2JfOGo1dGJXaGNvZy1JNUhYdnJJTVFZY2lINVRBdVBzQzJpa3k3WHg2MHdnSEhPMnVX0gHiAUFVX3lxTE82ZWtFMVY4a0xkak8tQnI1aE80Q0R6Y193MlNiMExYOUU2MHpETXNLUzczNVYydXFVbno3dXB5d1VHQmpfNmhyX01Ud0ZtUWFXalZNbG54LVlpVE1IUm4tcUN4YlIwRVJXQ2pQTncwejI0bEs2bzFYcU4xMFZ3T0Q5SjJ2QWVwRkdBQ0FUV25yZnRxNEhaVzh2VmtXR1dWTDN3VHpOQ1dLZU9EUGRvb1U1RXFlbjBfcDZBUmhLNGdqWEstenVIU0swcV8tNWJORmltbk9oclpuWHJnNERVX2xaOWc?oc=5",
-      "sumber": "google_news_rss (Jombang Banget)",
-      "published": "2026-07-25T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -349,7 +409,7 @@
       "published": "2026-07-18T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Kebut Pengadaan Seragam Sekolah Gratis, Distribusi Ditarget Awal September",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -358,7 +418,16 @@
       "published": "2026-07-17T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
+      "judul": "Foto : Kejari Bandar Lampung Selidiki Dugaan Korupsi Pengadaan Seragam Rp 13,8 Miliar di Disdikbud",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDdMd0lzXzJMbXhvZlR1TGU5bEd1ZUVOLWZvY2FJdXdSMHVIUkUyRVk0Q0xDNTg0SjhEN0gyN0wxZzRXZVJWQzBKM2lLNlJYMlV6TjlxSWhoYVZUQ1QyMGpGOUxURWEwMldwOHhfdXhDZXhrSkFHdWJVenZQTklvdnlCNEV3SS1obkZ1djM3OHVPOUE3X3RnSlplekdOR2tVdmpOSFlZR05MUEZTaUpQelpFY3lVX2VnNzRfOURmcDl0X1k?oc=5",
+      "sumber": "google_news_rss (Kompas.com)",
+      "published": "2026-07-16T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Kejari Bandar Lampung Selidiki Dugaan Korupsi Pengadaan Seragam Rp 13,8 Miliar di Disdikbud",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -376,7 +445,7 @@
       "published": "2026-07-15T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Ombudsman Telusuri Polemik Seragam Gratis",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -385,13 +454,22 @@
       "published": "2026-07-13T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "MPLS di Sragen Dimulai, Pengadaan Seragam Gratis Rp4,16 Miliar Belum Dilelang",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd1ZPdVRhRXh5NW44ay0yUGRnTkROd1U5WGQ3NU9LLWhzY2R0czR2UG9NWkREQkN0S1ZxQW54eHJweHlSNjd4VER2bkdIeVlmV0QyNUN4UE8wYzRPSU5TcnV3Z0Z1dmhlY3BGVUNjM0dfc0tCcGlrbm84Z1RERUZabTM4VXJ6UXhMUGtOOHhPNmQ1OGRZRk1nTmt0ZEpTM0pWWWFJcHZzWV95eW9G0gGyAUFVX3lxTE9aRzZ1TWxkaEZvNHlwUk9MSUwzYVhnckdsQzFHdlJxTjBSeGJtNURIVS00N0toYlVFSkhRT0doZmRNN2xsaHplSjJoeE1fXzhoWC00S3NQOW1fcTF4OEItaWsyOXBlajVmcC1YRjBWcmNIYVNocXlYdWdoNnV1c19oZVVKLVUxVVV6N1o3VVQxU0xGT0UxOXN1X0hFcXFidWZSbGVhajJtNU1QNWtKdXdlSkE?oc=5",
       "sumber": "google_news_rss (Espos.id)",
       "published": "2026-07-13T07:00:00+00:00"
+    },
+    {
+      "keyword": "tender seragam",
+      "judul": "Kejari Singkil Naikkan Kasus Dugaan Penyimpangan Pengadaan Seragam Sekolah ke Tahap Penyidikan",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY1NOakJLV09FdjZPVjd1Y2dYZWc0Rm1oMXloeTh1c2NFZXVNVGFYVHluM045NnAzZnV5WUtsXzRiUGJUZFhPYU8xaXJfQ0FESFpoaE1qSjFsZ1c4dW5wN09wWHJteThNOERXRXFIYU0xS3NVa0hyMGE5NlhWSlJmSUVXdllRaV9yaVo1dktsbGNKUkF6bC1tSXhmd1JaVDlIMU5RRmFHamgyend2YzJmMDFVUVBBSXYxVlNKc256dngwWERXM3hYY21ra9IByAFBVV95cUxPcklPMFZkNXo0OGJZWTNpVFczVWZqMlNsQXdmM01BeDBNcUZBdVJIZXNSZFNGcmJEU0xMQ2Jsdk00eU41VU1PTFFBTTNNbV93U3FHOExCZXp2OXdGMG5BTDhKY1JjT0huNXF1emFLMXFlVjdhWnFlQllncWtNNDlyUTdJck1FdUNrX0p3QlNzMFZHNkNCS0wxUzgwRkduUGdHSktpZXJ5ZHN4NEh0UWpTNXlGajFnOXVTNUoxRkpKYkxoUWQxc0pwYw?oc=5",
+      "sumber": "google_news_rss (BITHE.co)",
+      "published": "2026-07-11T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan seragam sekolah",
@@ -403,7 +481,7 @@
       "published": "2026-07-11T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Ombudsman Sulsel Tegaskan Sekolah Tak Miliki Kewenangan Jual Seragam Sekolah",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -412,7 +490,7 @@
       "published": "2026-07-10T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "SMAN 14 Makassar Luruskan Informasi, Orang Tua Diberi Kemudahan dalam Pengadaan Seragam",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -430,13 +508,22 @@
       "published": "2026-07-09T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pedagang di Pasar Raya Padang Menjerit, DPRD Minta Pemko Evaluasi Pengadaan Seragam Gratis",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "pemerintah",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONjRNelhmTHprdXBnQ3VKekMtaHpMTFpEOXNua3doZXF0SWFMOGZVNXRKM1U5NWNvcm5zU0tDSnZrOUo3UmJvTXM0Rk94R3lYWlNMcE5kempleHl3ZjVaVlYzZDZlTnVLcFZGX3lwVXdkcXkxcTZoWldqMWk1VS1aOTVBc1lwckwwQTdROE1UdjRpWGdzcUZmQ1NQcjBLSGEyM1NpSjdTU0hWQVBRSGc?oc=5",
       "sumber": "google_news_rss (Langgam.id)",
       "published": "2026-07-08T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam sekolah",
+      "judul": "Pemkab PALI Bakal Beri Bantuan Seragam Sekolah untuk Siswa, Jangan Sampai Seperti Bupati Langkat",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTZ5RUJTUENRclQ5allSaWV3OV9aMEk4cHpNNGF6bWtOV2Z6S1R2OHl3dXN5SEc1OE1ZMnQ1VXdGcE1ob3R5VzhJVXFrRjBMeHI1QXlkTFlUdUVGTWR0SzkwSVRwM2JIUjdrUmliZUFZeHdMQ3NZS2RJZ3ZBNG9wVElBU3dITmxiRE5WVkxOekVVV0JsUlJZTm91emNBc182TWtPRVhqSmdHbFNFZTZyUFhhNzg5QQ?oc=5",
+      "sumber": "google_news_rss (Kabar6.com)",
+      "published": "2026-07-07T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -448,7 +535,7 @@
       "published": "2026-07-06T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Pemkab Padang Pariaman Tanggapi Keluhan Masyarakat Terkait Pengadaan Seragam di SMPN 1 Batang Anai",
       "instansi_terdeteksi": "Pemkab Padang Pariaman",
       "jenis_klien_tebakan": "pemerintah",
@@ -457,7 +544,7 @@
       "published": "2026-07-04T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Peringatan Keras! Ombudsman Larang Sekolah Jual Seragam atau Arahkan Pembelian",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -475,16 +562,7 @@
       "published": "2026-07-01T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
-      "judul": "Disdikpora DIY Sedang Susun Regulasi Terpadu Terkait Pengadaan Seragam Sekolah",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakZfOHhuT29QMkxCUGxOM2RrY0wxeDhOUHpTYUhZeGwyVnhpeE9LYk9KVGR2Xzk4NmNwbGFsX2NEMFJMblc3MFlfR2pTVDk0ZWdJRFRHT0ZhN2l6blhndkQ2Ymx0UkVHM2pLamV3NThqSTBkYzhsQi1icmJ1R0lEbmVpb3Zjb3ozTHpCRC00NEdZVUpVYS1FZ2pVTE5VUDNZS1FNVVVZUFRGajJNZkxTMEhtd2w0QTkxV2F3?oc=5",
-      "sumber": "google_news_rss (Tribunjogja.com)",
-      "published": "2026-06-30T07:00:00+00:00"
-    },
-    {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pemkab Batang pastikan pengadaan seragam sekolah siswa gunakan BOSDa",
       "instansi_terdeteksi": "Pemkab Batang",
       "jenis_klien_tebakan": "sekolah",
@@ -493,7 +571,16 @@
       "published": "2026-06-28T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
+      "judul": "Kemendikdasmen Tegaskan Seragam dan Atribut MPLS Tidak Boleh Membebani Orang Tua dan Murid",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTS1JeDR6WURjazlvNHRieTZIczRYS1pTYUtNMk41UHVzLVlTUE9QdlkwN0FCQTVJX29VbTJsZHRTeXNjWTJFbTlyMVB3d3dxeXpfdEpKbF82S3R1MW9Hcm5HWQ?oc=5",
+      "sumber": "google_news_rss (BBPMP Jatim)",
+      "published": "2026-06-26T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan batik dinas",
       "judul": "Bupati Batang Pastikan Mekanisme Seragam Gratis SD-SMP Tepat Sasaran",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "pemerintah",
@@ -547,7 +634,7 @@
       "published": "2026-06-09T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Ringankan Beban Orang Tua, Pemkot Tangsel Gratiskan Seragam Batik dan Olahraga Mulai Tahun Ajaran 2026/2027",
       "instansi_terdeteksi": "Pemkot Tangsel Gratiskan",
       "jenis_klien_tebakan": "pemerintah",
@@ -556,7 +643,7 @@
       "published": "2026-06-06T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Aturan Pengadaan Seragam dan Atribut Masih Banyak Tidak Dipahami Sekolah, Ini Penjelasan ORI Kaltara",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -610,6 +697,15 @@
       "published": "2026-05-18T07:00:00+00:00"
     },
     {
+      "keyword": "pengadaan kain seragam",
+      "judul": "Program Seragam Gratis Siswa Baru di Jombang Kini Dijahit Sesuai Ukuran Anak, Ini Kata Dinas P dan K",
+      "instansi_terdeteksi": "Dinas P dan",
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkhrN2hHd1NhRjdFV2I2eHRHZV82cjVpRkF3cFg2NTY4R2dueVI5cUNhcnhaRFRROVN1Um1uN3VmM3V4NXhQaGJHLThiMExMY0Y1RXBBTmM2TjdHaHB4UUozTW5MbmJHT1FGU3otTmwyb3RxNmtFdWp0NzdPUWFuTnJKWUxRdDlJVkotQ2JBN0w5Ujk0T01UYjJtWnBTckNhdTd2dF9GUVREbnBxZ00zTkN3YUtjMHBMZ3dOX1pleUR6REVwd1YyYnBiYm84LXVwb2M2TDROUDRpbmcteDB0M0hIa0dJU3dsYnc?oc=5",
+      "sumber": "google_news_rss (Radar Jombang)",
+      "published": "2026-05-15T07:00:00+00:00"
+    },
+    {
       "keyword": "tender seragam",
       "judul": "Pengadaan Seragam Gratis Siswa Jombang Masuk Tahap Telaah Hukum, Pemenang Tender Sudah Ditentukan",
       "instansi_terdeteksi": null,
@@ -637,7 +733,16 @@
       "published": "2026-05-04T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan kain seragam",
+      "keyword": "pengadaan pakaian dinas",
+      "judul": "Kejari Sorong Tahan 6 Tersangka Korupsi Pengadaan Pakaian Dinas DPR Papua Barat Daya",
+      "instansi_terdeteksi": "Dinas DPR Papua Barat Daya",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNTBfd1AtcGxrLVJBV1BpOVRZaEZtcG5iVklWNUhFLUkyTVRxTF83cWtaNnp4VldqWnFDTmhINkVnMXRKamZwWGxPRmNObTJObjlLd1pOWWo1MUVpTVpfd1dRVWtPNHdIMURUc1FwMDhXOXUz?oc=5",
+      "sumber": "google_news_rss (Teras Media)",
+      "published": "2026-05-04T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Akhir April Jadi Penentu! Pengadaan Seragam Gratis di Jombang Masuk Tahap Krusial",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -646,7 +751,7 @@
       "published": "2026-04-25T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Kadisdik Siak: Pengadaan Seragam Gratis, Kedepan Wajib Libatkan UMKM",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -664,7 +769,7 @@
       "published": "2026-04-16T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Dugaan penyimpangan Pengadaan Baju Seragam SD- SMP Dinas Pendidikan Rohil, Ketua IMO : Tidak Sesuai RAB",
       "instansi_terdeteksi": "Dinas Pendidikan Rohil",
       "jenis_klien_tebakan": "sekolah",
@@ -718,25 +823,7 @@
       "published": "2026-02-03T08:00:00+00:00"
     },
     {
-      "keyword": "pengadaan kain seragam",
-      "judul": "Anggaran Seragam Gratis di Blitar Melejit Rp6 M, Ongkos Jahit Dibebankan ke Orang Tua Siswa",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQW15V0ZRZ1NmTU81bkhmMTBHZV9HWFk5UGhlR0xVbzdmazBjcXJOajBPV1VUTTVoc0FETlhfYXRPZlAxMVk1VEZXVktVMEpHbFNMbDNKUUhNUkVycm9PS1hDNVRDbi0xSzcwcjdvYXZsdHUyUEk5NkQxTG92VDBFWDd0a2F6bGU3cm00bHhONW15Mzh1ZkIwaGRmbDZpRmYtbW0tR2MzazdaZHNRM2NWaXk1anc?oc=5",
-      "sumber": "google_news_rss (beritajatim.com)",
-      "published": "2026-01-27T08:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan kain seragam",
-      "judul": "Seragam Gratis Jombang Siap Jalan, Pengadaan Dimulai Februari",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamdqS3ZRakVpbWtMeEo2V3RfRXJTRDFhT2J1R1Bvbnh5ZnkzbUloQzVpeWRIX2k1YjdFOVI1S0JIT3B6dUg1UjdwMHc3a1p1amFHLVNadnJvemhnbjhDMkpZaUlsQThoNUpiY244MnpoZDhYaERCQjZWX1FWNktyM280ZVB1UEE0NUlKaFJVMVJOU3ZfZmp5UU43REZGck9mdGJOUjdLWG9PQ3NVbnQ4TW9hUFAzcGPSAbwBQVVfeXFMUG1NSVJRMDJHOEhWNVExR2JFeEo1blpKd2tkV1YtMXU0cmpOV2F1WC1VeHlrWnNDcUp2bGtuNE1xazJXX0VZTnpnOVRlR0pEOXZUWjgyQmFOTlJpcHMtbllTOWZQMXdUdDNYX3BJdmZnUTdJRWktRlVseHhHOENBM3diNEFUamtGVFVKejJpNVVnX2ZNYWlFdTFBZTFKd2xhYjlaNm95dHhiaFhMWnRkRkg4NGdFbTVjaVk0SU8?oc=5",
-      "sumber": "google_news_rss (Jombang Banget)",
-      "published": "2026-01-20T08:00:00+00:00"
-    },
-    {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Disdikbud Kaltim percepat pengadaan seragam sekolah gratis 2026",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -745,7 +832,16 @@
       "published": "2026-01-17T08:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Lapas Geser Terima Pengadaan Bahan/Kain PDH I Kemenimipas Tahun 2025.",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOODdXTEQzM05EaExpLVlZMVlfdjg1TWlUTTdsOFF0VTZOQlZpVzdyR0pyd0NBcWxyQzgtLUlBSFB5SXNnMWlDZ3NDX2VsaEljWmdFYmdMNEp0MWVmTWFEOGxUVzBTSmFjTTBBd181MDFZNko5a2FSYzUxZjRjQm1OSzJrajhNSGw2SEljbnUzUHpFSlZ3ZUpPMGJSRXItc0VJejlJdERrbFZDSllUdlFWYUNOaDVUZVJSNWtCRlVLaDJGeXBGSGU1Ul9VVQ?oc=5",
+      "sumber": "google_news_rss (Kompasiana.com)",
+      "published": "2025-12-31T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Ombudsman RI DIY Terima Kunjungan Pemkot Yogyakarta, Bahas Rencana Pengadaan Seragam Batik Segoro Amarto",
       "instansi_terdeteksi": "Pemkot Yogyakarta",
       "jenis_klien_tebakan": "pemerintah",
@@ -800,21 +896,21 @@
     },
     {
       "keyword": "pengadaan kain seragam",
+      "judul": "Program Seragam Gratis Jombang Berlanjut 2026, Pengadaan Kain Dimulai Februari",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcjc1SVJlT1U4N2hqSVhaVDJMQThpZmFFZzNJVnhhMExFLTZGOWVDTC15bXF1QjYzYjhoa2tvYnVqdzFLbXZGWUJ5T1VmUUFjMUdlSzNqa1VPMGZ3SWUzYzg5LVZUQlBjR1oxcDA5RzhrWHE3SXl5ZzNaZ05CVWhaVDBnOXBpTG5oa0NMODZlREgxQXlTZi1NWGwxLXRLQ01TcUR6eG1kaGFreW0xdE5yczRQUWJYc25vTmRxYkVLdUdWcExlcUlTT0RqRm5sd9IB0wFBVV95cUxObXRKT29oYjJINkNRWWdoN3NYM0tYMU1DSEs2WHVZTXM4TWZDcXZGemhEUjNqMVRYMGhoSlRvSTdleHZTWXozcTU3R0l0Y2NBNXVQNGFnNTV4NEIwelVMTVFEbXV0MHhGYVlVekI0ZFF4TUIwWGYySFItaEJGRU5fRC1FMVJ4TnFTVEZ1ajBXM09kZlhBaGNCQmMxUkZ5cHMtSXVaT05XejlaUWhYZklpUmFfTnJjLUg1SUlPRDhqMjJVbWxmdzBMRVhQMWl0M1NuWmdV?oc=5",
+      "sumber": "google_news_rss (Jombang Banget)",
+      "published": "2025-12-04T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan kain seragam",
       "judul": "Rencana Seragam Sekolah Gratis, Pemkab Bantul Mulai Berhitung Anggaran Pengadaan Kain",
       "instansi_terdeteksi": "Pemkab Bantul",
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWFCT0JPamFNLVcxZ0FJUWstR1psQ0ZZc0Rja0pldGxfdEFaQUNjcy1XVEFQRmRnU0w4VU5OWGRzcXdCNFBfNDZZVzgyV1k3OExJNzVadFZXc3NhYTZVSjYwamYxdng2Tmg4cmNtMnVhT2M2eXlTQmpwaVVYaE1yXy1pTXZ5Uy1Ed0J3TnRPTkpRQ2pPeDdkZ0thbjEwcnJVVExfazVVWU90TWVYbFBHeGtEX3A1aWZuYVpuQjhCYmZ5ZHc?oc=5",
       "sumber": "google_news_rss (Tribunjogja.com)",
       "published": "2025-12-03T08:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan pakaian dinas",
-      "judul": "Polda PBD kawal penanganan perkara korupsi pengadaan seragam DPRP",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEpIeUE1Z3BtT2hfcGNqN283eXBINmN3N3Vfb3NwMElKaldpYWFzNDlZX2RVcTZ6NElENEd2bm1YTVdzR21KMEdTbTJyckowN1JjNFJ0VUpObzRDdVNPMm5ZSEVHakR5VGYwdVVyUnBYRnpFOUx4NThES2pqRmdwTEdnNDNQejZZR2FBNzhQVnpVMG84VmpMSXRtaFlMc19BM0psTmpvcTZhcjYtamt0TFpSTdIBuAFBVV95cUxNTHJDTUFSc0MxY1lSdlJLU21WSDhFbWR3c3ZsckJUTFFWem02Nnd1cTBFUlpVQnBhVGdYU3k0MU53a1BpMUl2UEFNZ0RUNkhRRF84WmE3ZUF6WHU3S2hRaldaSlh5RE0wWWRlVUE3d09ZMk1RVHZXM2ExV3hubFFTcUE0ZGJOUVJoMkJlSTRRZC11NjI0UjY5cmhvR1Z4MkR2VzdhVk1lTUZ3aGRoN2J6c2ZuVDNqa01I?oc=5",
-      "sumber": "google_news_rss (ANTARA News Papua Tengah)",
-      "published": "2025-11-18T08:00:00+00:00"
     },
     {
       "keyword": "pengadaan pakaian dinas",
@@ -845,15 +941,6 @@
     },
     {
       "keyword": "pengadaan seragam PDL",
-      "judul": "PT Gajah Angkasa dan Gajah Paragon, Dua Perusahaan Penyuplai Baju TNI",
-      "instansi_terdeteksi": "PT Gajah Angkasa",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWS1fd1NsSUJVMHhiU01GTFZNcFBlamtqb3RUZmZPUXQtWU1LZmV6NWRUWG1NV3JjSzJFcWZWcWtDNEdOdUg4N25wYTVKZUUtQm5UanJreTRSQmt5Z3JwSkJjNHctaUY4V3cyODdEX0MyVDBRS2lGVEM3bmFaM3BxaTlmMmdoc1R4dU5QcjBFVm14YUNKM0hBQ0FrSERGdkNOOUF2NWJWWHpVb2c5Z2o5NnNsRkcxZzFyTkVhMnpOaWltOU9r0gHKAUFVX3lxTFBsdjBzUFlxUmxJeXhSNUF3ZnpwMzdqS3p6OHhMd2ExcEE2M1A5MXNqUEVYemk4ZXFFbE9wZEFOc2E1QTlwODF4UmJvUTlzVU4zLVhEcFdKQkhBQXY4XzdkYnJ5c0kyUkVDanBVeEpFNWZOd2s2bk1pOFFZcXc5di1oT21TSTZ6aTZ4ZnRHQ2FQMjE2WWxQQ2w0c09oYWwwSGs2bEFKcnI0R2VhbFliMWVDZzJSVnd1N3gyczBqSXFlZjhZdDBlUTlQTmc?oc=5",
-      "sumber": "google_news_rss (IDN Times Jabar)",
-      "published": "2025-10-08T07:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan seragam PDL",
       "judul": "Anggota DPR Akui PDL Baru TNI Tak Dibahas Detail: Urusan Mabes",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "pemerintah",
@@ -862,7 +949,16 @@
       "published": "2025-10-08T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam PDL",
+      "judul": "PT Gajah Angkasa dan Gajah Paragon, Dua Perusahaan Penyuplai Baju TNI",
+      "instansi_terdeteksi": "PT Gajah Angkasa",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWS1fd1NsSUJVMHhiU01GTFZNcFBlamtqb3RUZmZPUXQtWU1LZmV6NWRUWG1NV3JjSzJFcWZWcWtDNEdOdUg4N25wYTVKZUUtQm5UanJreTRSQmt5Z3JwSkJjNHctaUY4V3cyODdEX0MyVDBRS2lGVEM3bmFaM3BxaTlmMmdoc1R4dU5QcjBFVm14YUNKM0hBQ0FrSERGdkNOOUF2NWJWWHpVb2c5Z2o5NnNsRkcxZzFyTkVhMnpOaWltOU9r0gHKAUFVX3lxTFBsdjBzUFlxUmxJeXhSNUF3ZnpwMzdqS3p6OHhMd2ExcEE2M1A5MXNqUEVYemk4ZXFFbE9wZEFOc2E1QTlwODF4UmJvUTlzVU4zLVhEcFdKQkhBQXY4XzdkYnJ5c0kyUkVDanBVeEpFNWZOd2s2bk1pOFFZcXc5di1oT21TSTZ6aTZ4ZnRHQ2FQMjE2WWxQQ2w0c09oYWwwSGs2bEFKcnI0R2VhbFliMWVDZzJSVnd1N3gyczBqSXFlZjhZdDBlUTlQTmc?oc=5",
+      "sumber": "google_news_rss (IDN Times Jabar)",
+      "published": "2025-10-08T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Anggota DPR Anggap Wajar Pengadaan Seragam Baru TNI: Harga Sama, Hanya Ganti Warna",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "pemerintah",
@@ -871,12 +967,12 @@
       "published": "2025-10-07T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam PDL",
-      "judul": "Komisi I DPR Nilai Seragam Baru TNI: Warnanya Cocok untuk Misi-Misi PBB",
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Seragam Loreng TNI Diganti, Prajurit Kodam XIV Hasanuddin Masih Menunggu",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm5RYndOSkVkNHlna3p6RmFHaWZ1T1lfY25aZlpfUS1zdzJ1aVpCczRGd0o5UWloSGpxTExWajdHeGg4RF9UbTRJYVFkdkdkRnV2c2JqUWZNSEJMNk41VmRuOGhvUmlfRmVVeS1IdW12QUR5ZWZuUWVjd0pxd2J0WUctSzZlUVliby1mb0R2SzJlVjBCbmJxbnBybVlvYWZrSkVuUzZmUkhELVBUX2VnNG1QSdIBqwFBVV95cUxPbmEyYjNxSnZxa2k1aE10WVRmaVhVdHRHS1FiYWI4R1JzTnRFUENUNVZIeDFBN3hrV1pibVctWVJUajNJWkFaNXRHNC0weXNZQTlYVktBSndvUnFsdmZ6dXRJX0lsbG1uYUs2aHoxTjMwYldYX2NzOUlaQXFUV2d6NlJrcUZnaExyWnE0aEFFS3J6aWNmUHlKeENobTd0d3pLS0ViaGprX0hQNmc?oc=5",
-      "sumber": "google_news_rss (Liputan6.com)",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGtWMlljdXdRQ01PTFZ1ZmtETFZBZldYTzRvaHNHbVFjb2NoVm1wTkY3MDQtREJiTGd2bmREQ2Z4VjRZQ3JwSTNYZWJlN3EtSEoxbEVRMEJra3ozZHFnSFZLVDRDTGlfVFZwSEpzUkxMUW5uenBVaERLQjhEOVVlZml5dlBDOUFyUEMxQkc2S01ycU9XSXVrdWctRXoxZmJYSGFFTEd2X0VLdnQ5enFQbkNEcWlpQmc?oc=5",
+      "sumber": "google_news_rss (Rakyat Sulsel)",
       "published": "2025-10-07T07:00:00+00:00"
     },
     {
@@ -886,6 +982,15 @@
       "jenis_klien_tebakan": "pemerintah",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3BKeE5qcnpvWHFrbmdFeGxmTThjcEpxbnZMVXphQldOZWFjZ3ZEZHhZS0pNanBzOGZfcXZLdGdXWTYwVGxLZlBGUVZGY0VnMlVDVnE4c2ltVmpMaFdPOVpGdFBkNThiVnI0c29EekxRckFMRGNuNTBySGRTZmszQ3NIckNFZFlqTklRVnpRaUZ3ZHNHeUJsNWczRTRnenF0UEhadkpmUmtxdGV5MTlSdEZ4QUlKNkk2cmFxUWcyaGVvdw?oc=5",
       "sumber": "google_news_rss (Serambinews.com)",
+      "published": "2025-10-07T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam PDL",
+      "judul": "Komisi I DPR Nilai Seragam Baru TNI: Warnanya Cocok untuk Misi-Misi PBB",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm5RYndOSkVkNHlna3p6RmFHaWZ1T1lfY25aZlpfUS1zdzJ1aVpCczRGd0o5UWloSGpxTExWajdHeGg4RF9UbTRJYVFkdkdkRnV2c2JqUWZNSEJMNk41VmRuOGhvUmlfRmVVeS1IdW12QUR5ZWZuUWVjd0pxd2J0WUctSzZlUVliby1mb0R2SzJlVjBCbmJxbnBybVlvYWZrSkVuUzZmUkhELVBUX2VnNG1QSdIBqwFBVV95cUxPbmEyYjNxSnZxa2k1aE10WVRmaVhVdHRHS1FiYWI4R1JzTnRFUENUNVZIeDFBN3hrV1pibVctWVJUajNJWkFaNXRHNC0weXNZQTlYVktBSndvUnFsdmZ6dXRJX0lsbG1uYUs2aHoxTjMwYldYX2NzOUlaQXFUV2d6NlJrcUZnaExyWnE0aEFFS3J6aWNmUHlKeENobTd0d3pLS0ViaGprX0hQNmc?oc=5",
+      "sumber": "google_news_rss (Liputan6.com)",
       "published": "2025-10-07T07:00:00+00:00"
     },
     {
@@ -907,7 +1012,7 @@
       "published": "2025-09-21T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pemkot Sorong gandeng mitra untuk pengadaan seragam sekolah gratis",
       "instansi_terdeteksi": "Pemkot Sorong",
       "jenis_klien_tebakan": "sekolah",
@@ -925,7 +1030,7 @@
       "published": "2025-09-07T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Tender Pengadaan Seragam Sekolah di Donggala Jadi Sorotan",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -950,6 +1055,15 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTEFqeGlad3lWcmlfU0d0NWd3bnc3UGJxd1BVQkIzNzNCdnBBYzRRZ0NKS2dsd3MxaXZ4czczRDhQOC15Rlp1T3JobWs5R2l6V280bVY4b2daX2t0UEQxMzU4NG5zOTVFcElmNkkyZFlkendfX2g4R3FkN1dMUTFodW0wVEUyVnpZS1E0Z0NUWEo3Vkhia1N4MU5PNDJ6ajAtWDRaMU9FSmZ5NVNfNVN3RnBNemsxLU9td0wwUGhkSGhWNE5SbmZIQ2VZMA?oc=5",
       "sumber": "google_news_rss (Ombudsman Republik Indonesia)",
       "published": "2025-07-29T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Tiga Sekolah di DIY Diduga Pungli Pengadaan Seragam, Harga hingga Rp 1,8 Juta",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1NvOEVmdzlHYVFraUVEdmhxTk1qRk9hdk9WUXlMMHE1dUxNMUU1ZXJKNTNmZFlXRGtYa3NCNUx2Yjg4SGNjeTJFY1IzLTJVc21oRlNvVTFIb1VMS0ZpY1NySzlFd25oSlpSY1c2bHZVSlU5RUxWTnh6OVhndDlQYmNHdUpUazl5NmYwY2liM01OSlZHV083ZDJFN29ZemNjdXJ1bWtoVWkzYXdzbkJuWE40M3NaTnl0MkZSMG5VRmtmVm13?oc=5",
+      "sumber": "google_news_rss (Kompas.com)",
+      "published": "2025-07-21T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan batik dinas",
@@ -988,7 +1102,7 @@
       "published": "2025-07-15T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Rancang Seragam Berkualitas, Kemenimipas Jajaki Kerja Sama dengan Balai Besar Standardisasi dan Pelayanan Jasa Industri Tekstil",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -1033,7 +1147,7 @@
       "published": "2025-07-04T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Ombudsman ingatkan sekolah tidak berbisnis seragam saat PPDB",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1067,6 +1181,15 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTJPQnFDSUg5eVFzQ2VDZnY4WmYzamlOVjR3djVNQUlqam1fUjk5dWc3Q3k1TXNvcTdmdnNrRzhobnp1UlFkMXByRlctcV9wRjY1Nl9OcEVpVHl6bFk2ZDBJWkhNejlRZ1U2WE5Wb284LW5xTzA0enBaelJSbjlxc2VraGVMTkRHc0hBWDRwbHFuR2h0eERoYTlEV3R6NHFjMmlmdTdLRzFYZHQtMjJOblBlZVNRbjVOM183alNadm9YZDR2OHREb3V1Z1l5QjjSAdQBQVVfeXFMUGJwTnRhQ0xUbGNuWDVBd1ZRRDNfX1FMdzhzT1VjR0xPbVM1ZHZ3Xy1OYUR5TE5fMnEzYXB4VmZlYkxwamNpd1dHVHVQcHN3cHZjb1VJV3NuSWF5dUFzN1BkMWFPNVdWVG51Vl9MMjBEUEJpbjkwTWFGel9YZjVHdmVkZGNjMVRNMU9ZZ3NrMFhmX1FkZ1p0WlA4azFPZ2dwcmRJdGIyS0x5cGtoaGphYUJfcnVqMnl0bllqQXBXLTk4bXpqN1lLa1NyU3pwNjNUWk02MU0?oc=5",
       "sumber": "google_news_rss (suara-publik.com)",
       "published": "2025-06-26T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan batik dinas",
+      "judul": "Kejari Palembang: Kasus pengadaan batik di PMD Sumsel Jilid II dipastikan bergulir",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEk2dE91Nm9PbVZpbmdWRHk0Ykc1Vkk2WTdndE5PZlJwaUlhNzNXcFBEa3ZXd3pZVzhOelBOZTRUZG9fbTIxLWZjeVRtNDlBTDNma0xESmI2bjA0XzAwV2tFRFJkdHJ2Mnc2Ulo5SUM4bGtPV1ZDMmJMZ0VDaE1razg0NU0xejlSRmg2ckV5V29zRWNTYTlpM2xmS09aUlY2RV9yOHpGdjd6b0ZOb003Yk41UnpVYmhEanZvbDFibFl3MGM?oc=5",
+      "sumber": "google_news_rss (ANTARA News Sumsel)",
+      "published": "2025-04-25T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -1124,15 +1247,6 @@
     },
     {
       "keyword": "pengadaan kain seragam",
-      "judul": "Pengadaan Seragam Gratis Diumumkan di LPSE Jombang, Segini Pagu Anggaran dan Spesifikasi Kainnya",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVmU5Y0VlSEluWU9XV0o1Tk9oZk9NQ1VPamUyZWthanhPeXV4VHpqVldDeG51U2ZjY0ZiM2ZYekN6R2FkTVlsZFZ3cGVkYmp0RXFqUFNkTjN3RGtka1pENF9FSHRHRUVaVV9weWhueVgtbWV1bFhqWnVodFZJNklNN3FXdWthX0JIQU9kRU5fRnFrTV9jTlk4am45VUJTaW1jSTFiRjBNYXA1blVsR205eS1lVm5mRlFkN0NjTThLc21JYlEwM1Q2Tk1KUFpzT2c0VXR0azJ4SHVpRjdLZ2JoM01WOVBnd9IB6wFBVV95cUxOREViSDRlS3BwYUhlSUx4Nm5QSTZzY2F0REZsdGRneUFpU0RrVXlTemo2Q2s4M05HLWZza1Q1VV9SVm1VTzZTZlYyZURsMFpkMVhRekFfLVRvODNId0N2QXJxd0lhQTdXRU9QWDNhb2FQZTI4WU1hckhsN25CN0dHWEdnVjNpMkQxbnlKM2RCLWJodG5TNzZwcjgyeGJIVUo1N1JTdXpac05NSHJ2YW1YOE5WX1ppcmVRcWlrOXFuNGVjNTRIRjlEMjNaQ21zQ3ZXRTI4blVHX0RQSjkxTTBORExnTS1qT1BzNHlR?oc=5",
-      "sumber": "google_news_rss (Jombang Banget)",
-      "published": "2025-02-04T08:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan kain seragam",
       "judul": "Pengadaan Seragam Gratis di Jombang Ditarget Tuntas Sebelum Tahun Pelajaran Baru 2025/2026",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -1159,6 +1273,24 @@
       "published": "2025-01-23T08:00:00+00:00"
     },
     {
+      "keyword": "pengadaan seragam PDH",
+      "judul": "LSM KPK Banten Laporkan Dugaan Korupsi Pengadaan Seragam DPRD Kota Tangerang ke Kejari",
+      "instansi_terdeteksi": "Kota Tangerang",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVpIT29qNUtOVmJVTmZJSXhWSGdvOGUtUy1tV0RlRDJKNUhrLXFrQUZXZ1AtMTA2aXdBblFQSUpzMm9veHpDaWRLYjg4LXVqUmdnUGVIYlBBcDdQZVg1ZzBjWDRXb0dtUkFNTlBma0NSRzc4SXhMQlVTQzRoeEZDLXFpLVFia3ZfcE0tazVlMWFreWVpemtzV0htclA5M1ZrNF9Uejl4c1NtRF9rOUE?oc=5",
+      "sumber": "google_news_rss (Warta Sidik)",
+      "published": "2024-09-18T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Pengadaan Belum Dilakukan Seragam Linmas Dianggarkan Rp980 Juta",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRDJma3ZMd3Zod3F1eXVBN3dhMnpCZl82N29KZFpaOF8wSFoxdVV2Zkh6OENReXZRUk9uZzFNeFpZYk02N1lCVllHMDNHRXl2Y3FCSjVYb1VNUWZGTUFLNVJWUGlJV01KVGNtT19KblhwMDdSNXRnNmlHZnNDRktLVzhYQVhHc2IxY3R2R0hEQnhqQjA?oc=5",
+      "sumber": "google_news_rss (BPK Perwakilan Provinsi SULAWESI BARAT)",
+      "published": "2024-09-05T07:00:00+00:00"
+    },
+    {
       "keyword": "pengadaan batik dinas",
       "judul": "Berikan Keterangan Berbelit, H Wilson Bantah Terima Uang Rp 50 Juta Dalam Perkara Dugaan Korupsi Pengadaan Baju Batik di Dinas PMD Sumsel",
       "instansi_terdeteksi": "Dinas PMD Sumsel",
@@ -1174,15 +1306,6 @@
       "jenis_klien_tebakan": "pemerintah",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPam5QY1oyU201WWtnUWxGS2JObmptR3BjamVtZnlpdmhaWW93dWtTa1BsQWMxZEhSR2xjUWM4QVZUcXBvVkF2N3BkN01wVUF5cmE2OVZwWXFKWFUzcTl3Q056b2dLWVZ3SE94ZDJtaUNUX2RERXFDVFc1b0thYncwZm00S0lwUUZ5dGk1RGZNVlBaTlNDaGZpeFhlakhULUhVTzJnZlFzWW15UTlQRW05aEswN3Y4VVVfSTNYcDJHTWdsS1RLbm5kTUg2Zl9jdWZBemliSXpYWjNqTVV2MHphckMxOTBTVFXSAd4BQVVfeXFMTkZOVHdMZGpJeDBUbWJ4bExUcThkbXpJZWsxT0lnSE1sOEp5M3dJak5FWGV0eU9jbU16Slo2dC1mRFc4b254R2ZfRXJOa3IwVmJ2eW9BQkY0R0lyVWVPYTZNVlpnaEc3Q21JOUxTZ0VnUXlzUnJvMXJBem1rc0NKVHBtNGJkNDBVNmQwQVRXenVZb05fVjh3a21vMUlqX3hUdHZndjBwVGFNMmYwU0p4WS04S0VGTDF0TlI3dE1XTlk0WVl6d1RfMHpBTGd6VWYzYVByOTVIZzhTTThHcUhn?oc=5",
       "sumber": "google_news_rss (Sumeks)",
-      "published": "2024-08-27T07:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan batik dinas",
-      "judul": "Polemik Pencairan 90 Juta, Pembayaran Hutang Baju Batik Dinas Pendidikan Provinsi Babel Terungkap, PPK Bima Mengaku Tidak Tanda Tangan Berkas.",
-      "instansi_terdeteksi": "Dinas Pendidikan Provinsi Babel Terungkap",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaTYtNkJVQWJSNEJMR3JGU25MemdVWWxoWHBlMXBhbTd3X0VLcTNoREhXU3hkeG40NGZqTGNYaWFYYm00dEI0cmpKdlp1ZmF5cm9Md0NfQlVUbnZBaHFNODhjQXBSaUpzZF9wSVdNbDdhanNvUDhkVXpuOFZnRXc4ejkzT3BQTW1rUWF1eGRXUkY0MWYyUVFpS2xraDFSanJqZzFCUE5oX1g0a2otX3Jvd1FYakZ5S0prQ1RVQ2pfeFNWZ2NRc09vSEpRQXBPUVlPNTFOMDdncnRHQl9sRWczNUYtT2I5dWlLeVBDMlF4bXpWMnFERjAydTEyREphNFBSTEFrVVZQTHFfWm5ZZHc?oc=5",
-      "sumber": "google_news_rss (OkeyBoz.com)",
       "published": "2024-08-27T07:00:00+00:00"
     },
     {
@@ -1213,7 +1336,7 @@
       "published": "2024-07-16T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Dewan Pendidikan Babel Soroti Temuan Ombudsman Soal Sekolah Koordinir Pengadaan Seragam",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1276,7 +1399,16 @@
       "published": "2024-03-20T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan pakaian dinas",
+      "judul": "Pengadaan Pakaian Dinas dan Atribut DPRD DKI Jakarta Sesuai Ketentuan PP 17 Tahun 2018",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkFPSEtFMWt4VFlueGN5UW85aWNIUHQ1MHZJaHRPbDJCak94NlpvLS0yeWFUNk5Uc3lrNlpZNGVZaTE5dEZrRFRrTElkbTVwSmNsYlZEUU9UaW13ZnBPRjl1WkYxRGIzbG1ETlBlTzBVODl1UzN6T0VWMkF6NEo4ZnNiVlB0SkJnY3hwZkN5UWpoR29UbFNfdVpXR0tMYXBqZnJPSkRhNV9WbXlaMkdOcm5hdzN4RDTSAbYBQVVfeXFMUHVPUGxFSjVHWGdNakxEajFYTmluTDJNZGRtUFg1dlhHeFk3NlpFc09NUG5Dci1ER1M0S0ZXT0JtU1hTSnN4M3FSRmV4WVVUU2NIUjh3REhieWZWZ0N4VXRzZVF4RTZNWlZsZlB3aHA0T1FMZ3lJSzJ5dWFwSzlXT3BFdHJsZHlsRktOZjhVS0pWS20yLURoNFVkLWs2OUtJTEZjRVc2QVpmbFFyWGJpNFp1WnlRUVE?oc=5",
+      "sumber": "google_news_rss (Disway)",
+      "published": "2024-03-04T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Skema Pengadaan Seragam Sekolah Rp 15 Miliar Via E-Katalog, Kontraktor Wajib Berdayakan Penjahit Lokal",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1285,22 +1417,13 @@
       "published": "2024-03-03T08:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
-      "judul": "Pengadaan Pakaian Dinas TA. 2024, LPKA Palu Ikuti Sosialisasi di Lingkungan Kemenkumham RI",
-      "instansi_terdeteksi": "Dinas TA",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaTM0cXpnRWhZQlhEQXVtWHdnR2ZfbE8zUnd5WVByR0x1YjBGNEpXWVdMMFRMd29BWmJoa0JWdldJY0VXeHJDZVJRaFNlcG54cEJIdExyMXM1dkxHdUhPUm1sY0pyQUlVbEpuQ3pEU2FaQ292X3hfU0llbHhlaURVUERlUVhhUU1rdTBVOU9JanMtOFRTOTFpek5Lak8zTVFzVmtCRnZiZDU1eFBUc0x6dER5V0FmR2l2bnRNOEROdV9jeG02cDRIQlBnOHUyTWZxR1FDNFphVG9rREVwUlNqTUg1bFJKOUZCODNQRlU3Y29lRUtr?oc=5",
-      "sumber": "google_news_rss (Kompasiana.com)",
-      "published": "2024-03-01T08:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan kain seragam",
-      "judul": "Pengadaan Seragam Sekolah Gratis Gresik di Tahap Uji Kain",
+      "keyword": "pengadaan batik dinas",
+      "judul": "Pengadaan Seragam Batik untuk Pelajar dan Pengajar di Bontang Dianggarkan Rp12 Miliar",
       "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDkyMDEtemhaR0NOWEFVNkJPZ2lIblBMZm8yem11Vk44dTRuZ0NDMmdkZ0pNNHVuaUxBVVp2WE9zNmxVN1dCeDkzY3MzbTFxM25rSzhEclh3Y1h1S1FwWWZmZHp3Q2Z0VTlZRVU2emZDWFQ2dXhyUkhqWWE1SEpvR2FtX2c4VGdU?oc=5",
-      "sumber": "google_news_rss (beritajatim.com)",
-      "published": "2023-11-09T08:00:00+00:00"
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkM4TnAyenZTWWtsLWo2cTRmWklRSE5UYl9PQlJHY3hNcEZNZmJFTHgwWUE0bk5udTBuTXBmbndEVkVYMTFCdWJ2dFd2QnVWOUFuRGtuSndiNUxnS2Q5TWdwOXN2Qi1OTG94TXAzXzhob0N2Y1NkQ3QwSEVtRkhZRGtjQ0FTSVhLc2s2MmhrVjZZanBmV3J6N2ktbEVEcWV4RTJHVXJLMV8zYldYTGc?oc=5",
+      "sumber": "google_news_rss (Bontang Post)",
+      "published": "2024-02-16T08:00:00+00:00"
     },
     {
       "keyword": "pengadaan seragam PDL",
@@ -1348,7 +1471,7 @@
       "published": "2023-08-21T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Seragam Sekolah Mahal, Bolehkah Sekolah Mewajibkan Siswa Membelinya?",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1357,7 +1480,16 @@
       "published": "2023-08-14T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam sekolah",
+      "judul": "Menyelisik Biaya Seragam Sekolah Negeri yang ”Tinggi”",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "sekolah",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdElQZXJ1TlRJak9fMExaT0NkQ1R2bUpmUVRuVEQzbmpzd3dvUFJoZ3Nrakp2aXpNTDYzeVFfaTZ0bW9LQTE0b1ZjZ0k5VnJnNlM1Z05EdjBKSHdqWXFfUzhiQUJ1dU5yajk1eGF0SG5UV3dEMFdoUndMd3k5aldUYlRzbzFJWVU?oc=5",
+      "sumber": "google_news_rss (Kompas.id)",
+      "published": "2023-08-04T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
       "judul": "Menyoroti Kebijakan Baru Seragam Sekolah",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1366,7 +1498,7 @@
       "published": "2023-08-03T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan seragam sekolah",
+      "keyword": "pengadaan seragam",
       "judul": "Disdik Minta Pengadaan Seragam Sekolah Tak Memberatkan Siswa",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1384,24 +1516,6 @@
       "published": "2023-07-17T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan batik dinas",
-      "judul": "Kejari Palembang Usut Dugaan Korupsi Pengadaan Batik DPMD Rp 2,5 M",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcklnUjlMdjhiM1VrYWFGemdUZ1hDdEx3MV9KNXdTRDk0R3lwakFQaC1jaDN0Ml9zZ3Y1eEFFalY1VkR2Q1J6b1REYVE3azE2cGZkYmVPZnRzNUpCRWFFRXBNQ19NeTVLYm8taFJPeDdIV0tQRmJ6NE03TEFjaGZNYVJ4cjBvRkpGT1k0RW9PaWhhM01yejI0S0tyVHdwMFppY29YTVpPNkpUbVgtRjR0UlFhQ3Y2YWRPTTBYTGpaRGl1R0dRS2fSAcsBQVVfeXFMTW9zbG9QbXgzUndwekl5NEtmTFZMMVNWQjVISDRud3pPYV9uc2k3dUxiVWs1RlVFZ01ITXB2M2hUeUZlQ24xSlhxcWY1dUpBQnlTR3VUY0hFWUkwVlU5ZEhhc0M0TDVvR2YwVlZCVHJlM0prakhmRGVuMHpNVnhYZFZhalJvTm5qWXZLbWNBQkU0alQ5WUx2QnJsOWNvc2ptWVI0aXdUdk1JV1l2MmplZlkxUFVDM3dJc1A5VXYwdGlfRVg5SzNPcUNJUjQ?oc=5",
-      "sumber": "google_news_rss (detikcom)",
-      "published": "2023-07-13T07:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan batik dinas",
-      "judul": "Penyidik Kejari Palembang Bidik Tersangka Dugaan Korupsi Pengadaan Pakaian Batik Dinas PMD Sumsel",
-      "instansi_terdeteksi": "Dinas PMD Sumsel",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVFITXZNZ2t6NmlxazJHcy1KWUFISHRSMnB6T2kxYWJrYTN5bUJaQWZsNlUtR3lKNFNYN0pia1J3c1dvWERyd3pHanRJOFd6MEdQU28ycHNwTDNiajRubm8wOW1TWTFBOW50MnJpVGxpdUNIVTNGMW4ySkc4M01lYlEyQ3BHSFV4cVc4MGhsRnVJQ0ZsNnlwNmtvN09sUV94VXFLWDkycDFjTUdjOUIxSGplaUw5YTk4ekVBME40N3A?oc=5",
-      "sumber": "google_news_rss (Sumsel Update)",
-      "published": "2023-07-13T07:00:00+00:00"
-    },
-    {
       "keyword": "pengadaan seragam sekolah",
       "judul": "Ombudsman RI DIY Siap Mendalami Kasus Temuan Jual Beli Seragam di Sejumlah Sekolah",
       "instansi_terdeteksi": null,
@@ -1411,7 +1525,7 @@
       "published": "2023-07-05T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Ombudsman Ingatkan Sekolah tidak Menjual Seragam saat Penerimaan Siswa Baru",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1438,7 +1552,7 @@
       "published": "2023-05-19T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Peserta Narakarya dan Naratama Kwarcab Jakarta Pusat Ikuti Sosialisasi Pengadaan Seragam Pramuka",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -1447,13 +1561,22 @@
       "published": "2023-02-04T08:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Kasus Jual Seragam Sekolah oleh Pihak Sekolah Negeri, Ombudsman RI Perwakilan Jawa Tengah Beri Tindakan Korektif kepada Bupati Kudus",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZFVKWF9rZ1IxY0NscWhBWUFVbUpNTVpSQUdKeDlOeXF5VWYwQ3dvWE55V2xVSTRHZnRrVE14RWg2SGRkcXJTQWpXSWpzcUwydXlJTEdHenNIYlNjUjN6elYzZElEX25NaUhSdjE1NmdOUlpzN0t2Y3oyRk9IdXNJZnpSXzBIam5xRjdJMjc3aEZZb2FxX2M4VmQ4c25wT3htSmhsdGtjUWg1RjVIbkpQZ0IyaEhUUUVJOWF4ZHVZWVJVWkxOeUtHdDdIZEU3Yi1UT0x4c3hQeVZEM21hNjVfVUYwTEs4d2U1cWU1OVY0S2p6Ql9fbGlkSVlvZm1Lem1ONFhoTnJIV2hUa2JES1BiVHJR?oc=5",
       "sumber": "google_news_rss (Ombudsman Republik Indonesia)",
       "published": "2023-01-18T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam",
+      "judul": "Penjelasan Ombudsman RI Terkait Temuan Seragam di SMAN 3 Yogyakarta",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXhxM05rZUlnSzV6ZnRxQnBjR3JrYkdnSVQ5Tll2czFObEpkMEdXYWhvZ3JCNEhBcGphUGxxSGhuRlpnSG9kQ3ZRb21TSmtCT2p5cC1neWJzQVF1M2ZfOFpnWmZfWUR0T211cGF0ZHBMRlNEbEhCN3dNZ2NyNVpKWEJPa1YyUUZabmozZzRmMVpwdW1SNzNBWDJyOGE1dTFTTGZHVk1BS2FfZFR0SmZQOC1QXzduV1hPMGQw?oc=5",
+      "sumber": "google_news_rss (Ombudsman Republik Indonesia)",
+      "published": "2022-07-18T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan seragam sekolah",
@@ -1465,7 +1588,7 @@
       "published": "2022-07-18T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan kain seragam",
+      "keyword": "pengadaan seragam",
       "judul": "ORI DIY Telusuri Kegiatan Pengadaan Seragam Sekolah oleh Paguyuban Orang Tua",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1492,6 +1615,42 @@
       "published": "2022-04-08T07:00:00+00:00"
     },
     {
+      "keyword": "pengadaan seragam",
+      "judul": "Setelah Disentil, Polri Nyatakan Akan Ikuti Arahan Presiden Terkait Pengadaan Seragam",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2VsSEs2RHpIdG03NlNzM2lCVk03dGpiZnR4bHlHUU5vel9KMzNfZl8weWQyWXNyWTRDWFBORjhwRmxub1BjY29WR2tsYVVSSHVSclo4UjBZZm5ZdkdRVlNKZDRkN2FpbHFITGVNaFVhTE83Z1BTMkZfd2JCSGRlVXZPSy1JN0VtcThQS3ZCQnl0OHhpLW1tRUFCSmwwNFlPU2t3Mk9VZ0lDb2tmOEVIRFZkdkJWTnVIUnR6dUd3a3AwM3FibnFfQw?oc=5",
+      "sumber": "google_news_rss (Kompas.com)",
+      "published": "2022-03-25T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Biaya Pengadaan Seragam Satpam Bukan oleh Institusi Polri",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ09BZnROVHBXWTlrakVZT2xGSi1wMlNjMEotblh5OFlTV0NSUnIxMnd1bzByT09zVmpSa3lTYjJhY2FOd2c5VXpZZWFWVUFPb2lTaHZ1bG4xcDlVck9tNlBlZjJFUDFYNkYwclBheDlaSzQ5ODh5UThHa3ZlWTlzSlE5Tkd5Wjc0blFZZ3Bn?oc=5",
+      "sumber": "google_news_rss (Jurnal Security)",
+      "published": "2022-02-09T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Polri Tegaskan Tidak Bertanggungjawab Terhadap Pengadaan Seragam Baru Satpam yang Berwarna Krem",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVjY2QmxmeEdtTktSXzVma1JKZjFhTzJLVzJ1NkJxdHBYOFUyTWlHQTNNMW04OXRlT054cG9yb0prUDJhMGwyU0ZZUGNKenlNQVBWMnpmaUQ4ZEowU3dRczhaY3dHN01teVlMZ2RBLThXRE1YM3VMUHJIalFzcllMbW1oS3ZDM2dYRDFtbWYwNndpWG9TR3d4MDNEa1NLMTEtY3FqUUl6RVk3YnQtZWhhejczNnc3ZHc5UW9yb1U4b3VHSkJEbVpuNTY4T2tvVmgtSjVTSW9Mc2pBZw?oc=5",
+      "sumber": "google_news_rss (Tribunnews.com)",
+      "published": "2022-02-04T08:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Seragam Dinas Baru Tak Dianggarkan, Pegawai Diminta Buat Sendiri",
+      "instansi_terdeteksi": "Dinas Baru Tak Dianggarkan",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXN5Z0tUVTdoc0hMbzFKT0xKeXV5VHgzRFV3dnAxZEVob29xSGoyeXdsV2lkWEhab2ZTNVNPdlhxRnFsd1B5WTZvZFNxTm5yTXdvd3VJX3daVEJfLXgwS3JCQl90QnVWR05RN3B3bk9VVWxGcXQ2azd5SUZfMjh5eHBjLXZFeEhOek15NWU3ZWo5VzRkamlpaDF2eTZmNmVrdGd0LWhpcEhGUW9acVFXQ9IBtgFBVV95cUxNd1ZVUzZreHJIS0JUQjZfUDFVMkJ2WFJOV2Z2QXU0dnFsX2xXQlppamU2ZEFQSUx4MHI5VnNadHZ2YlBMamZaNlB3b0k5ZWJERGRKWHR5UVhSNmo2YU9lTnBvb01QbFBEM1otZDRBZUZBTGpoTmhZdFVTSHJxcVlCcDlicEtTZFU2TDdsTXl6aWxYNUhmbFIybHpjQ1ByN1VXRkVqa2s1MFAxTGlha1F0VE5PVWkwZw?oc=5",
+      "sumber": "google_news_rss (Suara Merdeka Kedu)",
+      "published": "2022-01-05T08:00:00+00:00"
+    },
+    {
       "keyword": "pengadaan seragam PDL",
       "judul": "Korupsi Pengadaan Seragam dan Sepatu PDL, Giliran Mantan Sekretaris Dinas Damkar Depok Tersangka",
       "instansi_terdeteksi": "Dinas Damkar Depok Tersangka",
@@ -1516,6 +1675,15 @@
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUFHX1VQcWF0cjVUWWw3akxUdDJ4ZlJDbDBxZXp0R0ZZMWVPb2xPVFV0b1lHcENJQk1mc3lra3FtOG5kT05nTXFPQkVnZnpyalVSRHRyZUtsaU9VRWJyYURlQWtwdWp2eWRwTW9zU2xTUkR1a05aRzF5aGNBZDU4M0FwbEJKTC10aHF6WHE3YzA5cHJ2b3o5bk1JLVVmVjdKaWE4c0twQ1JMc2p3dFoyS1lIdThzRE9pM0wxQjVn?oc=5",
       "sumber": "google_news_rss (Ombudsman Republik Indonesia)",
+      "published": "2021-09-03T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan batik dinas",
+      "judul": "DPRD Situbondo: Pengadaan mobil dinas bupati dan wabup hal wajar",
+      "instansi_terdeteksi": "DPRD Situbondo",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUlRcXFZSWlCQ21hQUR3MnJqcWxhSkpIYlVGbmJEMGZocko0VWV4WENnWEFTcGlURU9oeU05SzJaVnBPeXNGSVNmVGRkUXNhRUx5RzduLVl2Z2s1RC1JRUZ6TEZKbktnN0NLOWpuVDFuSVV5M1pNN3NCRW5aWmtXeGZoclIyU3l2OTVyYjZHcXhvQmRnZHlmcG5xTFRfV0FmTmdmdWoyT0ZYUdIBrwFBVV95cUxNMFhZTkN4V0JVdmw2QWoyVGY1NUJydGM4X3ozd290SnNRQVE5eGt1ejdodU1vOUZGN2VBam5QZ2k4U28yUDRsQXhlOVNmMHVjQjREc2pTUFkyOWZoNHprVVVqVnNDeTAyYWQwQ0FaMFBFZ05IWnQ1OTUxWmlvS1ZHbDVMam4yamE5VDlkZk1EZ0ZYYUlLMFE3ZkdzdF9yZTdFVzlodklSYTdxOXVtUGtR?oc=5",
+      "sumber": "google_news_rss (Antara News jatim)",
       "published": "2021-09-03T07:00:00+00:00"
     },
     {
@@ -1564,7 +1732,7 @@
       "published": "2021-08-11T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan pakaian dinas",
+      "keyword": "pengadaan seragam",
       "judul": "Soal Seragam Sekolah, Kadisdik: Kalau Cari Untung Jangan Kebangetan",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
@@ -1573,13 +1741,13 @@
       "published": "2021-07-24T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
-      "judul": "Pengadaan seragam gratis bagi peserta didik baru Penajam proses lelang",
-      "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "tidak_diketahui",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVc1MHg4TklTUzRMQnhKWEtTUTJvYlg1TzNkSk9wekZaYktjMTRXWC0xaVJSa0FOd2VlaS1OMnhhbEZrNlZoUWpGU2hjeVZ6LVJBaTU3dWw0SEZQMnByb0dBR05EVjlIcXMwUmMta1ZfalNXQXNka0NpV0hHWnpKTlZUTUNXd1A2MUwtNHpoM2FBelBibG15RXQ0dEpWQ09sclZicUFGUnlOQzl2S18yLVV0c1LSAboBQVVfeXFMT0F4UFlkWlNpOUlXQzZWQjV1ZVk5SnpXcy1yV0FSZWJZc2dMVXVBMk5JcGdVMmtpV2x0QzdVVmkxWm05YnY0OUR4aTc1TTUwbHlnMVZqVXZVdGdKaUVQcEJYZHJOZVhxdm5oUkNLellicHYzUDRxTHlFWkY4ZG9LMDJoNkFvNEt1UUxjOEhLRjJYSUhuQ3hNSW5OMVdGakFnUVgwVXA0T25wa3VIbnlDazVEMTRCOWdVSDlR?oc=5",
-      "sumber": "google_news_rss (ANTARA News)",
-      "published": "2021-07-16T07:00:00+00:00"
+      "keyword": "pengadaan pakaian dinas",
+      "judul": "Harga Pengadaan Pakaian Dinas Harian Dimahalkan Rp59 Juta Lebih",
+      "instansi_terdeteksi": "Dinas Harian Dimahalkan Rp",
+      "jenis_klien_tebakan": "pemerintah",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmMwUW44Z2N2NUxzcWN3RUVzQlBuaXN6N1JwMlZPR2NCbFkxYWxJV21rLVQ5LWhRV25VWFNwc1NESl9hSzlzR3Btd1pxaG5lVEhWWXBxWmZwLUh5My1Cd3lpRXI0U1l5ZzZGeVF6eFNfd1B2Uno3Z2E4OTNoTXRwVFFSZ2pnQnJ2M1dobU9TN09sQnJlbng3Nl9zZzlDTEVNY1E?oc=5",
+      "sumber": "google_news_rss (MODUS ACEH)",
+      "published": "2021-06-04T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -1589,6 +1757,15 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXI0VFlJTnhRVy1WNVQ0VDJ2N3BtMi1iVkgwbmg1V05rLVh2SkFKZTBMWmdBTFNkaV9QS1NmY1Brb0VkU05SamNrcXYtNzZoazY2ckhUWC1HNUY2bnJ2blljbVMwQUJpUzJtRlBZS0RIcTJ3WnpFeklVR2hSQnBXamJDYWN0SzJrMW81Z09UTFNkWXVTYTNrbFZaeW56dWFGclQwYjd2T19ibUFL?oc=5",
       "sumber": "google_news_rss (RM.ID)",
       "published": "2020-10-20T07:00:00+00:00"
+    },
+    {
+      "keyword": "pengadaan batik dinas",
+      "judul": "Kontrak E-katalog Permudah Pemerintah Adakan Barang/Jasa Bibit Lada dan Batik Lokal",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjBUalNLN2lONThsYlRjMXpaWlFiZXVlZkJROHVqRmswblVwcURvS2ZYNjVnQTV0Nm5ybHh1ZWJsMjhnUEN6aW8wQ0VDT01QM2lWSG9qV21QT1ZyVDJpdUlGdXBkbHdDSTAzOENSeVBNeUhWVkRVMGhJYnZDdHEtSFBWbUxsOVF3SW5Ia041M1RrQ3dncnAxVndCUTQyX0o0b1NRblE4a3hWWlJnNkI0ZmxibTV3V2hMMmgyV0ZwNA?oc=5",
+      "sumber": "google_news_rss (Pemerintah Provinsi Kepulauan Bangka Belitung)",
+      "published": "2020-10-05T07:00:00+00:00"
     },
     {
       "keyword": "pengadaan batik dinas",
@@ -1681,6 +1858,15 @@
       "published": "2019-04-09T07:00:00+00:00"
     },
     {
+      "keyword": "pengadaan seragam",
+      "judul": "Panitia PPDB SMPN 4 Ngaglik Akui Tarik Biaya Seragam",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFFsSU9QQXZUOEoyZWxfY25LeDNJRmhjUjZYVFlYalJDU0R6RWF1dkF1U2plZ3kwZkZFWE5yZXd3eFB4dEZEZXdUTkhnek5SVk5YWW42LTZtdjRYdFZjSkxacUVPNTdlSXNmMEVBNFYySEVwVEY4Qjl3UUJuNDByY2I5VVp5Wnd5MjVKS2tNRjZUTzExSGN3VUN3NFF3OE5I?oc=5",
+      "sumber": "google_news_rss (Ombudsman Republik Indonesia)",
+      "published": "2018-07-10T07:00:00+00:00"
+    },
+    {
       "keyword": "pengadaan batik dinas",
       "judul": "RADIO KOTA BATIK PEKALONGAN",
       "instansi_terdeteksi": null,
@@ -1690,31 +1876,22 @@
       "published": "2018-05-12T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan batik dinas",
-      "judul": "BPK Periksa Satu Per Satu Seragam Batik Dinas",
+      "keyword": "pengadaan seragam PDH",
+      "judul": "Pemko Langsa Tetapkan Tiga Seragam Baru PNS",
       "instansi_terdeteksi": null,
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenAwelhfZ3NZR1RQcWlnNzVMZ2tNS2Y5UXRKUkNvSEpQR0liRnlaN1VoMkNBaldHSlBlV0ZxMzJzZlc1eWFMVXkwOThrRDhZLW1zNzNMVy1NenUxQjlHMnR6ZjFtcjZkamhLWDlEN3BPVDhxRnJpMjJkd2Z5RTcydEMydVp4X0dHYm5XQ3ZZUVVjM3BBUU9sYkdUZWhrd9IBowFBVV95cUxOUlRQSk1DOXlSS3AzRW43VzU4OWF0eTlqYXA2YklJUkE2UGwwVjVLM0VzUUJOQmVEQzZMMmJPZmJHMTZNN3phcjMtcjFPMXMxSnoxU1ZFOTliMjhjS2lfYjJUUTlsOXB2blhqZTNZRERGVlphYUtkSXkybGdRU1lzZUJlYnF6WW12dE8xNjVhSXA4VmRfRUVYbEZpUVFLNVQwRmI4?oc=5",
-      "sumber": "google_news_rss (Suara Merdeka)",
-      "published": "2018-03-01T08:00:00+00:00"
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDBLcDdvZXZaTDVFZklIbjdZblhkdGpfZ2JFdV9idXlCa2hYTWZzMDVFd3k2TXVGRVpBdzhhdzlyaExVT2JKZ2VQdWRNV0VfUmFqSm15U1U1ODNOWFF5Y2lZajFsR3J5ckE5LUFZNTFrMWJuSXJhXzQ0WE1RbnpReTdscFExOG_SAYQBQVVfeXFMUEtoRjM1YWNoa1ZpOEFzVUVuTGZ3b1V0RHJHVzA5cGdXZGNna3ZfTFZid09CR2QzNDlBVDdrZFFMa3NHSGQyejd0eXJxalVtRVk5MEVLYUV6YVZVMkIyQ1lMQ0RsMmZNcElZZ2pDWjQxRXpoVjNGN1Y4TERCTzV4Q2tPd1hr?oc=5",
+      "sumber": "google_news_rss (AJNN.net)",
+      "published": "2016-03-14T07:00:00+00:00"
     },
     {
-      "keyword": "pengadaan batik dinas",
-      "judul": "Gile, Staf Pemkab Bekasi Dapet Batik Seharga Rp.275 Ribu.",
-      "instansi_terdeteksi": "Pemkab Bekasi Dapet",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMU4tdUhydi1iOHgzdUI4RGtkRmNrQ194TV9hX2JsMFFkLVNabmlpblR1bU8xOVhmb2JFVW0wOFRVRVZzdm1uakdVay1weU13TFdZUG5ocEpWdjJuWGlVZGZGcmdEVnNTT2FiT0FoSzBfalpqdWJoM1Bpbjc4LVFXN0U1ckk4VUtCOTg3NW5KTGcwd3Jpc09SWA?oc=5",
-      "sumber": "google_news_rss (Bekasiekspres)",
-      "published": "2017-04-04T07:00:00+00:00"
-    },
-    {
-      "keyword": "pengadaan pakaian dinas",
-      "judul": "Pengadaan Pakaian Dinas Sedot Rp 3,1 M",
-      "instansi_terdeteksi": "Dinas Sedot Rp",
-      "jenis_klien_tebakan": "pemerintah",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoTWJzQnRydW9UZXBudnllZU1rTUVsUzc0TVNJNWN2clk5dXJNUW01OWwwTUtHZC13eGxuRVZLRlNEOXIzOXVSSWdiSThhdjFXVnlXYnFrbTJUeVMzX0paTkZlR3VmVF84V0w3ekR1VmRSUE90MzlEY1FhRnJIMlk?oc=5",
-      "sumber": "google_news_rss (NUSABALI.com)",
-      "published": "2016-08-20T07:00:00+00:00"
+      "keyword": "pengadaan seragam PDH",
+      "judul": "PENGADAAN SERAGAM : Rogoh Rp200.000, PNS Solo Keluhkan Seragam Baru",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkxoS3hLZk5IOER3UXo5Ti04dkZYQ2ZOckJvMWc3NUZydlptZTc2NmpWSVlqazJ1c1piYnJLd2t5MDJudjBRR0xNNFBFYW9jenBBUVFoc3daZGFHZGpOWlFKM0xKemhEVXplOXYwQ1JpbmlJMTVFZnhIOWpuNGQ1QWlIQXdNZE9ON2NsMU1ta0lMNGFuZzdBRThLa9IBogFBVV95cUxPMEJGcFp4SWlGZGdrT05fYzNhcmtKM2tUbnB0WDV1MDZYS2tMdTJoNXFNdVdreFNMSUtoWnpTQlltSnI2aHFFTnhUWGJqNnp4RFU3N18zbU92aFVOeEVTajI0QkY3amh2SGo1NGNickFPTTRkNXZtVEpncHRaQWR2RW1GNmRKZHYyM0Zndk1QV2JORFMyUF9YLXk1VHU1Y3JwYXc?oc=5",
+      "sumber": "google_news_rss (Espos Indonesia)",
+      "published": "2015-12-29T08:00:00+00:00"
     },
     {
       "keyword": "pengadaan kain seragam",
@@ -1722,20 +1899,20 @@
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "sekolah",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2NSOXl5THFmSHVLZHNsak1SOVNsR2I1ZWl1RXBnaS1jbFZaOGp1Vllhdkg2ZlVNS2tBcHQwM1FVcXQxby1TTDRaT1RLc1ZxQXhJRERQQVVrNzNvajNPeGF5YnZIaER4ay02LUdudmt2RW9SMkhlMjloQ0p4cVNUckhXR3MyM2haa3laYkdSOHYxY1VicUJnVUZqM3BBQzlIOXfSAacBQVVfeXFMTmZMMUlpMi1rNUpLMU12U0haU3I1T0RZbmk1c281OFJvQ1RPTDdUbkFMZEN0aTRaZmJueURsVzUwQmdJYVRSZmlWbXdqNXRJb1B1TFcxTHNpTnZCX2VqUFVsS1Jadkt4NWkyYXlWYWRZSWpUOWxjTEJhWmx6dGNpdUZyaWZtamJVNkdKQk9EOG53aFI4aWVUNENoOXN4OHpDbWJOR3MxZ2c?oc=5",
-      "sumber": "google_news_rss (Espos.id)",
+      "sumber": "google_news_rss (Espos Indonesia)",
       "published": "2015-10-05T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
-      "judul": "Pemkab Gorontalo Utara Percepat Tender Seragam Sekolah",
-      "instansi_terdeteksi": "Pemkab Gorontalo Utara",
-      "jenis_klien_tebakan": "sekolah",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTjdhUVJ2c2pwRVZCSGtuNk15ZF9RcEU5VWJiZXVrMjQ1cUIwbW8yT2pfamNlQ08zSlN5dGdVUUpzdzdKQ2tzTVRENkhwNDZGc0NVM3Vrcml2U01nTEtENndJSUVwTDFERUs4ZHI5TFVaOUozSVdmamNZNWY4Wk9lcTBfQmVQbFpKZy05TkQtWEg3VlFlZjU3blI0ZXlrOGtEX0HSAacBQVVfeXFMTmY4a2tLdkpCdEZFNDVTNGQxSl9zU3ZPcm1kYkNwZ09MM2l1WF9qWm14bC1KS1ZOd2tBODhpQ2Z0YW9nQVBhU1VUWlJRVU83S29hUWZ1YkZEODE4ZlUzM2RGY3FXaHREM0FsbTJLUzhFRnBxUE5qTEc2MERxTXg2R0l1c0I1dDZWcEN5U3FaVmZsWFBmWS1PbXRxSFVnSkxpeE5uWDNCdzg?oc=5",
-      "sumber": "google_news_rss (ANTARA News Gorontalo)",
-      "published": "2015-02-09T08:00:00+00:00"
+      "keyword": "pengadaan seragam",
+      "judul": "Pengadaan Seragam Loreng Brimob Mengundang Pertanyaan",
+      "instansi_terdeteksi": null,
+      "jenis_klien_tebakan": "tidak_diketahui",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0NLUFlBTDhfZTdBSjQ5czVzWmVtaWhOOERPV080MGU3WGdCLWZSY3pOdXBiTExjRDhaRHlPM2dwUW03LVcycnlHU2dnaXRKY3Jrc0o2MFl6V3ZNeHI2SEpBNk1VbDZIeUplbTR4SkhLblRpYXFzSWxiMm1DbjM0MV81dFBBajk1Wm5pS21SVWxVWDU2d21fRzBtVG5scDRacWdDQUxjdVZpdF9FZTR3QktjM3lKZw?oc=5",
+      "sumber": "google_news_rss (CNN Indonesia)",
+      "published": "2014-11-24T08:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pengadaan seragam batik PNS libatkan pembatik Bantul",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
@@ -1744,7 +1921,7 @@
       "published": "2014-09-20T07:00:00+00:00"
     },
     {
-      "keyword": "tender seragam",
+      "keyword": "pengadaan seragam",
       "judul": "Pengumuman Pemenang Pengadaan Seragam dan Perlengkapan DTU Kesamaptaan T.A. 2012",
       "instansi_terdeteksi": null,
       "jenis_klien_tebakan": "tidak_diketahui",
